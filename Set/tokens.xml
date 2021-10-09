@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <cards>
+	<card>
+    <name>Chicken Egg</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
+    <manacost>0Q</manacost>
+    <type>Nature Unit — Bird</type>
+    <color>G</color>
+    <pt>0/1</pt>
+    <tablerow>1</tablerow>
+    <text>[Pacifist]
+{Echo} Summon a 2/1 Chicken token.</text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Chicken</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit — Bird</type>
+    <color>G</color>
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	<card>
+    <name>Nestling</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit — Bird</type>
+    <color>G</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Scroll</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">TK</set>
+    <manacost>0Q</manacost>
+    <type>Arcane Relic</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>Sacrifice: Cast the attached support.</text>
+    <token>1</token>
+  </card>
+	<card>
+    <name>Drone</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	<card>
+    <name>Option</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>3/2</pt>
+    <tablerow>1</tablerow>
+    <text>[Swift]</text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Metal Facsimile</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>XQ</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>X/X</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	<card>
+    <name>Spawn</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	<card>
+    <name>Dire Spawn</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>3/2</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Fledgling Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>4/3</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Boulder</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Neutral Unit — Animation</type>
+    <color></color>
+    <pt>0/5</pt>
+    <tablerow>2</tablerow>
+    <text>[Guard], [Pacifist]</text>
+    <token>1</token>
+  </card>
+  </cards>
+</cockatrice_carddatabase>
