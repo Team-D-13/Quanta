@@ -230,11 +230,11 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
 	<card>
     <name>Stampede</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
-    <manacost>5Q</manacost>
+    <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Reveal the top 4 cards of your deck and summon up to 2 units which cost 3Q or less among them, then shuffle your deck.
+    <text>Look at the top 4 cards of your deck and summon up to 2 units which cost 3Q or less among them, then shuffle your deck.
 
 
 
@@ -1381,7 +1381,7 @@ Deal 3 damage to all units.</text>
     <pt>1/2</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>{Death} Create a 1/1 Drone token.</text>
+    <text>{Death} Summon a 1/1 Drone token.</text>
 	</card>
 
 	<card>
@@ -1460,7 +1460,7 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Death} Create X 1/1 Drone tokens, where X is this unit's strength.</text>
+{Death} Summon X 1/1 Drone tokens, where X is this unit's strength.</text>
 	</card>
 
 	<card>
@@ -1522,7 +1522,7 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>Your Construct tokens have +2 Strength.
-{Summon} Create 2 1/1 Drone tokens.</text>
+{Summon} Summon 2 1/1 Drone tokens.</text>
 	</card>
 
 	<card>
@@ -1532,7 +1532,7 @@ Exert: Destroy a relic.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert a relic you control: Create a 1/1 Drone token.</text>
+    <text>Exert a relic you control: Summon a 1/1 Drone token.</text>
 	</card>
 
   <!-- Outsider -->
@@ -1555,7 +1555,7 @@ Exert: Destroy a relic.</text>
     <pt>1/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Death} Create a 2/1 Spawn token. Deal 2 damage to your Quanta Lord.</text>
+    <text>{Death} Summon a 2/1 Spawn token. Deal 2 damage to your Quanta Lord.</text>
 	</card>
 
 	<card>
@@ -1578,7 +1578,7 @@ Exert: Destroy a relic.</text>
     <pt>3/3</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>Exert: Annihilate a unit from a graveyard. If you do, create a 2/1 Spawn token.</text>
+    <text>Exert: Annihilate a unit from a graveyard. If you do, summon a 2/1 Spawn token.</text>
 	</card>
 
 	<card>
@@ -1589,7 +1589,7 @@ Exert: Destroy a relic.</text>
     <pt>1/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Create 2 2/1 Spawn tokens.</text>
+    <text>{Summon} Summon 2 2/1 Spawn tokens.</text>
 	</card>
 
 	<card>
@@ -1623,7 +1623,7 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>Whenever another unit dies, select an effect...
-- Create a 2/1 Spawn token.
+- Summon a 2/1 Spawn token.
 - Horrors you control get +1/+1.</text>
 	</card>
 
@@ -1635,7 +1635,7 @@ Exert: Destroy a relic.</text>
     <pt>5/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Create 4 1/2 Black Guard tokens with [Guard].
+    <text>{Summon} Summon 2 1/2 Black Guard tokens with [Guard].
 Has [Invulnerable] and [Shroud] while you control a Black Guard token.</text>
 	</card>
 
@@ -1697,7 +1697,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Sacrifice a unit. Create a copy of another unit.</text>
+    <text>Sacrifice a unit. Summon a copy of another unit.</text>
 	</card>
 
 	<card>
@@ -1718,7 +1718,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <color>B</color>
     <tablerow>0</tablerow>
     <text>Whenever a friendly unit dies, your Quanta Lord heals 1 life.
-Exert and pay 3 life: Create a 2/1 Spawn token.</text>
+Exert and pay 3 life: Summon a 2/1 Spawn token.</text>
 	</card>
 
 <!-- Nature -->
@@ -1779,7 +1779,7 @@ that vile liquid is tearing me apart even now."</text>
     <type>Nature Unit — Human Mage</type>
     <pt>2/2</pt>
     <color>G</color>
-    <tablerow>2</tablerow>
+    <tablerow>1</tablerow>
     <text>{Summon} Give a unit [Swift].</text>
 	</card>
 
@@ -1799,11 +1799,11 @@ that vile liquid is tearing me apart even now."</text>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Plant</type>
-    <pt>4/6</pt>
+    <pt>2/6</pt>
     <color>G</color>
     <tablerow>2</tablerow>
     <text>[Guard]
-Exert: Gain 3Q.</text>
+Exert: Gain 2Q.</text>
 	</card>
 
 	<card>
@@ -2601,7 +2601,7 @@ A long journey can change people.</text>
     <type>Mythical Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>For each card in your hand, create a 3/3 Elemental with [Swift]. Destroy them at the end of your turn.
+    <text>For each card in your hand, summon a 3/3 Elemental with [Swift]. Destroy them at the end of your turn.
 
 
 
@@ -2934,9 +2934,9 @@ The fettered return. It is their turn.</text>
 	<card>
     <name>Dessicated</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
-    <manacost>5Q</manacost>
+    <manacost>7Q</manacost>
     <type>Outsider Unit — Undead</type>
-    <pt>3/3</pt>
+    <pt>2/2</pt>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>{Summon} Steal 1 strength and toughness from all other units.
@@ -3149,7 +3149,7 @@ We tend to destroy what we can't understand.</text>
     <pt>7/7</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>At any time, you may purge this unit.
+    <text>{Flash} Purge this unit.
 
 
 
