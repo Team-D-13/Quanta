@@ -1958,11 +1958,26 @@ Training is never over.</text>
     <pt>2/3</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Flash} Pay 3Q: Swap this in your hand with a unit you control (Anything that was targeting it is targetting this now).
+    <text>{Flash} 3Q: Swap this in your hand with a unit you control (Anything that was targetting it is targetting this now).
     
     
     
 He could be anywhere. He could be ANYONE.</text>
+</card>
+
+<card>
+    <name>Black Widow</name>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessInsect.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Neutral Unit — Insect</type>
+    <pt>1/2</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Guard], [Toxic]
+    
+    
+    
+The morgues are overflowing. Corners must be cut.</text>
 </card>
 
 <card>
@@ -2042,6 +2057,29 @@ The paladins of the Church of Iron are implacable.</text>
 </card>
 
 <card>
+    <name>Animate Armory</name>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessAnimation.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Animation</type>
+    <pt>1/5</pt>
+    <color></color>
+    <tablerow>2</tablerow>
+    <text>[Guard]
+{Summon} Give a unit +3 strength.</text>
+</card>
+
+<card>
+    <name>Bound Thunder</name>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessElemental.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Elemental</type>
+    <pt>3/1</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Death} Deal 3 damage.</text>
+</card>
+
+<card>
     <name>Eternal Paladin</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessUndead.png">C1</set>
     <manacost>5Q</manacost>
@@ -2054,6 +2092,33 @@ The paladins of the Church of Iron are implacable.</text>
     
     
 Though no new Eternals have been inaugurated in millenia, they still infest the ranks of the true believers.</text>
+</card>
+
+<card>
+    <name>Living Discontinuity</name>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessAnimation.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Neutral Unit — Animation</type>
+    <pt>7/6</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Annihilate a card until the end of this turn.
+    
+    
+    
+It lives in the spaces between seconds.</text>
+</card>
+
+<card>
+    <name>Radiant Giant</name>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessTitan.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Neutral Unit — Elemental Titan</type>
+    <pt>7/7</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Aura]
+Has [Immune] while it has [Aura].</text>
 </card>
 
 <card>
