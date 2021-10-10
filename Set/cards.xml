@@ -9,6 +9,7 @@
     </set>
   </sets>
   <cards>
+<!-- ###################################################################################################### -->
   <!-- Core 1 [C1] -->
 	<!-- Flan -->
   
@@ -608,7 +609,7 @@ Exert and pay XQ, where X is the number of Knowledge counters on this relic: Put
     <name>Machinery Mobilization</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>0Q</manacost>
-    <type>Science Support — Trigger</type>
+    <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Summon a Construct from your hand. Destroy it at the end of the turn.
@@ -621,7 +622,7 @@ Exert and pay XQ, where X is the number of Knowledge counters on this relic: Put
     <name>Acid Rain</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Science Support — Trigger</type>
+    <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Activate when an opponent summons a unit. Deal 3 damage to it.
@@ -634,7 +635,7 @@ Exert and pay XQ, where X is the number of Knowledge counters on this relic: Put
     <name>Budget Bomb</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Science Support — Trigger</type>
+    <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Activate when a unit you control is destroyed by battle. Destroy the unit that killed it.
@@ -885,7 +886,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
     <name>Life Link</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Outsider Support — Trigger</type>
+    <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Target 2 cards. This turn, if one dies, so does the other.
@@ -898,7 +899,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
     <name>Flesh Revolt</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Outsider Support — Trigger</type>
+    <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Activate when an enemy unit attacks. You choose the attack target (it can be another enemy unit).
@@ -911,7 +912,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
     <name>Corpse Corruption</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Outsider Support — Trigger</type>
+    <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Summon a 3/2 Dire Spawn token for each unit destroyed this turn.
@@ -1097,7 +1098,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <name>Clockwork Angel</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Neutral Support — Trigger</type>
+    <type>Neutral Support — Flash</type>
     <color></color>
     <tablerow>3</tablerow>
     <text>Summon this card as a 3/6 Construct with [Guard]. Return it to your hand at the end of the turn.
@@ -1161,13 +1162,12 @@ Sacrifice: Gain XQ, where X is the number of Ichor counters that were on this re
 #</text>
 	</card>
   
-  <!-- Pure -->
+	<!-- Pure -->
   
   <!-- Arcane -->
-
-<card>
+	<card>
     <name>Dana Pyrus, Spark Keeper</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Human Mage</type>
     <color>U</color>
     <loyalty>35</loyalty>
@@ -1177,9 +1177,9 @@ Sacrifice: Gain XQ, where X is the number of Ichor counters that were on this re
 
 
 The last breath of the Pyre still smoulders, awaiting the day it will be rekindled.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Bolt Juggler</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>1Q</manacost>
@@ -1188,9 +1188,9 @@ The last breath of the Pyre still smoulders, awaiting the day it will be rekindl
     <color>U</color>
     <tablerow>1</tablerow>
     <text>Whenever you cast a support, deal 1 damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Unstable Pyromancer</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>2Q</manacost>
@@ -1203,9 +1203,9 @@ The last breath of the Pyre still smoulders, awaiting the day it will be rekindl
     
     
 The brightest flames burn fastest.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Tome Sifter</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
@@ -1218,9 +1218,9 @@ The brightest flames burn fastest.</text>
     
     
 There is always more to learn from the past.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Bloodcaster</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
@@ -1234,9 +1234,9 @@ There is always more to learn from the past.</text>
     
     
 Life is a powerful fuel.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Spell Hoarder</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
@@ -1245,9 +1245,9 @@ Life is a powerful fuel.</text>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>{Death} Search your deck for a support that costs 2Q, then add it to your hand.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Stormchaser</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
@@ -1257,9 +1257,9 @@ Life is a powerful fuel.</text>
     <tablerow>1</tablerow>
     <text>[Aura], [Pierce]
 Whenever you cast a support, this gets +2 Strength this turn.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Warmage Frontrunner</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>5Q</manacost>
@@ -1268,9 +1268,9 @@ Whenever you cast a support, this gets +2 Strength this turn.</text>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>Whenever you cast a support, Mage units you control get +1/+1.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Greater Battlemage</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>8Q</manacost>
@@ -1283,9 +1283,9 @@ Whenever you cast a support, this gets +2 Strength this turn.</text>
     
     
 He always comes back for more.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>The Luminant</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalArcaneAscendant.png">C1</set>
     <manacost>10Q</manacost>
@@ -1295,9 +1295,9 @@ He always comes back for more.</text>
     <tablerow>1</tablerow>
     <text>[Aura]
 {Summon, Death, Attack} Look at the top 4 cards of your deck. Reveal and add a support from among them to your hand and put the rest on the bottom of your deck.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Leech Velocity</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
@@ -1305,9 +1305,9 @@ He always comes back for more.</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Stun a unit. Draw a card.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Accelerate Thought</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>5Q</manacost>
@@ -1315,9 +1315,9 @@ He always comes back for more.</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Draw 4 cards, then discard a card.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Flashfire</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>6Q</manacost>
@@ -1326,19 +1326,19 @@ He always comes back for more.</text>
     <tablerow>0</tablerow>
     <text>Costs 1Q less for each unit an opponent summoned this turn.
 Deal 3 damage to all units.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Chain Lightning</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>6Q</manacost>
+    <manacost>5Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Deal 3 damage. Deal 2 damage. Deal 1 damage. You can not select the same target more than once.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Wand of Blasting</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
@@ -1346,9 +1346,9 @@ Deal 3 damage to all units.</text>
     <color>U</color>
     <tablerow>0</tablerow>
     <text>Your supports deal 1 additional damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>The Duplex Codex</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalArcanePassive.png">C1</set>
     <manacost>5Q</manacost>
@@ -1356,14 +1356,12 @@ Deal 3 damage to all units.</text>
     <color>U</color>
     <tablerow>0</tablerow>
     <text>The first time you cast a support each turn, cast it again.</text>
-</card>
+	</card>
 
-<!-- Science -->
-
-
-<card>
+  <!-- Science -->
+	<card>
     <name>Kreltak, Banished Technopriest</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <type>Science Quanta Lord — Human Soldier</type>
     <color>R</color>
     <loyalty>35</loyalty>
@@ -1373,9 +1371,9 @@ Deal 3 damage to all units.</text>
 
 
 "They told me I didn't treat the machines with enough respect. I say we've never learned more from them."</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Metadrone</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>1Q</manacost>
@@ -1383,10 +1381,10 @@ Deal 3 damage to all units.</text>
     <pt>1/2</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>{Death} Create a 1/1 Drone token./text>
-</card>
+    <text>{Death} Create a 1/1 Drone token.</text>
+	</card>
 
-<card>
+	<card>
     <name>Resourceful Trawler</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceHuman.png">C1</set>
     <manacost>2Q</manacost>
@@ -1395,9 +1393,9 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>When a friendly Construct dies, you can pay 1Q to draw a card.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Veteran Gunsmith</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceHuman.png">C1</set>
     <manacost>3Q</manacost>
@@ -1406,9 +1404,9 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>Exert: Give a Construct +1/+1.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Sly Saboteur</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>3Q</manacost>
@@ -1418,9 +1416,9 @@ Deal 3 damage to all units.</text>
     <tablerow>1</tablerow>
     <text>[Hidden]
 Exert: Destroy a relic.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Ornery Demolitionist</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>4Q</manacost>
@@ -1429,9 +1427,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>Exert, sacrifice a relic or Construct: Deal 3 damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Platefist Brawler</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>5Q</manacost>
@@ -1440,9 +1438,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>{Battle} Deal X damage to the opposer, where X is the number of relics you control.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Brash Rocketeer</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>5Q</manacost>
@@ -1451,9 +1449,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>This takes 1 damage: Gain [Swift] and ignore enemy [Guard] this turn.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Helicarrier</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>6Q</manacost>
@@ -1462,10 +1460,10 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Death} Create X 1/1 Drone tokens, where X is this unit's strength./text>
-</card>
+{Death} Create X 1/1 Drone tokens, where X is this unit's strength.</text>
+	</card>
 
-<card>
+	<card>
     <name>M.A.D. Man</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalScienceSoldier.png">C1</set>
     <manacost>7Q</manacost>
@@ -1474,9 +1472,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>{Death} Destroy all cards.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Backup Fire</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>2Q</manacost>
@@ -1484,9 +1482,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Deal 3 damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Orbital Strike</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>3Q</manacost>
@@ -1494,9 +1492,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>{Echo} Deal 5 damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Detonate</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>5Q</manacost>
@@ -1504,9 +1502,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Destroy a card.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>The Bomb</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalScienceSupport.png">C1</set>
     <manacost>8Q</manacost>
@@ -1514,11 +1512,9 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Destroy all cards.</text>
-</card>
+	</card>
 
-
-
-<card>
+	<card>
     <name>Munitions Factory</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/SciencePassive.png">C1</set>
     <manacost>5Q</manacost>
@@ -1527,9 +1523,9 @@ Exert: Destroy a relic.</text>
     <tablerow>0</tablerow>
     <text>Your Construct tokens have +2 Strength.
 {Summon} Create 2 1/1 Drone tokens.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Swarm Centre</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/SciencePassive.png">C1</set>
     <manacost>7Q</manacost>
@@ -1537,23 +1533,21 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>Exert a relic you control: Create a 1/1 Drone token.</text>
-</card>
+	</card>
 
-<!-- Outsider -->
-
-
-<card>
+  <!-- Outsider -->
+	<card>
     <name>Kareht, the Awakener</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHuman.png">C1</set>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHuman.png">C1</set>
     <type>Outsider Quanta Lord — Human Warlock</type>
     <color>B</color>
     <loyalty>35</loyalty>
     <tablerow>0</tablerow>
     <text>Sacrifice 3 units and exert: Resurrect a unit.</text>
-</card>
+	</card>
 
 
-<card>
+	<card>
     <name>Escaped Fodder</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>1Q</manacost>
@@ -1562,9 +1556,9 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>{Death} Create a 2/1 Spawn token. Deal 2 damage to your Quanta Lord.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Blackblade Cultist</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHuman.png">C1</set>
     <manacost>2Q</manacost>
@@ -1574,9 +1568,9 @@ Exert: Destroy a relic.</text>
     <tablerow>1</tablerow>
     <text>[Toxic]
 {Kill} Mill a card. If it's a unit, your Quanta Lord recovers 1 life.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Broodmother</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>3Q</manacost>
@@ -1585,9 +1579,9 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>Exert: Annihilate a unit from a graveyard. If you do, create a 2/1 Spawn token.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Swarm Scion</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
@@ -1596,9 +1590,9 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>{Summon} Create 2 2/1 Spawn tokens.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Bestower of Fangs</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
@@ -1607,9 +1601,9 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>{Summon} Give a unit [Toxic].</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Soul Feaster</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>5Q</manacost>
@@ -1617,10 +1611,10 @@ Exert: Destroy a relic.</text>
     <pt>2/5</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon, Battle} You may sacrifice another unit. If you do, this gets +2/+2 and you draw a card.</text>
-</card>
+    <text>{Summon/Battle} You may sacrifice another unit. If you do, this gets +2/+2 and you draw a card.</text>
+	</card>
 
-<card>
+	<card>
     <name>Flesh Crafter</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>6Q</manacost>
@@ -1631,9 +1625,9 @@ Exert: Destroy a relic.</text>
     <text>Whenever another unit dies, select an effect...
 - Create a 2/1 Spawn token.
 - Horrors you control get +1/+1.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>The Black King</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>7Q</manacost>
@@ -1642,10 +1636,10 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>{Summon} Create 4 1/2 Black Guard tokens with [Guard].
-Has [Invulnerable] and [Immune] while you control a Black Guard token.</text>
-</card>
+Has [Invulnerable] and [Shroud] while you control a Black Guard token.</text>
+	</card>
 
-<card>
+	<card>
     <name>Ulreth's Shadow</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>8Q</manacost>
@@ -1660,9 +1654,9 @@ Has +1/+1 for each annihilated unit.
 
 
 The Devourer was ripped from the world long ago, but the hole that was left behind is no less voracious.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Cull</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
@@ -1670,9 +1664,9 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Each player sacrifices a unit.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Dissect</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
@@ -1680,9 +1674,9 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Sacrifice a unit: Draw 2 cards.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Hand of Oblivion</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
@@ -1694,9 +1688,9 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
     
 
 A dark shadow passes over the battlefield. A sigh rings out, then all is still.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Flesh Facsimile</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
@@ -1704,9 +1698,9 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Sacrifice a unit. Create a copy of another unit.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Stroke of Midnight</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>10Q</manacost>
@@ -1714,9 +1708,9 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <color>B</color>
     <tablerow>3</tablerow>
     <text>{Echo} Summon 12 2/1 Spawn tokens.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Bloody Altar</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>3Q</manacost>
@@ -1725,15 +1719,12 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <tablerow>0</tablerow>
     <text>Whenever a friendly unit dies, your Quanta Lord heals 1 life.
 Exert and pay 3 life: Create a 2/1 Spawn token.</text>
-</card>
+	</card>
 
 <!-- Nature -->
-
-
-
-<card>
+	<card>
     <name>Garth, Titanblood Survivor</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureHuman.png">C1</set>
+    <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureHuman.png">C1</set>
     <type>Nature Quanta Lord — Human Dragon</type>
     <color>G</color>
     <loyalty>30</loyalty>
@@ -1745,9 +1736,9 @@ Exert and pay 3 life: Create a 2/1 Spawn token.</text>
 
 "Do not be fooled. While I have lasted longer than most,
 that vile liquid is tearing me apart even now."</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Falrin, Spirit of the Pack</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>1Q</manacost>
@@ -1756,9 +1747,9 @@ that vile liquid is tearing me apart even now."</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>{Summon} Get +1/+1 for each other unit you control.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Tyradon Cub</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
@@ -1768,9 +1759,9 @@ that vile liquid is tearing me apart even now."</text>
     <tablerow>1</tablerow>
     <text>[Swift]
 {Death} Shuffle this into your deck.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Lifebloom Lily</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NaturePlant.png">C1</set>
     <manacost>2Q</manacost>
@@ -1778,10 +1769,10 @@ that vile liquid is tearing me apart even now."</text>
     <pt>2/2</pt>
     <color>G</color>
     <tablerow>2</tablerow>
-    <text>{Summon, Death} Restore 2 life.</text>
-</card>
+    <text>{Summon/Death} Restore 2 life.</text>
+	</card>
 
-<card>
+	<card>
     <name>Vigor Shaman</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureHuman.png">C1</set>
     <manacost>2Q</manacost>
@@ -1790,9 +1781,9 @@ that vile liquid is tearing me apart even now."</text>
     <color>G</color>
     <tablerow>2</tablerow>
     <text>{Summon} Give a unit [Swift].</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Stalking Panther</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureBeast.png">C1</set>
     <manacost>3Q</manacost>
@@ -1801,9 +1792,9 @@ that vile liquid is tearing me apart even now."</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Hidden], [Swift]</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Prosperous Treant</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NaturePlant.png">C1</set>
     <manacost>5Q</manacost>
@@ -1813,9 +1804,9 @@ that vile liquid is tearing me apart even now."</text>
     <tablerow>2</tablerow>
     <text>[Guard]
 Exert: Gain 3Q.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Tyradon Matriarch</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureBeast.png">C1</set>
     <manacost>5Q</manacost>
@@ -1824,9 +1815,9 @@ Exert: Gain 3Q.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>{Summon} Summon any number of Tyradon Cubs from your deck.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Tyradon Patriarch</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureBeast.png">C1</set>
     <manacost>6Q</manacost>
@@ -1835,9 +1826,9 @@ Exert: Gain 3Q.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Swift]</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Nirlaf, Spirit of Death</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>6Q</manacost>
@@ -1847,9 +1838,9 @@ Exert: Gain 3Q.</text>
     <tablerow>1</tablerow>
     <text>[Pierce], [Drain]
 {Summon} Get +1/+1 for each unit in your graveyard.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Redwood Guardian</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NaturePlant.png">C1</set>
     <manacost>6Q</manacost>
@@ -1859,9 +1850,9 @@ Exert: Gain 3Q.</text>
     <tablerow>1</tablerow>
     <text>[Guard]
 {Summon} Restore 4 life.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Mindsurge Druid</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureHuman.png">C1</set>
     <manacost>7Q</manacost>
@@ -1870,9 +1861,9 @@ Exert: Gain 3Q.</text>
     <color>G</color>
     <tablerow>2</tablerow>
     <text>{Summon} Draw cards equal to the highest strength among units you control.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Growth Surge</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureSupport.png">C1</set>
     <manacost>1Q</manacost>
@@ -1884,9 +1875,9 @@ Exert: Gain 3Q.</text>
     
     
 Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Verdant Bloom</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
@@ -1896,9 +1887,9 @@ Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
     <text>Select an effect...
 - Give a unit +2/+2.
 - Gain 1 Max Quanta.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Second Swipe</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
@@ -1910,9 +1901,9 @@ Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
     
     
 Never let your guard down.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Titanbone Shrine</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/NaturePassive.png">C1</set>
     <manacost>2Q</manacost>
@@ -1920,11 +1911,10 @@ Never let your guard down.</text>
     <color>G</color>
     <tablerow>0</tablerow>
     <text>Whenever you summon a unit that costs 6Q or more, draw a card.</text>
-</card>
+	</card>
 
 <!-- Neutral -->
-
-<card>
+	<card>
     <name>Legion Scout</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>1Q</manacost>
@@ -1933,9 +1923,9 @@ Never let your guard down.</text>
     <color></color>
     <tablerow>1</tablerow>
     <text>Exert: Give a unit [Swift].</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Paladin Aspirant</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>2Q</manacost>
@@ -1948,9 +1938,9 @@ Never let your guard down.</text>
     
     
 Training is never over.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Master of Disguise</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>2Q</manacost>
@@ -1963,9 +1953,9 @@ Training is never over.</text>
     
     
 He could be anywhere. He could be ANYONE.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Black Widow</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessInsect.png">C1</set>
     <manacost>2Q</manacost>
@@ -1978,9 +1968,9 @@ He could be anywhere. He could be ANYONE.</text>
     
     
 The morgues are overflowing. Corners must be cut.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Crooked Mortician</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>2Q</manacost>
@@ -1993,9 +1983,9 @@ The morgues are overflowing. Corners must be cut.</text>
     
     
 The morgues are overflowing. Corners must be cut.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Church Messenger</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>3Q</manacost>
@@ -2008,9 +1998,9 @@ The morgues are overflowing. Corners must be cut.</text>
     
     
 A very particular message is dominant among his deliveries.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Wizened Smith</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
@@ -2023,9 +2013,9 @@ A very particular message is dominant among his deliveries.</text>
     
     
 His influence on the town was subtle, unremarked upon. But his work will survive him by generations.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Steven Pyrus, Master Thief</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalFactionlessMage.png">C1</set>
     <manacost>4Q</manacost>
@@ -2039,9 +2029,9 @@ His influence on the town was subtle, unremarked upon. But his work will survive
     
     
 Leaves no trace but molten iron.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Temple Guardian</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>4Q</manacost>
@@ -2054,9 +2044,9 @@ Leaves no trace but molten iron.</text>
     
     
 The paladins of the Church of Iron are implacable.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Animate Armory</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessAnimation.png">C1</set>
     <manacost>4Q</manacost>
@@ -2066,9 +2056,9 @@ The paladins of the Church of Iron are implacable.</text>
     <tablerow>2</tablerow>
     <text>[Guard]
 {Summon} Give a unit +3 strength.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Bound Thunder</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessElemental.png">C1</set>
     <manacost>4Q</manacost>
@@ -2077,9 +2067,9 @@ The paladins of the Church of Iron are implacable.</text>
     <color></color>
     <tablerow>1</tablerow>
     <text>{Death} Deal 3 damage.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Eternal Paladin</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessUndead.png">C1</set>
     <manacost>5Q</manacost>
@@ -2092,9 +2082,9 @@ The paladins of the Church of Iron are implacable.</text>
     
     
 Though no new Eternals have been inaugurated in millenia, they still infest the ranks of the true believers.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Living Discontinuity</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessAnimation.png">C1</set>
     <manacost>6Q</manacost>
@@ -2107,9 +2097,9 @@ Though no new Eternals have been inaugurated in millenia, they still infest the 
     
     
 It lives in the spaces between seconds.</text>
-</card>
+	</card>
 
-<card>
+	<card>
     <name>Radiant Giant</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessTitan.png">C1</set>
     <manacost>7Q</manacost>
@@ -2118,10 +2108,10 @@ It lives in the spaces between seconds.</text>
     <color></color>
     <tablerow>1</tablerow>
     <text>[Aura]
-Has [Immune] while it has [Aura].</text>
-</card>
+Has [Shroud] while it has [Aura].</text>
+	</card>
 
-<card>
+	<card>
     <name>Scion of Zenith</name>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/MythicalFactionlessAscendant.png">C1</set>
     <manacost>9Q</manacost>
@@ -2134,11 +2124,1200 @@ Has [Immune] while it has [Aura].</text>
     
     
 Bow before Glorious Perfection.</text>
-</card>
-
-
-
-
+	</card>
+  
   <!-- Alex -->
+	<card>
+    <name>Dream Curator Tycho</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+    <type>Science Quanta Lord — Human</type>
+    <color>R</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>When an opponent plays a unit, you can pay 4Q and exert: Return that unit to its controller's hand.
+
+
+
+The great destroyer, dormant, is by no means diminished.
+At any moment, she could simply leave her dream and plunge the world into chaos once more.
+The enclave of the cave elects to make sure she never realizes this possibility.</text>
+	</card>
+
+	<card>
+    <name>Grid Bug</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceInsect.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Science Unit — Insect Construct Spirit</type>
+    <pt>1/1</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Hidden]
+{Upkeep} Gain +1/0.
+
+
+
+"They have a tendency to get worse over time if not solved right away."</text>
+	</card>
+
+	<card>
+    <name>Observer</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Science Unit — Construct</type>
+    <pt>0/3</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>{Death} Look at the top 3 cards of your deck. Put them back in any order.
+
+
+
+"The great destroyer. She rests. And to keep it so, we must know her dreams."</text>
+	</card>
+
+	<card>
+    <name>Cracked Firewall</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Science Unit — Construct</type>
+    <pt>1/4</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>When damaged, deal 3 damage.
+
+
+
+"The best defense."</text>
+	</card>
+
+	<card>
+    <name>Sentinel</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Science Unit — Construct</type>
+    <pt>3/6</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Guard]
+
+
+
+So many problems within, sometimes you forget about the problems without.</text>
+	</card>
+
+	<card>
+    <name>Net Crawler</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Science Unit — Construct Spirit</type>
+    <pt>2/3</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>Exert: Return this card to your hand. Summon a 1/1 Drone token.
+
+
+
+"A thousand little spiders. Treading lightly on an invisible web."</text>
+	</card>
+
+	<card>
+    <name>Interdictor</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Science Unit — Human Soldier</type>
+    <pt>2/5</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Swift]
+Has +3/0 during your turn.
+
+
+
+"I said HALT!!"</text>
+	</card>
+
+	<card>
+    <name>Apotheotic Ecclesiarch</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Science Unit — Human</type>
+    <pt>4/4</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Aura]
+When the [Aura] breaks, gains +4/+4.
+
+
+
+"Why limit the inevitable? One way or another, this place will be the crucible of a new god."</text>
+	</card>
+
+	<card>
+    <name>Virolord Isoburn</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Science Unit — Construct Spirit</type>
+    <pt>6/6</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Swift]
+{Kill} Deal 6 damage to a unit.
+
+
+
+"Fire is the oldest and deadliest of infections."</text>
+	</card>
+
+	<card>
+    <name>Assembly</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Summon 2 1/1 Drone tokens or give a Construct +2/+2.
+	
+	
+	
+"Branch or commit?"</text>
+	</card>
+
+	<card>
+    <name>Ping</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Deal 1 damage.
+{Kill} Summon a 1/1 Drone token.
+	
+	
+	
+"Are you there. Are you there. Are you..."</text>
+	</card>
+
+	<card>
+    <name>Query</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Draw a card: Deal damage equal to its cost.
+If it costs 0, destroy a unit instead.
+	
+	
+	
+"Every question has an exception."</text>
+	</card>
+
+	<card>
+    <name>Missile Strike</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Deal 4 damage to a unit and 1 damage to all Units with the same controller.
+	
+	
+	
+You can't beat a classic.</text>
+	</card>
+
+	<card>
+    <name>Laser Beam</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Deal 10 damage to an enemy unit. Any excess damage can be dealt to other enemy units.
+	
+	
+	
+Destruction, with precision.</text>
+	</card>
+
+	<card>
+    <name>MAX POWER</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSupport.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Set a unit's strength to 11.
+	
+	
+	
+"We crossed a line somewhere. But let's see what happens if we keep going."</text>
+	</card>
+
+	<card>
+    <name>Surge Capacitor</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Science Relic</type>
+    <color>R</color>
+    <tablerow>0</tablerow>
+    <text>Exert, pay 2Q: Your units gain +1/0.
+	
+	
+	
+"The juice must flow."</text>
+	</card>
+
+
+
+
+
+	<card>
+    <name>Ayna, Spirit Seeker</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <type>Arcane Quanta Lord — Human Mage</type>
+    <color>U</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Whenever a friendly unit dies, gain a counter.
+Remove 2 counters: Deal 1 damage or heal 1 life.
+
+
+
+The living no longer remember the world. How it used to be.
+Only the immortal spirits still know their names.
+The destroyer. The titan. The pyre. The horror.
+The king.</text>
+	</card>
+
+	<card>
+    <name>Dune Mystic</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Unit — Human Mage</type>
+    <pt>2/3</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>Exert: Deal 1 damage or draw 1 card.
+
+
+
+"Outside the enclaves, life goes on as it has for centuries - poorly but steadily."</text>
+	</card>
+
+	<card>
+    <name>Ancient Construct</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneAnimation.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit — Animation</type>
+    <pt>2/4</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>{Echo} Gain +2/+2 or draw 2 cards.
+
+
+
+"With its masters long gone, it travels the wastes in search of meaning."</text>
+	</card>
+
+	<card>
+	<name>Thaumaturgical Multicutter</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneConstruct.png">C1</set>
+	<manacost>5Q</manacost>
+	<type>Arcane Unit — Construct</type>
+	<pt>3/6</pt>
+	<color>U</color>
+	<tablerow>1</tablerow>
+	<text>Gains +2/0 whenever a support is played.
+	After attacking, set strength to its base value.
+
+
+
+Magic has kept these blades as sharp as the day they were enchanted.</text>
+	</card>
+
+	<card>
+    <name>Hedge Seer</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Arcane Unit — Human Mage</type>
+    <pt>1/5</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>Draw one more card during your draw phase. Shuffle one of them into your deck.
+
+
+
+"The future is ...unclear. Try asking again later."</text>
+	</card>
+
+	<card>
+    <name>Power Broker</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Arcane Unit — Human Warlock</type>
+    <pt>3/4</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} If an opponent has more cards than you, put a random card from their hand into yours.
+
+
+
+"I think you're holding out on me, friend."</text>
+	</card>
+
+	<card>
+	<name>Ancient Lich</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
+	<manacost>6Q</manacost>
+	<type>Arcane Unit — Undead Mage</type>
+	<pt>5/3</pt>
+	<color>U</color>
+	<tablerow>1</tablerow>
+	<text>{Summon} Destroy an enemy Unit with 4 toughness or less.
+
+
+
+The old get older. The strong get stronger.</text>
+	</card>
+
+	<card>
+    <name>Primordial Shape</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneElemental.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Arcane Unit — Elemental</type>
+    <pt>3/6</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>Once a turn, discard a card: Summon a 3/3 Elemental token with [Guard], [Hidden] or [Drain].
+
+
+
+"What is the shape of a shape?"</text>
+	</card>
+
+	<card>
+    <name>Magic Dart</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal damage equal to your hand size to a unit.
+	
+	
+	
+"The original."</text>
+	</card>
+
+	<card>
+    <name>Mirage</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Shuffle an enemy unit into its controller's deck. They draw a card.
+	
+	
+	
+"It's been a hundred steps away my whole life."</text>
+	</card>
+
+	<card>
+    <name>Oasis</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>All players draw 2 cards.
+All units gain 2 life.
+	
+	
+	
+"Spirits of the world yet persevere."</text>
+	</card>
+
+	<card>
+    <name>Invocation</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal 2 damage.
+Heal 2 life.
+Draw 1 card.
+	
+	
+	
+You can do anything. Just put your mind to it.</text>
+	</card>
+
+	<card>
+    <name>Spirit Away</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Pay Q equal to a card's cost: Shuffle it into your deck.
+	
+	
+	
+	
+A long journey can change people.</text>
+	</card>
+
+	<card>
+    <name>Astral Feedback</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Purge a unit. Deal 4 damage to it.
+	
+	
+	
+"When the angry iris of the sky opens, run."</text>
+	</card>
+
+	<card>
+    <name>Sandstorm</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal 3 damage to a unit. If it survives, return it to its controller's hand.
+	
+	
+	
+"You'd rather be anywhere else."</text>
+	</card>
+
+	<card>
+    <name>Tempest</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>For each card in your hand, create a 3/3 Elemental with [Swift]. Destroy them at the end of your turn.
+	
+	
+	
+"The land will never allow this to happen again."</text>
+	</card>
+
+
+
+
+
+	<card>
+    <name>Girimehkala, the Inheritor</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
+    <type>Nature Quanta Lord — Dragon Beast</type>
+    <color>G</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Pay 6Q: For the rest of the game, whenever you summon a unit, it gains +1/+1.
+
+
+
+The fury never subsided. The grudge would carry on.
+The progeny of the titan took life and calamity followed.</text>
+	</card>
+
+	<card>
+    <name>Toothscale</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Unit — Beast</type>
+    <pt>2/1</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>[Swift]
+{Kill} Remove all damage from this unit.
+
+
+
+"Looking for its daily feast."</text>
+	</card>
+
+	<card>
+    <name>Gnarled Witch</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Unit — Plant Warlock</type>
+    <pt>2/4</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>Whenever one of your units recovers life, deal 1 damage.
+
+
+
+Grow tall. Or be trampled.</text>
+	</card>
+
+	<card>
+    <name>Shardspawn</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Unit — Dragon Beast</type>
+    <pt>5/5</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>[Guard]
+When damaged, lose [Guard]: Give another friendly unit [Guard].
+
+
+
+"The smallest pieces of the titan took a life of their own."</text>
+	</card>
+
+	<card>
+    <name>Leaf Roc</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Unit — Giant Bird</type>
+    <pt>5/3</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Give another friendly unit +2/0.
+
+
+
+"The forest is watching."</text>
+	</card>
+
+	<card>
+    <name>Hulking Troll</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureGiant.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Unit — Giant</type>
+    <pt>4/6</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>Exert: Recovers all life.
+
+
+
+"There are stories of people cooking and eating troll meat only to burst from within."</text>
+	</card>
+
+	<card>
+    <name>Arcentree</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Nature Unit — Giant Plant</type>
+    <pt>7/7</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>Whenever one of your units deals 5 or more damage in battle, draw a card.
+
+
+
+"Those who sought to fell it now adorn it."</text>
+	</card>
+
+	<card>
+    <name>Arahabaki, the Titanbeast</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Mythical Nature Unit — Giant Beast</type>
+    <pt>8/10</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>[Swift], [Pierce]
+
+
+
+"When the shadow falls over you, you will know fear."</text>
+	</card>
+
+	<card>
+    <name>Bloodbond</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Your Quanta Lord loses 5 life. Gain 2Q.
+	
+	
+	
+"Nothing ever comes easy."</text>
+	</card>
+
+	<card>
+    <name>Mantra</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Support</type>
+	<color>G</color>
+    <tablerow>3</tablerow>
+    <text>Heal a unit for 4. If this fully heals it, give it [Aura].
+	
+	
+	
+A healing technique, almost forgotten. Coaxed from the spirits, the price unknown.</text>
+	</card>
+
+	<card>
+    <name>Vanguard</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Give your Quanta Lord [Guard] and [Aura] until the start of your next turn.
+	
+	
+	
+"The strong guard the weak, so the weak may guard the strong."</text>
+	</card>
+
+	<card>
+    <name>Crunch</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Deal damage equal to a friendly unit's strength.
+	
+	
+	
+"Claws stronger than iron. Teeth stronger than steel."</text>
+	</card>
+
+	<card>
+    <name>Leech</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Support</type>
+	<color>G</color>
+    <tablerow>3</tablerow>
+    <text>Your Quanta Lord steals up to 6 life from an enemy unit.
+	
+	
+	
+Swift and brutal, or slow and agonizing. Passage of life moves at many leagues.</text>
+	</card>
+
+	<card>
+    <name>Voracity</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Support</type>
+	<color>G</color>
+    <tablerow>3</tablerow>
+    <text>Draw a card.
+Pay 3 life: Draw 1 more.
+Pay 6 life: Draw 1 more.
+	
+	
+	
+It's only natural to want more.</text>
+	</card>
+
+	<card>
+    <name>Star Power</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureSupport.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Give a unit +5/+5. It has [Shroud] until the start of your next turn.
+	
+	
+	
+"The power of the myriad, in the service of the power of one."</text>
+	</card>
+
+	<card>
+    <name>Idol of Carnage</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Relic</type>
+    <color>G</color>
+    <tablerow>0</tablerow>
+    <text>Whenever a unit dies, gain a counter.
+Exert: Lose all counters. Heal for an equal amount.
+	
+	
+	
+"Life feeds life."</text>
+	</card>
+
+
+
+
+
+	<card>
+    <name>Mephorash, the Reclaimer</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <type>Outsider Quanta Lord — Demon</type>
+    <color>B</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Exert: Transform a friendly unit into a 3/2 Dire Spawn.
+
+
+
+"Back. We must go back.
+There is still time.
+Why can't you understand!?"</text>
+	</card>
+
+	<card>
+    <name>Impish Pillager</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Demon</type>
+    <pt>2/2</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Attack} Mill 2 cards.
+
+
+
+"I hope it was nothing important."</text>
+	</card>
+
+	<card>
+    <name>Revenant</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Unit — Undead</type>
+    <pt>2/2</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>[Guard]
+If milled, summon this unit.
+
+
+
+The fettered return. It is their turn.</text>
+	</card>
+
+	<card>
+    <name>Stygian Tempter</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit — Demon</type>
+    <pt>2/2</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Take control of an enemy unit with strength of 2 or less.
+
+
+
+"We're fighting to save you. From yourselves."</text>
+	</card>
+
+	<card>
+    <name>Shrouded Corruptor</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit — Demon Warlock</type>
+    <pt>7/7</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Kill} Summon a 2/1 Spawn token for the killed unit's controller.
+
+
+
+"If only you knew."</text>
+	</card>
+
+	<card>
+    <name>Dessicated</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Outsider Unit — Undead</type>
+    <pt>3/3</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Steal 1 strength and toughness from all other units.
+
+
+
+"The dead, ironically, preserved a lot better than the living."</text>
+	</card>
+
+	<card>
+    <name>Writhing Thing</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <pt>0/4</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Summon 3 2/1 Spawn tokens.
+{Death} Destroy all Spawns you control.
+
+
+
+Tentacles. Why did it have to be tentacles.</text>
+	</card>
+
+	<card>
+    <name>Bloated Monstrosity</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Outsider Unit — Undead Horror</type>
+    <pt>2/5</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>Exert: Sacrifice this unit. Deal damage equal to its missing life to all enemy units.
+
+
+
+"Boomer!"</text>
+	</card>
+
+	<card>
+    <name>Lost Signal</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <pt>5/5</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Death} Annihilate this card: Next turn, put this card into your hand.
+If killed by a unit, annihilate the killer.
+
+
+
+"An eternity of screams, followed by a moment of silence."</text>
+	</card>
+
+	<card>
+    <name>Mitosis</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Destroy a unit: Summon 2 3/2 Dire Spawn tokens for its controller.
+	
+	
+	
+"From one, many."</text>
+	</card>
+
+	<card>
+    <name>Scourge</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Annihilate a unit.
+	
+	
+	
+"It's as if it never were there."</text>
+	</card>
+
+	<card>
+    <name>From Beyond</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Annihilate any number of cards in your graveyard: Deal that much damage to a unit.
+	
+	
+	
+"The living will envy the dead."</text>
+	</card>
+
+	<card>
+    <name>Inner Demons</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Support</type>
+	<color>B</color>
+    <tablerow>3</tablerow>
+    <text>Halve an enemy unit's strength and toughness, rounding down.
+Summon a Shadow token with stats equal to the amount reduced.
+	
+	
+	
+"In your weakest moments, it grows stronger."</text>
+	</card>
+
+	<card>
+    <name>Despair</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Support</type>
+	<color>B</color>
+    <tablerow>3</tablerow>
+    <text>Give a unit -4/-4.
+	
+	
+	
+Kneel.</text>
+	</card>
+
+	<card>
+    <name>Eclipse</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Mill 3 cards: Summon a 2/1 Spawn token for each unit milled.
+	
+	
+	
+"Sacrifices must be made."</text>
+	</card>
+
+	<card>
+    <name>Mass Lethargy</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Set the strength and toughness of all enemy units to 1.
+	
+	
+	
+"To remove the ability to fight, remove the will to fight."</text>
+	</card>
+
+
+
+
+
+	<card>
+    <name>Hungry Jelly</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Neutral Unit — Slime</type>
+    <pt>2/2</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>Exert: Gain +2/+1.
+
+
+
+"Mmmmm. Rich in iron. And only a hint of rust."</text>
+	</card>
+
+	<card>
+    <name>Untouchable</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Neutral Unit — Human</type>
+    <pt>4/6</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Shroud]
+
+
+
+Life passes some by.</text>
+	</card>
+
+	<card>
+    <name>Clockstopper</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Unit — Human</type>
+    <pt>2/2</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Destroy a relic: Gain +2/+2.
+
+
+
+We tend to destroy what we can't understand.</text>
+	</card>
+
+	<card>
+    <name>Pure Vessel</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Neutral Unit — Ascendant</type>
+    <pt>7/7</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>At any time, you may purge this unit.
+
+
+
+"All change is entropy. All action is corruption."</text>
+	</card>
+
+	<card>
+    <name>Adept</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Neutral Unit — Human Ascendant</type>
+    <pt>1/1</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Aura], [Guard]
+
+
+
+Perfection is always just beyond the horizon.</text>
+	</card>
+
+	<card>
+    <name>Rolling Stone</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessElemental.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Unit — Elemental</type>
+    <pt>3/2</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Swift], [Pierce]
+
+
+
+Out of the way, scrubs.</text>
+	</card>
+
+	<card>
+    <name>Shimmering Dragon</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessDragon.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Neutral Unit — Dragon Mage</type>
+    <pt>5/7</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Defend} Mill 1 card: If it was a support, negate the attack.
+
+
+
+"It never gets old."</text>
+	</card>
+
+	<card>
+    <name>Mana Gorgon</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Demon Beast</type>
+    <pt>4/4</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Guard]
+{Death} Set enemy Q to 0.
+
+
+
+"Petrified quanta cannot be seen. It cannot be touched. But it can be felt."</text>
+	</card>
+
+	<card>
+    <name>Dusklord Barrow, the Returned</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessUndead.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Mythical Neutral Unit — Undead</type>
+    <pt>4/10</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>All other units die from any amount of damage taken.
+
+
+
+"The long night has only just begun."</text>
+	</card>
+
+	<card>
+    <name>Trip</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Support — Flash</type>
+    <color></color>
+    <tablerow>0</tablerow>
+    <text>Activate when an enemy summons a unit. Purge it and set its strength and toughness to 1.
+	
+	
+	
+"The mighty champion has fallen. And he just can't get up."</text>
+	</card>
+
+	<card>
+    <name>Subsume</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Sacrifice a friendly unit. Your Quanta Lord gains 8 life.
+	
+	
+	
+"The strings that give life are the strings that bind."</text>
+	</card>
+
+	<card>
+    <name>Bargain</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Swap a unit's strength and toughness.
+	
+	
+	
+"The scales tip."</text>
+	</card>
+
+	<card>
+    <name>Focus</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Give a unit [Swift].
+	
+	
+	
+"When you land, land on your feet."</text>
+	</card>
+
+	<card>
+    <name>Dominate</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Take control of an enemy unit.
+	
+	
+	
+Only the will of iron deserves true control.</text>
+	</card>
+
+	<card>
+    <name>Phantom Hammer</name>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSupport.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Deal 4 damage to all enemy units. 
+Annihilate all units this kills.
+	
+	
+	
+"Not even dust remained."</text>
+	</card>
+<!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
