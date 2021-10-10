@@ -722,7 +722,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Upkeep} If this Quanta Lord has 10 or less life, summon a 4/3 Fledgling Scourge token.
+    <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a 4/3 Fledgling Scourge token.
 
 
 
@@ -1948,7 +1948,7 @@ Training is never over.</text>
     <pt>2/3</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Flash} 3Q: Swap this in your hand with a unit you control (Anything that was targetting it is targetting this now).
+    <text>{Flash} 3Q: Swap this in your hand with a unit you control (anything that was targeting it is targeting this now).
     
     
     
