@@ -1170,7 +1170,7 @@ Sacrifice: Gain XQ, where X is the number of Ichor counters that were on this re
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Human Mage</type>
     <color>U</color>
-    <loyalty>35</loyalty>
+    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>Pay 3Q, exert, and annihilate a support in your graveyard: Deal 2 damage.
 
@@ -1364,7 +1364,7 @@ Deal 3 damage to all units.</text>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/ScienceSoldier.png">C1</set>
     <type>Science Quanta Lord — Human Soldier</type>
     <color>R</color>
-    <loyalty>35</loyalty>
+    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>Pay 2Q, exert, sacrifice a Construct: Draw a card.
 
@@ -1541,7 +1541,7 @@ Exert: Destroy a relic.</text>
     <set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/OutsiderHuman.png">C1</set>
     <type>Outsider Quanta Lord — Human Warlock</type>
     <color>B</color>
-    <loyalty>35</loyalty>
+    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>Sacrifice 3 units and exert: Resurrect a unit.</text>
 	</card>
