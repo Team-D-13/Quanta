@@ -2753,8 +2753,8 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <name>Mantra</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Support</type>
-	<color>G</color>
+    <type>Nature Support</type>
+    <color>G</color>
     <tablerow>3</tablerow>
     <text>Heal a unit for 4. If this fully heals it, give it [Aura].
 
@@ -2795,8 +2795,8 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
     <name>Leech</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>5Q</manacost>
-    <type>Support</type>
-	<color>G</color>
+    <type>Nature Support</type>
+    <color>G</color>
     <tablerow>3</tablerow>
     <text>Your Quanta Lord steals up to 6 life from an enemy unit.
 
@@ -2809,12 +2809,12 @@ Swift and brutal, or slow and agonizing. Passage of life moves at many leagues.<
     <name>Voracity</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Support</type>
-	<color>G</color>
+    <type>Nature Support</type>
+    <color>G</color>
     <tablerow>3</tablerow>
     <text>Draw a card.
-Pay 3 life: Draw 1 more.
-Pay 6 life: Draw 1 more.
+Pay 2 life: Draw 1 more.
+Pay 4 life: Draw 1 more.
 
 
 

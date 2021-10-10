@@ -68,8 +68,18 @@
     <text></text>
     <token>1</token>
   </card>
-  </card>
 	<card>
+    <name>Dire Spawn</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>3/2</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
     <name>Black Guard</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
     <manacost>1Q</manacost>
@@ -80,13 +90,13 @@
     <text>[Guard]</text>
     <token>1</token>
   </card>
-	<card>
-    <name>Dire Spawn</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
-    <manacost>2Q</manacost>
-    <type>Outsider Unit — Horror</type>
+  <card>
+    <name>Shadow</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSpirit.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Spirit Demon</type>
     <color>B</color>
-    <pt>3/2</pt>
+    <pt>X/X</pt>
     <tablerow>1</tablerow>
     <text></text>
     <token>1</token>
