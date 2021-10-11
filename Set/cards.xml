@@ -952,7 +952,7 @@ In he goes, and out he comes.</text>
   <!-- Neutral -->
   <card>
     <name>Technoleech</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessFish.png">C1</set>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessInsect.png">C1</set>
     <manacost>0Q</manacost>
     <type>Neutral Unit — Insect Construct</type>
     <color></color>
@@ -1927,12 +1927,12 @@ Never let your guard down.</text>
 	<card>
     <name>Paladin Aspirant</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>1Q</manacost>
     <type>Neutral Unit — Soldier</type>
-    <pt>2/3</pt>
+    <pt>2/1</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>Exert: Gain +1/+1.
+    <text>Exert: Gain +1/+1 and [Aura].
     
     
     
@@ -2063,6 +2063,32 @@ The paladins of the Church of Iron are implacable.</text>
     <tablerow>1</tablerow>
     <text>{Death} Deal 3 damage.</text>
 	</card>
+    
+	<card>
+    <name>Loosed Warbeast</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Beast Soldier</type>
+    <pt>5/4</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Summon} You may pay 3Q: Gain [Swift] and [Invulnerable] this turn.</text>
+	</card>
+    
+    
+        <card>
+    <name>Prism Trout</name>
+	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessFish.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Fish</type>
+    <pt>4/5</pt>
+    <tablerow>1</tablerow>
+    <text>When a support targets exactly this unit, that support's owner casts a copy of that support targetting each other unit.
+
+
+
+Mind-numbingly rare, the Prism Trout has been hunted to near extinction for their precious scales.</text>
+</card>
 
 	<card>
     <name>Eternal Paladin</name>
@@ -2078,6 +2104,38 @@ The paladins of the Church of Iron are implacable.</text>
     
 Though no new Eternals have been inaugurated in millenia, they still infest the ranks of the true believers.</text>
 	</card>
+    
+	<card>
+    <name>Greedy Graverobber</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Neutral Unit — Human</type>
+    <pt>3/4</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Add a unit from an enemy graveyard to your hand.
+    
+    
+    
+You wouldn't believe the things people are just throwing away!</text>
+	</card>
+    
+    <card>
+    <name>Primordial Ooze</name>
+	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSlime.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Neutral Unit — Ascendant Slime</type>
+    <pt>3/6</pt>
+    <tablerow>1</tablerow>
+    <text>[Regenerate], [Drain]
+{Death} Shuffle up to 3 other cards from your graveyard into your library.
+
+
+
+Prized for their healing properties.</text>
+</card>
+
+
 
 	<card>
     <name>Living Discontinuity</name>
@@ -2104,6 +2162,18 @@ It lives in the spaces between seconds.</text>
     <tablerow>1</tablerow>
     <text>[Aura]
 Has [Shroud] while it has [Aura].</text>
+	</card>
+    
+    <card>
+    <name>Avatar of Strife</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Neutral Unit — Ascendant Soldier</type>
+    <pt>4/7</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>[Swift]
+Exert: Your units get +1/+1.</text>
 	</card>
 
 	<card>
