@@ -306,7 +306,21 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>1/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert and target a unit which costs 2Q or less: This unit transforms into it (retaining its life).
+    <text>Exert and target a unit which costs 2Q or less: This unit transforms into it (retaining its toughness).
+
+
+
+#</text>
+  </card>
+  <card>
+    <name>Elemental Residue</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit — Elemental</type>
+    <color>U</color>
+    <pt>4/2</pt>
+    <tablerow>1</tablerow>
+    <text>When you cast a support that costs 5Q or more: You can summon this card from your hand.
 
 
 
@@ -318,7 +332,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <manacost>4Q</manacost>
     <type>Arcane Unit — Mage Soldier</type>
     <color>U</color>
-    <pt>3/5</pt>
+    <pt>4/5</pt>
     <tablerow>1</tablerow>
     <text>Exert and pay XQ: This unit gains +X/+X.
 
@@ -463,19 +477,6 @@ Two's better than one.</text>
 
 
 #</text>
-	</card>
-	<card>
-    <name>Body Control</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>7Q</manacost>
-    <type>Arcane Support</type>
-    <color>U</color>
-    <tablerow>3</tablerow>
-    <text>Purge and take control of an enemy unit.
-
-
-
-It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
 	<card>
     <name>Library of Alunarth</name>
@@ -638,7 +639,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate when a unit you control is destroyed by battle. Destroy the unit that killed it.
+    <text>Activate when a friendly unit is destroyed by battle. Destroy the unit that killed it.
 
 
 
@@ -800,21 +801,6 @@ When you would play this card, you can sacrifice a card instead of paying this u
 #</text>
   </card>
 	<card>
-    <name>Gasping Coffin</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
-    <manacost>5Q</manacost>
-    <type>Outsider Unit — Horror</type>
-    <color>B</color>
-    <pt>0/8</pt>
-    <tablerow>2</tablerow>
-    <text>[Guard]
-{Defend} Purge the attacking unit.
-
-
-
-#</text>
-  </card>
-	<card>
     <name>Direkin Devil</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>8Q</manacost>
@@ -881,6 +867,19 @@ When you would play this card, you can sacrifice a card instead of paying this u
 
 
 Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thought from ancient gods.</text>
+	</card>
+  <card>
+    <name>Body Control</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Purge and take control of an enemy unit.
+
+
+
+It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
   <card>
     <name>Life Link</name>
@@ -1351,7 +1350,7 @@ Deal 3 damage to all units.</text>
 	<card>
     <name>The Duplex Codex</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcanePassive.png">C1</set>
-    <manacost>5Q</manacost>
+    <manacost>6Q</manacost>
     <type>Mythical Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
@@ -1521,14 +1520,14 @@ Exert: Destroy a relic.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Your Construct tokens have +2 Strength.
+    <text>Your Construct tokens have +2/0.
 {Summon} Summon 2 1/1 Drone tokens.</text>
 	</card>
 
 	<card>
     <name>Swarm Centre</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>7Q</manacost>
+    <manacost>5Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
@@ -2047,7 +2046,7 @@ The paladins of the Church of Iron are implacable.</text>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Animation</type>
-    <pt>1/5</pt>
+    <pt>1/4</pt>
     <color></color>
     <tablerow>2</tablerow>
     <text>[Guard]
@@ -2130,7 +2129,7 @@ Bow before Glorious Perfection.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When an opponent plays a unit, you can pay 4Q and exert: Return that unit to its controller's hand.
+    <text>When an opponent plays a unit, you can pay 2Q, discard a card and exert: Return that unit to its controller's hand.
 
 
 
@@ -2178,7 +2177,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
     <pt>1/4</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>When damaged, deal 3 damage.
+    <text>{Damaged} Deal 2 damage.
 
 
 
@@ -2430,17 +2429,17 @@ Magic has kept these blades as sharp as the day they were enchanted.</text>
 
 	<card>
     <name>Hedge Seer</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
+		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Human Mage</type>
     <pt>1/5</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>Draw one more card during your draw phase. Shuffle one of them into your deck.
+    <text>Draw 1 more card during your draw phase. Shuffle 1 of them into your deck.
 
 
 
-"The future is ...unclear. Try asking again later."</text>
+"The future is... unclear. Try asking again later."</text>
 	</card>
 
 	<card>
@@ -3204,7 +3203,7 @@ Out of the way, scrubs.</text>
     <type>Neutral Unit — Demon Beast</type>
     <pt>4/4</pt>
     <color></color>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>[Guard]
 {Death} Set enemy Q to 0.
 
