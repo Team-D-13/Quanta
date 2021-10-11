@@ -2130,12 +2130,12 @@ The paladins of the Church of Iron are implacable.</text>
     
         <card>
     <name>Prism Trout</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessFish.png">C1</set>
+	<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessFish.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Fish</type>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>When a support targets exactly this unit, that support's owner casts a copy of that support targetting each other unit.
+    <text>When a support targets exactly this unit, that support's owner casts a copy of that support targeting each other unit.
 
 
 
@@ -2174,7 +2174,7 @@ You wouldn't believe the things people are just throwing away!</text>
     
     <card>
     <name>Primordial Ooze</name>
-	<set picURL="http://www.fraxyhq.net/Quanta/Art/Cards/FactionlessSlime.png">C1</set>
+	<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Ascendant Slime</type>
     <pt>3/6</pt>
