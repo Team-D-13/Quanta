@@ -35,11 +35,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <color>G</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>Exert: Gain 1Q.
-
-
-
-#</text>
+    <text>Exert: Gain 1Q.</text>
   </card>
 	<card>
     <name>Surprise Gnome</name>
@@ -49,11 +45,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <color>G</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>[Hidden]
-
-
-
-#</text>
+    <text>[Hidden]</text>
   </card>
 	<card>
     <name>Steelskin Panda</name>
@@ -64,11 +56,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <pt>1/4</pt>
     <tablerow>2</tablerow>
     <text>[Guard]
-Exert: This unit gets +3/0 until your next upkeep.
-
-
-
-#</text>
+Exert: This unit gets +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Bramblebear</name>
@@ -78,11 +66,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
-    <text>{Battle} Deal 2 damage to the opposing Quanta Lord.
-
-
-
-#</text>
+    <text>{Battle} Deal 2 damage to the opposing Quanta Lord.</text>
   </card>
 	<card>
     <name>Mother Bird</name>
@@ -92,11 +76,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon 2 1/1 Nestling tokens.
-
-
-
-#</text>
+    <text>{Summon} Summon 2 1/1 Nestling tokens.</text>
   </card>
 	<card>
     <name>Pack Hound</name>
@@ -106,11 +86,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gets +1/+1 for each other Beast you control.
-
-
-
-#</text>
+    <text>{Summon} This unit gets +1/+1 for each other Beast you control.</text>
   </card>
 	<card>
     <name>Rampaging Raptor</name>
@@ -120,11 +96,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>4/2</pt>
     <tablerow>1</tablerow>
-    <text>[Swift]
-
-
-
-#</text>
+    <text>[Swift]</text>
   </card>
 	<card>
     <name>Hungry Hen</name>
@@ -135,11 +107,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <pt>5/3</pt>
     <tablerow>1</tablerow>
     <text>{Kill} Summon a 0/1 Chicken Egg token with [Pacifist] and the following effect...
-- {Echo} Summon a 2/1 Chicken token.
-
-
-
-#</text>
+- {Echo} Summon a 2/1 Chicken token.</text>
   </card>
 	<card>
     <name>Ravenous Rooster</name>
@@ -149,11 +117,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Unexert this unit.
-
-
-
-#</text>
+    <text>{Kill} Unexert this unit.</text>
   </card>
 	<card>
     <name>Infiniflea</name>
@@ -163,11 +127,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <color>G</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Copy this unit.
-
-
-
-#</text>
+    <text>{Damaged} Copy this unit.</text>
   </card>
 	<card>
     <name>Island Turtle</name>
@@ -178,11 +138,7 @@ Exert: This unit gets +3/0 until your next upkeep.
     <pt>2/6</pt>
     <tablerow>2</tablerow>
     <text>[Guard], [Regenerate]
-If this unit would take more than 3 damage from a battle, it takes 3 damage instead.
-
-
-
-#</text>
+If this unit would take more than 3 damage from a battle, it takes 3 damage instead.</text>
   </card>
 	<card>
     <name>Worldblood Primordial</name>
@@ -192,11 +148,7 @@ If this unit would take more than 3 damage from a battle, it takes 3 damage inst
     <color>G</color>
     <pt>10/10</pt>
     <tablerow>1</tablerow>
-    <text>Costs 1Q less for each friendly unit.
-
-
-
-#</text>
+    <text>Costs 1Q less for each friendly unit.</text>
   </card>
 	<card>
     <name>Double Rainbow</name>
@@ -208,11 +160,7 @@ If this unit would take more than 3 damage from a battle, it takes 3 damage inst
     <text>Select an effect...
 - Draw a card.
 - Gain 3Q.
-If you have a Double Rainbow in your graveyard, activate both effects instead.
-
-
-
-#</text>
+If you have a Double Rainbow in your graveyard, activate both effects instead.</text>
   </card>
 	<card>
     <name>Growth Spurt</name>
@@ -221,11 +169,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Gain 2 Max Quanta. Do not gain Max Quanta naturally for your next 2 turns.
-
-
-
-#</text>
+    <text>Gain 2 Max Quanta. Do not gain Max Quanta naturally for your next 2 turns.</text>
 	</card>
 	<card>
     <name>Stampede</name>
@@ -234,11 +178,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Look at the top 4 cards of your deck and summon up to 2 units which cost 3Q or less among them, then shuffle your deck.
-
-
-
-#</text>
+    <text>Scry 4 and summon up to 2 units which cost 3Q or less among them, then shuffle your deck.</text>
 	</card>
 	<card>
     <name>Roots of the World Tree</name>
@@ -247,11 +187,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
     <type>Mythical Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit dies, give friendly units +1/+1 until the end of the turn.
-
-
-
-#</text>
+    <text>When a friendly unit dies, give friendly units +1/+1 until the end of the turn.</text>
 	</card>
   
   <!-- Arcane -->
@@ -263,11 +199,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>When you play a support, instead of resolving its effect, you can exert: Summon a Scroll relic and attach that support to it. That Scroll relic has the following effect:
-- Sacrifice: Cast the attached support.
-
-
-
-#</text>
+- Sacrifice: Cast the attached support.</text>
   </card>
   <card>
     <name>Magical Acolyte</name>
@@ -278,11 +210,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.
     <pt>1/1</pt>
     <tablerow>1</tablerow>
     <text>[Swift]
-Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
-
-
-
-#</text>
+Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.</text>
   </card>
 	<card>
     <name>Enlightened Scholar</name>
@@ -292,11 +220,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>1/3</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Draw a card.
-
-
-
-#</text>
+    <text>{Summon} Draw a card.</text>
   </card>
 	<card>
     <name>Shapeshifting Puddle</name>
@@ -306,11 +230,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>1/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert and target a unit which costs 2Q or less: This unit transforms into it (retaining its toughness).
-
-
-
-#</text>
+    <text>Exert and target a unit which costs 2Q or less: This unit transforms into it (retaining its toughness).</text>
   </card>
   <card>
     <name>Elemental Residue</name>
@@ -320,11 +240,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>4/2</pt>
     <tablerow>1</tablerow>
-    <text>When you cast a support that costs 5Q or more: You can summon this card from your hand.
-
-
-
-#</text>
+    <text>When you cast a support that costs 5Q or more: You can summon this card from your hand.</text>
   </card>
 	<card>
     <name>Imperial Spellblade</name>
@@ -334,11 +250,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert and pay XQ: This unit gains +X/+X.
-
-
-
-#</text>
+    <text>Exert and pay XQ: This unit gains +X/+X.</text>
   </card>
 	<card>
     <name>Imperial Caster</name>
@@ -348,11 +260,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text>Exert and pay 1Q: Deal 2 damage. Pay an additional 1Q to deal 3 damage instead.
-
-
-
-#</text>
+    <text>Exert and pay 1Q: Deal 2 damage. Pay an additional 1Q to deal 3 damage instead.</text>
   </card>
 	<card>
     <name>Grand Magister</name>
@@ -362,11 +270,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>5/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Reveal your hand and shuffle all non-support cards into your deck. Draw cards equal to the number of cards shuffled.
-
-
-
-#</text>
+    <text>{Summon} Reveal your hand and shuffle all non-support cards into your deck. Draw cards equal to the number of cards shuffled.</text>
   </card>
 	<card>
     <name>Spellslinging Strongman</name>
@@ -377,11 +281,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <pt>4/5</pt>
     <tablerow>1</tablerow>
     <text>Exert: Deal damage equal to this unit's strength.
-When you deal effect damage, this unit gains +1/0.
-
-
-
-#</text>
+When you deal effect damage, this unit gains +1/0.</text>
   </card>
 	<card>
     <name>Spark</name>
@@ -390,11 +290,7 @@ When you deal effect damage, this unit gains +1/0.
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Deal 2 damage.
-
-
-
-#</text>
+    <text>Deal 2 damage.</text>
 	</card>
 	<card>
     <name>Insight</name>
@@ -403,11 +299,7 @@ When you deal effect damage, this unit gains +1/0.
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Draw a card and reveal it. If it was a support, draw another.
-
-
-
-#</text>
+    <text>Draw a card and reveal it. If it was a support, draw another.</text>
 	</card>
 	<card>
     <name>Doublecast</name>
@@ -429,11 +321,7 @@ Two's better than one.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Stun all enemy units.
-
-
-
-#</text>
+    <text>Stun all enemy units.</text>
 	</card>
 	<card>
     <name>Focused Flames</name>
@@ -443,11 +331,7 @@ Two's better than one.</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Deal 4 damage to a unit.
-{Echo} Deal 4 damage to the same unit.
-
-
-
-#</text>
+{Echo} Deal 4 damage to the same unit.</text>
 	</card>
 	<card>
     <name>Meditate</name>
@@ -456,11 +340,7 @@ Two's better than one.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>You cannot declare an attack the turn you play this support. Draw 3 cards.
-
-
-
-#</text>
+    <text>You cannot declare an attack the turn you play this support. Draw 3 cards.</text>
 	</card>
 	<card>
     <name>Brainstorm</name>
@@ -472,11 +352,7 @@ Two's better than one.</text>
     <text>Select an effect, twice...
 - Draw a card.
 - Stun a unit.
-- Deal 1 damage to all enemy units.
-
-
-
-#</text>
+- Deal 1 damage to all enemy units.</text>
 	</card>
 	<card>
     <name>Library of Alunarth</name>
@@ -486,11 +362,7 @@ Two's better than one.</text>
     <color>U</color>
     <tablerow>0</tablerow>
     <text>{Upkeep} Draw a card for each counter on this relic.
-Exert and pay XQ, where X is the number of counters on this relic: Put a counter on this relic.
-
-
-
-#</text>
+Exert and pay XQ, where X is the number of counters on this relic: Put a counter on this relic.</text>
 	</card>
   
   <!-- Science -->
@@ -515,11 +387,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon a 1/1 Drone token.
-
-
-
-#</text>
+    <text>{Summon} Summon a 1/1 Drone token.</text>
   </card>
   <card>
     <name>Spinbot</name>
@@ -529,11 +397,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Unexert all friendly Construct tokens.
-
-
-
-#</text>
+    <text>{Summon} Unexert all friendly Construct tokens.</text>
   </card>
 	<card>
     <name>Spiderbomber</name>
@@ -544,11 +408,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <pt>1/1</pt>
     <tablerow>1</tablerow>
     <text>[Swift]
-{Death} Deal 1 damage to all enemy units.
-
-
-
-#</text>
+{Death} Deal 1 damage to all enemy units.</text>
   </card>
 	<card>
     <name>Modular Drone</name>
@@ -558,11 +418,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice: Summon 3 1/1 Drone tokens.
-
-
-
-#</text>
+    <text>Sacrifice: Summon 3 1/1 Drone tokens.</text>
   </card>
 	<card>
     <name>Magnetiser</name>
@@ -572,11 +428,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>2/3</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} You can place a Construct from your deck on top of your deck.
-
-
-
-#</text>
+    <text>{Summon} You can place a Construct from your deck on top of your deck.</text>
   </card>
 	<card>
     <name>Machine Lord</name>
@@ -586,11 +438,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gets +1/+1 for each other friendly Construct.
-
-
-
-#</text>
+    <text>{Summon} This unit gets +1/+1 for each other friendly Construct.</text>
   </card>
 	<card>
     <name>Perfect Mecha [REX•MAGNUS]</name>
@@ -600,11 +448,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <color>R</color>
     <pt>8/8</pt>
     <tablerow>1</tablerow>
-    <text>{Summon/Upkeep} Summon 2 3/2 Option tokens with [Swift].
-
-
-
-#</text>
+    <text>{Summon/Upkeep} Summon 2 3/2 Option tokens with [Swift].</text>
   </card>
   <card>
     <name>Machinery Mobilization</name>
@@ -613,11 +457,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Summon a Construct from your hand. Destroy it at the end of the turn.
-
-
-
-#</text>
+    <text>Summon a Construct from your hand. Destroy it at the end of the turn.</text>
 	</card>
 	<card>
     <name>Acid Rain</name>
@@ -626,11 +466,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate when an opponent summons a unit. Deal 3 damage to it.
-
-
-
-#</text>
+    <text>Activate when an opponent summons a unit. Deal 3 damage to it.</text>
 	</card>
   <card>
     <name>Budget Bomb</name>
@@ -639,11 +475,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate when a friendly unit is destroyed by battle. Destroy the unit that killed it.
-
-
-
-#</text>
+    <text>Activate when a friendly unit is destroyed by battle. Destroy the unit that killed it.</text>
 	</card>
   <card>
     <name>Drone Factory</name>
@@ -652,11 +484,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Summon a 1/1 Drone token.
-
-
-
-#</text>
+    <text>{Upkeep} Summon a 1/1 Drone token.</text>
 	</card>
   <card>
     <name>Frontline Module</name>
@@ -665,11 +493,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a Construct token, give it +2/0. If it costs 1Q or less, also give it [Swift].
-
-
-
-#</text>
+    <text>When you summon a Construct token, give it +2/0. If it costs 1Q or less, also give it [Swift].</text>
 	</card>
   <card>
     <name>Rearguard Module</name>
@@ -678,11 +502,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a Construct token, give it 0/+2. If it costs 1Q or less, also give it [Guard].
-
-
-
-#</text>
+    <text>When you summon a Construct token, give it 0/+2. If it costs 1Q or less, also give it [Guard].</text>
 	</card>
   <card>
     <name>Time Capsule</name>
@@ -695,11 +515,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
 - Deal 6 damage.
 - Give friendly units +2/+2.
 - Summon 4 1/1 Drone tokens.
-{Upkeep} Put 1 counter on this relic. Then, if this relic has 2 or more counters on it, sacrifice it and activate the selected effects.
-
-
-
-#</text>
+{Upkeep} Put 1 counter on this relic. Then, if this relic has 2 or more counters on it, sacrifice it and activate the selected effects.</text>
 	</card>
 	<card>
     <name>Defense Matrix</name>
@@ -708,11 +524,7 @@ Exert and pay XQ, where X is the number of counters on this relic: Put a counter
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a unit, give it [Aura]. If it is a Construct, also give it [Regenerate] until your next upkeep.
-
-
-
-#</text>
+    <text>When you summon a unit, give it [Aura]. If it is a Construct, also give it [Regenerate] until your next upkeep.</text>
 	</card>
   
   <!-- Outsider -->
@@ -737,11 +549,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
     <color>B</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>When you would sacrifice a card, you can annihilate this card from your graveyard as a substitute.
-
-
-
-#</text>
+    <text>When you would sacrifice a card, you can annihilate this card from your graveyard as a substitute.</text>
   </card>
 	<card>
     <name>Direkin Scuttler</name>
@@ -752,11 +560,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
     <pt>1/3</pt>
     <tablerow>1</tablerow>
     <text>[Toxic]
-When you would play this card, you can sacrifice a card instead of paying this unit's Quanta cost.
-
-
-
-#</text>
+When you would play this card, you can sacrifice a card instead of paying this unit's Quanta cost.</text>
   </card>
 	<card>
     <name>Gravetrawler</name>
@@ -794,11 +598,7 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <color>B</color>
     <pt>8/8</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Sacrifice a friendly unit.
-
-
-
-#</text>
+    <text>{Damaged} Sacrifice a friendly unit.</text>
   </card>
 	<card>
     <name>Direkin Devil</name>
@@ -808,11 +608,7 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <color>B</color>
     <pt>8/8</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice 2 cards: Resurrect this unit.
-
-
-
-#</text>
+    <text>Sacrifice 2 cards: Resurrect this unit.</text>
   </card>
 	<card>
     <name>Abdogul Gaar, Stygian Warden</name>
@@ -823,11 +619,7 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <pt>5/12</pt>
     <tablerow>2</tablerow>
     <text>[Guard]
-{Death} Shuffle your graveyard into your deck.
-
-
-
-#</text>
+{Death} Shuffle your graveyard into your deck.</text>
   </card>
 	<card>
     <name>Blaspheme</name>
@@ -836,11 +628,7 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Lose 1 Max Quanta: Annihilate a card.
-
-
-
-#</text>
+    <text>Lose 1 Max Quanta: Annihilate a card.</text>
 	</card>
 	<card>
     <name>Soul Pact</name>
@@ -849,11 +637,7 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target an enemy unit. When you would sacrifice a card this turn: You can sacrifice that unit as if you controlled it.
-
-
-
-#</text>
+    <text>Target an enemy unit. When you would sacrifice a card this turn: You can sacrifice that unit as if you controlled it.</text>
 	</card>
 	<card>
     <name>Resurrection</name>
@@ -871,7 +655,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
   <card>
     <name>Body Control</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>7Q</manacost>
+    <manacost>6Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
@@ -888,11 +672,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target 2 cards. This turn, if one dies, so does the other.
-
-
-
-#</text>
+    <text>Target 2 cards. This turn, if one dies, so does the other.</text>
 	</card>
   <card>
     <name>Flesh Revolt</name>
@@ -901,11 +681,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Activate when an enemy unit attacks. You choose the attack target (it can be another enemy unit).
-
-
-
-#</text>
+    <text>Activate when an enemy unit attacks. You choose the attack target (it can be another enemy unit).</text>
 	</card>
   <card>
     <name>Corpse Corruption</name>
@@ -914,11 +690,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Summon a 3/2 Dire Spawn token for each unit destroyed this turn.
-
-
-
-#</text>
+    <text>Summon a 3/2 Dire Spawn token for each unit destroyed this turn.</text>
 	</card>
 	<card>
     <name>Stigma</name>
@@ -928,11 +700,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <color>B</color>
     <tablerow>0</tablerow>
     <text>{Upkeep} If this relic has 3 or more counters on it, sacrifice it: Annihilate all enemy units.
-When an opponent summons a unit, you can sacrifice a card: Put a counter on this relic.
-
-
-
-#</text>
+When an opponent summons a unit, you can sacrifice a card: Put a counter on this relic.</text>
 	</card>
 	<card>
     <name>Wormhole</name>
@@ -986,11 +754,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <pt>1/4</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Add a relic from a graveyard to your hand.
-
-
-
-#</text>
+    <text>{Summon} Add a relic from a graveyard to your hand.</text>
   </card>
   <card>
     <name>Wisp Whisperer</name>
@@ -1000,11 +764,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <pt>2/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Look at the top 5 cards of your deck. You can add a card that costs 0Q from among them to your hand. Then, shuffle your deck.
-
-
-
-#</text>
+    <text>{Summon} Scry 5. You can add a card that costs 0Q from among them to your hand. Then, shuffle your deck.</text>
   </card>
   <card>
     <name>Carver of Curios</name>
@@ -1014,11 +774,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <pt>5/4</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} You can sacrifice a relic: Summon a relic from your hand with an equal or lower Quanta cost.
-
-
-
-#</text>
+    <text>{Summon} You can sacrifice a relic: Summon a relic from your hand with an equal or lower Quanta cost.</text>
   </card>
   <card>
     <name>Moonlit Maiden</name>
@@ -1028,11 +784,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gets +1/+1 for each friendly relic.
-
-    
-
-#</text>
+    <text>{Summon} This unit gets +1/+1 for each friendly relic.</text>
   </card>
   <card>
     <name>Sunlit Seraphim</name>
@@ -1046,11 +798,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 - Nature ~ Gain 5Q.
 - Arcane ~ Draw 2 cards.
 - Science ~ Deal 5 damage.
-- Outsider ~ Annihilate all enemy units until your next upkeep.
-
-
-
-#</text>
+- Outsider ~ Annihilate all enemy units until your next upkeep.</text>
   </card>
   <card>
     <name>Astral Conciousness</name>
@@ -1061,11 +809,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <pt>3/12</pt>
     <tablerow>1</tablerow>
     <text>[Guard]
-{Summon} Your relics become 3/3 Animations (they are still treated as relics).
-
-    
-
-#</text>
+{Summon} Your relics become 3/3 Animations (they are still treated as relics).</text>
   </card>
   <card>
     <name>Resonance Reflector</name>
@@ -1074,11 +818,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Deal X damage, where X is the number of relics you control.
-
-
-
-#</text>
+    <text>Deal X damage, where X is the number of relics you control.</text>
 	</card>
   <card>
     <name>Shatterstorm</name>
@@ -1087,11 +827,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Destroy a card, then destroy all cards with the same Quanta Cost as that card.
-
-
-
-#</text>
+    <text>Destroy a card, then destroy all cards with the same Quanta Cost as that card.</text>
 	</card>
   <card>
     <name>Clockwork Angel</name>
@@ -1100,11 +836,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support — Flash</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Summon this card as a 3/6 Construct with [Guard]. If you activated this card in response to an enemy attack, it becomes the target of that attack. Return it to your hand at the end of the turn.
-
-
-
-#</text>
+    <text>Summon this card as a 3/6 Construct with [Guard]. If you activated this card in response to an enemy attack, it becomes the target of that attack. Return it to your hand at the end of the turn.</text>
 	</card>
   <card>
     <name>Chronostone</name>
@@ -1113,11 +845,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Mythical Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon/Death} End the turn.
-
-
-
-#</text>
+    <text>{Summon/Death} End the turn.</text>
 	</card>
   <card>
     <name>Ichor Goblet</name>
@@ -1127,11 +855,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <tablerow>0</tablerow>
     <text>When a friendly unit dies, put a counter on this relic.
-Sacrifice: Gain XQ, where X is the number of counters that were on this relic.
-
-
-
-#</text>
+Sacrifice: Gain XQ, where X is the number of counters that were on this relic.</text>
 	</card>
   <card>
     <name>Seaspire Sundry</name>
@@ -1141,11 +865,7 @@ Sacrifice: Gain XQ, where X is the number of counters that were on this relic.
     <color></color>
     <tablerow>0</tablerow>
     <text>Exert: Gain 1Q.
-{Echo} Pay 1Q: Summon a Seaspire Sundry from your deck.
-
-
-
-#</text>
+{Echo} Pay 1Q: Summon a Seaspire Sundry from your deck.</text>
 	</card>
   <card>
     <name>Boulder Bulwark</name>
@@ -1154,11 +874,7 @@ Sacrifice: Gain XQ, where X is the number of counters that were on this relic.
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon/Upkeep} Summon a 0/5 Boulder token with [Guard] and [Pacifist].
-
-
-
-#</text>
+    <text>{Summon/Upkeep} Summon a 0/5 Boulder token with [Guard] and [Pacifist].</text>
 	</card>
   
 	<!-- Pure -->
@@ -1307,7 +1023,7 @@ He always comes back for more.</text>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>[Aura]
-{Summon/Death/Attack} Look at the top 4 cards of your deck. You can add a support from among them to your hand and put the rest on the bottom of your deck.</text>
+{Summon/Death/Attack} Scry 4. You can add a support from among them to your hand. Put the rest on the bottom of your deck.</text>
 	</card>
 
 	<card>
@@ -2284,7 +2000,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
     <pt>0/3</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>{Death} Look at the top 3 cards of your deck. Put them back in any order.
+    <text>{Death} Scry 3. Put them back on the top of your deck in any order.
 
 
 
