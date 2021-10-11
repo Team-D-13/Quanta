@@ -1171,11 +1171,25 @@ Sacrifice: Gain XQ, where X is the number of counters that were on this relic.
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 3Q, exert, and annihilate a support in your graveyard: Deal 2 damage.
+    <text>Pay 2Q, exert, and annihilate a support in your graveyard: Deal 2 damage.
 
 
 
 The last breath of the Pyre still smoulders, awaiting the day it will be rekindled.</text>
+	</card>
+    
+    <card>
+    <name>Hyrix, Illusory Illusionist</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <type>Arcane Quanta Lord — Animation Mage</type>
+    <color>U</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Pay 1Q, exert: Return a friendly unit to your hand.
+
+
+
+Were they ever really here?</text>
 	</card>
 
 	<card>
@@ -1251,7 +1265,7 @@ Life is a powerful fuel.</text>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Mage</type>
-    <pt>1/4</pt>
+    <pt>1/5</pt>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>[Aura], [Pierce]
@@ -1365,11 +1379,25 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 2Q, exert, sacrifice a Construct: Draw a card.
+    <text>Pay 1Q, exert, sacrifice a Construct: Draw a card.
 
 
 
 "They told me I didn't treat the machines with enough respect. I say we've never learned more from them."</text>
+	</card>
+    
+    <card>
+    <name>Tyrano, Overseer Shard</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <type>Science Quanta Lord — Construct</type>
+    <color>R</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Pay 1Q, exert: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a 1/1 Drone token.
+
+
+
+Echelon's intelligence was too valuable to lock away entirely.</text>
 	</card>
 
 	<card>
@@ -1543,6 +1571,20 @@ Exert: Destroy a relic.</text>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>Sacrifice 3 units and exert: Resurrect a unit.</text>
+	</card>
+    
+    <card>
+    <name>Lythgrlk, Maw of Miasma</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <type>Outsider Quanta Lord — Horror</type>
+    <color>B</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Exert, pay 2Q and annihilate a unit from your graveyard: Give a unit [Toxic].
+    
+    
+
+Death is an attribute which, with effort, and be extracted, purified, and weaponized.</text>
 	</card>
 
 
@@ -1735,6 +1777,16 @@ Exert and pay 3 life: Summon a 2/1 Spawn token.</text>
 
 "Do not be fooled. While I have lasted longer than most,
 that vile liquid is tearing me apart even now."</text>
+	</card>
+    
+    <card>
+    <name>Thag, the First Giant</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <type>Nature Quanta Lord — Titan</type>
+    <color>G</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Exert and pay 2Q: Give a unit +1/+1.</text>
 	</card>
 
 	<card>
