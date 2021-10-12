@@ -3349,7 +3349,7 @@ You are equal to what you think, severely.</text>
 	<card>
     <name>Hopeless Horizon Savant</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
-    <manacost>6Q</manacost>
+    <manacost>7Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
     <pt>6/1</pt>
@@ -3418,8 +3418,8 @@ A single spire stands in the center of the crater.</text>
 At the end of your turn, you can annihilate a unit from your graveyard: This unit heals equal to its toughness or gains either +3/0 or +0/3.
 When this unit deals battle damage, you can annihilate a unit from your graveyard: Deal damage equal to its strength.
 
-    
-    
+
+
 A remorseful cheater. This time he's playing until he loses.</text>
   </card>
 
@@ -3433,8 +3433,9 @@ A remorseful cheater. This time he's playing until he loses.</text>
     <tablerow>1</tablerow>
     <text> This unit can attack friendly units.
 {Kill} If the killed unit was friendly, heal your Quanta Lord equal to that unit's Quanta cost, then this unit gains +1/+1.
-    
-    
+
+
+
 Proud chef and butcher on a quest to serve man.</text>
   </card>
 
@@ -3448,8 +3449,8 @@ Proud chef and butcher on a quest to serve man.</text>
     <tablerow>1</tablerow>
     <text>{Flash} During an opponent's turn, exert: The turn player reveals a card in their hand, then you can swap it for a card of the same card type from your hand.
 
-	
-	
+
+
 In the right moment, with the right angle, anything is possible.</text>
   </card>
 
@@ -3466,7 +3467,7 @@ Ignores [Hidden].
 {Flash} Exert: Give a friendly unit [Hidden] until your next upkeep.
 
 
-	
+
 A fair and just ruler with nothing to hide.</text>
   </card>
 
