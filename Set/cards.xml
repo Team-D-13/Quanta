@@ -3349,14 +3349,13 @@ You are equal to what you think, severely.</text>
 	<card>
     <name>Hopeless Horizon Savant</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
-    <manacost>7Q</manacost>
+    <manacost>6Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
     <pt>6/1</pt>
     <tablerow>1</tablerow>
-    <text>This unit can have 2 instances of [Aura].
+    <text>[Aura], [Aura], [Aura]
 {Flash} Remove [Aura] from this unit: Give it [Shroud] until the end of turn.
-{Summon/Upkeep} Give this unit [Aura], twice.
 	
 	
 	
