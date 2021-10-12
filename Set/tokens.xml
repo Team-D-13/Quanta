@@ -35,6 +35,17 @@
     <text></text>
     <token>1</token>
   </card>
+  <card>
+    <name>Elemental</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">TK</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit — Elemental</type>
+    <color>U</color>
+    <pt>3/3</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
 	<card>
     <name>Drone</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
@@ -55,6 +66,18 @@
     <pt>3/2</pt>
     <tablerow>1</tablerow>
     <text>[Swift]</text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Statue of an Ugly, Grinning man</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnimation.png">TK</set>
+    <manacost>0Q</manacost>
+    <type>Outsider Unit — Animation</type>
+    <color>B</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>[Aura]
+When you summon a unit, take 1 damage.</text>
     <token>1</token>
   </card>
 	<card>
@@ -113,6 +136,34 @@
     <token>1</token>
   </card>
   <card>
+    <name>Surpassed Servant</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <manacost>10Q</manacost>
+    <type>Mythical Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>10/10</pt>
+    <tablerow>2</tablerow>
+    <text>[Pacifist]
+{Upkeep} Your Quanta Lord takes 10 damage.
+
+
+
+... your time is up.</text>
+  </card>
+  <card>
+    <name>Salty the Hamster</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Mythical Neutral Unit — Beast</type>
+    <color>B</color>
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text>Exert and pay 1Q: Deal 2 damage.
+Exert and pay 2Q: Draw 2 cards, then discard a card.
+Exert and pay 3Q: Stun all enemy units.</text>
+    <token>1</token>
+  </card>
+  <card>
     <name>Boulder</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">TK</set>
     <manacost>2Q</manacost>
@@ -121,17 +172,6 @@
     <pt>0/5</pt>
     <tablerow>1</tablerow>
     <text>[Guard], [Pacifist]</text>
-    <token>1</token>
-  </card>
-  <card>
-    <name>Elemental</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">TK</set>
-    <manacost>3Q</manacost>
-    <type>Arcane Unit — Elemental</type>
-    <color>U</color>
-    <pt>3/3</pt>
-    <tablerow>1</tablerow>
-    <text></text>
     <token>1</token>
   </card>
   </cards>

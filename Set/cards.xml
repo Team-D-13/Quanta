@@ -127,7 +127,25 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Copy this unit.</text>
+    <text>{Damaged} Copy this unit.
+
+
+
+Some say that since the cataclysm, Brunell's forests have been cast smothered within a blanket of eternal night. Only those brave enough to venture the wilderness themselves discover the terrifying truth.</text>
+  </card>
+  <card>
+    <name>Skull Scarab</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Nature Unit — Insect</type>
+    <color>G</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Target a unit: Steal its strength and toughness.
+
+
+
+"... so I looked behind me, and Steve was staring straight at me. But his chest, his arms—the rest of him, he was facing the other way, man! But his head? ... No... No, that wasn't his head..."</text>
   </card>
 	<card>
     <name>Island Turtle</name>
@@ -148,7 +166,11 @@ If this unit would take more than 3 damage from a battle, it takes 3 damage inst
     <color>G</color>
     <pt>10/10</pt>
     <tablerow>1</tablerow>
-    <text>Costs 1Q less for each friendly unit.</text>
+    <text>Costs 1Q less for each friendly unit.
+
+
+
+The heart which once slumbered within a sea of blood, awoken by the breath of its spawn.</text>
   </card>
 	<card>
     <name>Double Rainbow</name>
@@ -300,6 +322,15 @@ When you deal effect damage, this unit gains +1/0.</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Draw a card and reveal it. If it was a support, draw another.</text>
+	</card>
+  <card>
+    <name>Appraise</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Draw 2 cards, then discard a card.</text>
 	</card>
 	<card>
     <name>Doublecast</name>
@@ -520,11 +551,21 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	<card>
     <name>Defense Matrix</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>5Q</manacost>
+    <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>When you summon a unit, give it [Aura]. If it is a Construct, also give it [Regenerate] until your next upkeep.</text>
+	</card>
+  <card>
+    <name>Deathcloud Capsules</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Science Relic</type>
+    <color>R</color>
+    <tablerow>0</tablerow>
+    <text>{Summon} Put 3 counters on this card.
+When a friendly Construct token attacks, you can remove a counter from this card: Give it [Toxic] for that battle.</text>
 	</card>
   
   <!-- Outsider -->
@@ -557,10 +598,10 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
     <manacost>2Q</manacost>
     <type>Outsider Unit — Insect Demon</type>
     <color>B</color>
-    <pt>1/3</pt>
+    <pt>1/2</pt>
     <tablerow>1</tablerow>
     <text>[Toxic]
-When you would play this card, you can sacrifice a card instead of paying this unit's Quanta cost.</text>
+{Summon} Sacrifice another card: Give this unit [Swift].</text>
   </card>
 	<card>
     <name>Gravetrawler</name>
@@ -590,6 +631,22 @@ When you would play this card, you can sacrifice a card instead of paying this u
 
 "Don't bother praying. Your words won't reach them."</text>
   </card>
+  <card>
+    <name>Iconoclast</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit — Warlock</type>
+    <color>B</color>
+    <pt>5/2</pt>
+    <tablerow>1</tablerow>
+    <text>When this unit deals damage to a Quanta Lord, they lose 1 Max Quanta.
+
+
+
+"Your god will be left to starve in the torrid sands of the western desert, abandoned alone in the savage wilderness, cast down the Pit of Hangoul, and impaled upon the filthiest cross we can find. And you will watch.
+
+And you will rejoice." —Abdogul Gaar</text>
+  </card>
 	<card>
     <name>Direkin Destroyer</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
@@ -598,28 +655,34 @@ When you would play this card, you can sacrifice a card instead of paying this u
     <color>B</color>
     <pt>8/8</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Sacrifice a friendly unit.</text>
+    <text>{Damaged} Sacrifice a friendly card.</text>
+  </card>
+  <card>
+    <name>Servant for Now</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Outsider Unit — Human Horror</type>
+    <color>B</color>
+    <pt>3/3</pt>
+    <tablerow>2</tablerow>
+    <text>[Invulnerable]
+{Battle} This unit gains +1/+1.
+{Upkeep} If this unit has 10/10 or more, transform it into a 10/10 Surpassed Servant token with [Pacifist] and the following effect...
+- {Upkeep} Your Quanta Lord takes 10 damage.
+
+
+
+Now...</text>
   </card>
 	<card>
     <name>Direkin Devil</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
-    <manacost>8Q</manacost>
+    <manacost>6Q</manacost>
     <type>Outsider Unit — Demon</type>
     <color>B</color>
-    <pt>8/8</pt>
+    <pt>6/6</pt>
     <tablerow>1</tablerow>
     <text>Sacrifice 2 cards: Resurrect this unit.</text>
-  </card>
-	<card>
-    <name>Abdogul Gaar, Stygian Warden</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderDemon.png">C1</set>
-    <manacost>8Q</manacost>
-    <type>Mythical Outsider Unit — Demon</type>
-    <color>B</color>
-    <pt>5/12</pt>
-    <tablerow>2</tablerow>
-    <text>[Guard]
-{Death} Shuffle your graveyard into your deck.</text>
   </card>
 	<card>
     <name>Blaspheme</name>
@@ -829,7 +892,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Deal X damage, where X is the number of relics you control.</text>
+    <text>Deal damage equal to the number of relics you control.</text>
 	</card>
   <card>
     <name>Shatterstorm</name>
@@ -848,15 +911,6 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <tablerow>3</tablerow>
     <text>Summon this card as a 3/6 Construct with [Guard]. If you activated this card in response to an enemy attack, it becomes the target of that attack. Return it to your hand at the end of the turn.</text>
-	</card>
-  <card>
-    <name>Chronostone</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessPassive.png">C1</set>
-    <manacost>0Q</manacost>
-    <type>Mythical Neutral Relic</type>
-    <color></color>
-    <tablerow>0</tablerow>
-    <text>{Summon/Death} End the turn.</text>
 	</card>
   <card>
     <name>Ichor Goblet</name>
@@ -1191,7 +1245,7 @@ Exert: Destroy a relic.</text>
     <pt>1/7</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>{Battle} Deal X damage to the opposer, where X is the number of relics you control.</text>
+    <text>{Battle} Deal damage to the opposer equal to the number of relics you control.</text>
 	</card>
 
 	<card>
@@ -1390,7 +1444,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <pt>3/4</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>Whenever another unit dies, select an effect...
+    <text>When another friendly unit dies, select an effect...
 - Summon a 2/1 Spawn token.
 - Horrors you control get +1/+1.</text>
 	</card>
@@ -1437,7 +1491,7 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
 	<card>
     <name>Dissect</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>1Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
@@ -1979,7 +2033,7 @@ Bow before Glorious Perfection.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When an opponent plays a unit, you can pay 2Q, discard a card and exert: Return that unit to its controller's hand.
+    <text>When an opponent plays a unit, you can exert, discard a card and pay 2Q: Return that unit to its controller's hand.
 
 
 
@@ -2826,7 +2880,7 @@ Tentacles. Why did it have to be tentacles.</text>
     <name>Lost Signal</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Outsider Unit — Horror</type>
+    <type>Mythical Outsider Unit — Horror</type>
     <pt>5/5</pt>
     <color>B</color>
     <tablerow>1</tablerow>
@@ -2841,7 +2895,7 @@ If killed by a unit, annihilate the killer.
 	<card>
     <name>Mitosis</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
@@ -3369,7 +3423,7 @@ You are equal to what you think, severely.</text>
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert and pay 3Q: Annihilate a unit until the end of the turn.
+    <text>{Flash} Exert, discard a card and pay 2Q: Annihilate a unit until the end of the turn.
 
 
 
@@ -3394,15 +3448,18 @@ A single spire stands in the center of the crater.</text>
 	<card>
     <name>Grey Crane</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
-    <manacost>3Q</manacost>
-    <type>Neutral Unit — Human</type>
+    <manacost>4Q</manacost>
+    <type>Mythical Neutral Unit — Human</type>
     <color></color>
-    <pt>3/2</pt>
+    <pt>2/3</pt>
     <tablerow>1</tablerow>
-    <text>Exert: Target a Quanta Lord. Until your next upkeep, the first time that Quanta Lord summons a unit, deal damage to that Quanta Lord equal to this card's strength.
-    
-    
-    
+    <text>[Guard]
+{Summon} Summon a 2/1 Salty the Hamster token with the following effects:
+- Exert and pay 1Q: Deal 2 damage.
+- Exert and pay 2Q: Draw 2 cards, then discard a card.
+- Exert and pay 3Q: Stun all enemy units.
+
+
 "The cake has been prepared. To speak not of the wine."</text>
   </card>
 
@@ -3412,11 +3469,11 @@ A single spire stands in the center of the crater.</text>
     <manacost>8Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
-    <pt>6/6</pt>
+    <pt>5/10</pt>
     <tablerow>1</tablerow>
     <text>[Guard]
-At the end of your turn, you can annihilate a unit from your graveyard: This unit heals equal to its toughness or gains either +3/0 or +0/3.
-When this unit deals battle damage, you can annihilate a unit from your graveyard: Deal damage equal to its strength.
+{Damaged} Annihilate a unit from your graveyard.
+This unit has [Regenerate] while you have a unit in your graveyard.
 
 
 
@@ -3427,12 +3484,11 @@ A remorseful cheater. This time he's playing until he loses.</text>
     <name>Cattle Provider</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHorror.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Neutral Unit — Horror</type>
+    <type>Neutral Unit — Human Horror</type>
     <color></color>
-    <pt>3/4</pt>
+    <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text> This unit can attack friendly units.
-{Kill} If the killed unit was friendly, heal your Quanta Lord equal to that unit's Quanta cost, then this unit gains +1/+1.
+    <text>Sacrifice another unit: Heal life equal to that unit's Quanta cost, then this unit gains +1/+1.
 
 
 
@@ -3442,12 +3498,13 @@ Proud chef and butcher on a quest to serve man.</text>
 	<card>
     <name>Fickle Fisher</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>6Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
-    <pt>1/1</pt>
+    <pt>2/8</pt>
     <tablerow>1</tablerow>
-    <text>{Flash} During an opponent's turn, exert: The turn player reveals a card in their hand, then you can swap it for a card of the same card type from your hand.
+    <text>[Hidden]
+{Upkeep} Two different random players choose a card in their respective hands and swap them.
 
 
 
@@ -3529,7 +3586,7 @@ Re-route the power to the flux capacitors! No one's ever tried this before!</tex
 
 
 
-When the veil parts, look through their eyes. -Khelengue Slab</text>
+When the veil parts, look through their eyes. —Khelengue Slab</text>
   </card>
 
 	<card>
@@ -3540,7 +3597,7 @@ When the veil parts, look through their eyes. -Khelengue Slab</text>
     <color>B</color>
     <pt>6/6</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} If all units in your graveyard have the same name, give this unit [Guard], [Drain], [Regeneration], [Toxic], [Aura].
+    <text>{Summon} If all units in your graveyard have the same name, give this unit [Guard], [Drain], [Regenerate], [Toxic], [Aura].
 
 
 
@@ -3581,11 +3638,11 @@ What arose that day wore his name.</text>
     <name>Boris the Breaker</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Nature Unit — Human</type>
+    <type>Mythical Nature Unit — Human</type>
     <color>G</color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Cards with the same name as the killed unit cannot be played for the rest of the game.
+    <text>{Kill} Return all enemy units with a lower Quanta cost than the killed unit to their controller's hand.
 
 
 
@@ -3654,9 +3711,9 @@ Anyone can achieve power. Few can keep it.</text>
 
 	<card>
     <name>Dark Lard</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureAscendant.png">C1</set>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSlime.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Nature Unit — Ascendant</type>
+    <type>Nature Unit — Slime</type>
     <color></color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
@@ -3670,11 +3727,11 @@ A strange mass that sleeps below a forest.</text>
 	<card>
     <name>Garage Sale</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
-    <manacost>0Q</manacost>
+    <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Give an opponent a card in your hand, and if you do, draw a card.
+    <text>Give an opponent a card in your hand, and if you do, draw 2 cards.
 
 
 
@@ -3704,8 +3761,8 @@ The Champ doesn't lose.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Your opponent summons a 1/1 Statue of an Ugly, Grinning Man token. It has the following effect...
-- When you play a unit, take 2 damage.
+    <text>Target opponent summons a 1/1 Statue of an Ugly, Grinning Man token. It has [Aura] and the following effect...
+- When you summon a unit, take 1 damage.
 
 
 
@@ -3889,12 +3946,12 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
 
 	<card>
     <name>Quack</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
-    <manacost>6Q</manacost>
-    <type>Neutral Relic</type>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>{Upkeep} Deal 1 damage to ALL ENEMIES.
+    <text>Deal 1 damage to all enemies. Shuffle this card into your deck.
 
 
 
