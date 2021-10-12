@@ -3188,7 +3188,7 @@ Herald of the gleaming isle. They seek and claim. If you're lucky, they'll ask f
     <color></color>
     <pt>3/6</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Deal damage equal to your units' combined strength minus your units' combined original strength.
+    <text>{Summon} Deal damage equal to your units' combined strength bonuses.
 
 
 
@@ -3198,11 +3198,11 @@ This is it.</text>
 	<card>
     <name>Devastroy</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>4</tablerow>
-    <text>Destroy a Unit. Play it. Destroy it (again).
+    <text>Destroy a unit. Resurrect it. Destroy it (again).
 
 
 
