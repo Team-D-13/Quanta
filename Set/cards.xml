@@ -757,6 +757,17 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <text>{Summon} Add a relic from a graveyard to your hand.</text>
   </card>
   <card>
+    <name>Silent Servant</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Unit — Human</type>
+    <color></color>
+    <pt>5/5</pt>
+    <tablerow>1</tablerow>
+    <text>[Pacifist]
+{Damaged} Purge this unit.</text>
+  </card>
+  <card>
     <name>Wisp Whisperer</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
@@ -1960,6 +1971,7 @@ Bow before Glorious Perfection.</text>
 	</card>
   
   <!-- Alex -->
+  
 	<card>
     <name>Dream Curator Tycho</name>
 		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
@@ -3336,9 +3348,9 @@ You are equal to what you think, severely.</text>
 
 	<card>
     <name>Hopeless Horizon Savant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>7Q</manacost>
-    <type>Neutral Unit — Human</type>
+    <type>Mythical Neutral Unit — Human</type>
     <color></color>
     <pt>6/1</pt>
     <tablerow>1</tablerow>
@@ -3791,12 +3803,11 @@ One of the oldest moves, if not the oldest.</text>
     <name>Curse of the Mummy</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Nature Unit — Ascendant</type>
+    <type>Arcane Unit — Undead</type>
     <color>U</color>
     <pt>1/7</pt>
     <tablerow>1</tablerow>
-    <text>[Slow]
-Units this card damages gain [Slow].
+    <text>{Battle} Purge the opposing unit and give it this effect.
 
 
 
