@@ -726,7 +726,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
 	</card>
   <card>
     <name>Body Control</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3962,9 +3962,9 @@ At first, they feel nothing, then, they feel nothing.</text>
 
 	<card>
     <name>Pact with the Reaper</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Arcane Support</type>
+    <type>Outsider Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>This turn, you can play units from your graveyard, but you take damage equal to their Quanta cost.
