@@ -1803,7 +1803,7 @@ Training is never over.</text>
     <pt>2/3</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Flash} 3Q: Swap this in your hand with a unit you control (anything that was targeting it is targeting this now).
+    <text>{Flash} Pay 3Q: Swap this card in your hand with a unit you control (anything that was targeting it is targeting this now).
     
     
     
@@ -3470,7 +3470,7 @@ It, is coming.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When you would deal damage, you can exert: Place that many counters on this card instead.
+    <text>When an enemy would take damage, you can exert: Place that many counters on this card instead.
 Exert: Remove X counters from this card and deal that much damage.
 
 
@@ -3552,7 +3552,6 @@ In the right moment, with the right angle, anything is possible.</text>
     <pt>4/7</pt>
     <tablerow>1</tablerow>
     <text>[Swift]
-Ignores [Hidden].
 {Flash} Exert: Give a friendly unit [Hidden] until your next upkeep.
 
 
