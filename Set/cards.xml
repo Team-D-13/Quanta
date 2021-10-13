@@ -254,7 +254,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>1/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert and target a unit which costs 2Q or less: This unit transforms into it (retaining its toughness).</text>
+    <text>Exert: Transform this unit into another unit that costs 2Q or less (retaining its toughness).</text>
   </card>
   <card>
     <name>Elemental Residue</name>
