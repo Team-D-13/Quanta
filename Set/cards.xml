@@ -3999,7 +3999,7 @@ Make it stop. MAKE IT STOP!</text>
     <pt>2/2</pt>
     <color>N</color>
     <tablerow>3</tablerow>
-    <text>If this unit has strength/toughness bonuses, it has +2/+2 and [Swift].
+    <text>If this unit has any strength/toughness bonuses, it has +2/+2 and [Swift].
     
     
     
@@ -4013,7 +4013,7 @@ Uh. Ah. Uh. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Exert and give a Science unit -1/-1 until the end of the turn: Play a Drone token and immediately attack a unit with it, then destroy it.
+    <text>Exert, then give a Construct unit -1/-1 until the end of the turn: Play a Drone token and immediately attack a unit with it, then destroy it.
     <related>Drone</related> 
 
     
@@ -4029,7 +4029,7 @@ Commencing defense analysis.</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>{Summon} Place 5 counters on this card.
-When you play a support: Deal 1 damage.
+When you cast a support: Deal 1 damage.
 At the end of the turn, if you didn't play a support: Remove a counter from this card or destroy it if it has none.
 
     
