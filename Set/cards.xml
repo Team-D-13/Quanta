@@ -3990,6 +3990,66 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
 
 Make it stop. MAKE IT STOP!</text>
   </card>
+	  
+	  <card>
+    <name>Tiki Tribesman</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Unit - Human</type>
+    <pt>2/2</pt>
+    <color>N</color>
+    <tablerow>3</tablerow>
+    <text>If this unit has strength/toughness bonuses, it has +2/+2 and [Swift].
+    
+    
+    
+Uh. Ah. Uh. Tiki tiki.</text>
+	</card>
+	  
+	  <card>
+    <name>Intel Probing</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Science Relic</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Exert and give a Science unit -1/-1 until the end of the turn: Play a Drone token and immediately attack a unit with it, then destroy it.
+    <related>Drone</related> 
+
+    
+    
+Commencing defense analysis.</text>
+	</card>
+	  
+<card>
+    <name>Starborne City of Kalangue</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Arcane Relic</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>{Summon} Place 5 counters on this card.
+When you play a support: Deal 1 damage.
+At the end of the turn, if you didn't play a support: Remove a counter from this card or destroy it if it has none.
+
+    
+    
+The King of Kalamesh sought a city in the sky. His advisor had bigger plans.</text>
+	</card>
+	  
+	  <card>
+    <name>Chronological Pulse</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Trigger your {Upkeep} effects immediately.
+
+    
+    
+Now is as good of a time as any.</text>
+	</card>
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
