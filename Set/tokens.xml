@@ -47,6 +47,17 @@
     <text></text>
     <token>1</token>
   </card>
+  <card>
+    <name>Metal Facsimile</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>XQ</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>X/X</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
 	<card>
     <name>Drone</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
