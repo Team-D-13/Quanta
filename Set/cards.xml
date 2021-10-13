@@ -76,7 +76,8 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon 2 1/1 Nestling tokens.</text>
+    <text>{Summon} Summon 2 Nestling tokens.</text>
+    <related>Nestling</related>
   </card>
 	<card>
     <name>Pack Hound</name>
@@ -106,8 +107,8 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>5/3</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Summon a 0/1 Chicken Egg token with [Pacifist] and the following effect...
-- {Echo} Summon a 2/1 Chicken token.</text>
+    <text>{Kill} Summon a Chicken Egg token.</text>
+    <related>Chicken Egg</related>
   </card>
 	<card>
     <name>Ravenous Rooster</name>
@@ -404,11 +405,12 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and sacrifice a Construct: Summon an X/X Metal Facsimile token, where X is the sacrificed Construct's Quanta cost.
+    <text>Exert and sacrifice a Construct: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed Construct's Quanta cost.
 
 
 
 "He said he'd make me cuter, but I didn't think he meant it like this!"</text>
+    <related>Metal Facsimile</related>
   </card>
 	<card>
     <name>Ace Pilot</name>
@@ -418,7 +420,8 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <color>R</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon a 1/1 Drone token.</text>
+    <text>{Summon} Summon a Drone token.</text>
+    <related>Drone</related>
   </card>
   <card>
     <name>Spinbot</name>
@@ -449,7 +452,8 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <color>R</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice: Summon 3 1/1 Drone tokens.</text>
+    <text>Sacrifice: Summon 3 Drone tokens.</text>
+    <related>Drone</related>
   </card>
 	<card>
     <name>Magnetiser</name>
@@ -479,7 +483,8 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <color>R</color>
     <pt>8/8</pt>
     <tablerow>1</tablerow>
-    <text>{Summon/Upkeep} Summon 2 3/2 Option tokens with [Swift].</text>
+    <text>{Summon/Upkeep} Summon 2 Option tokens.</text>
+    <related>Option</related>
   </card>
   <card>
     <name>Machinery Mobilization</name>
@@ -515,7 +520,8 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Summon a 1/1 Drone token.</text>
+    <text>{Upkeep} Summon a Drone token.</text>
+    <related>Drone</related>
 	</card>
   <card>
     <name>Frontline Module</name>
@@ -545,8 +551,9 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
     <text>{Summon} Select 2 different effects...
 - Deal 6 damage.
 - Give friendly units +2/+2.
-- Summon 4 1/1 Drone tokens.
+- Summon 4 Drone tokens.
 {Upkeep} Put 1 counter on this relic. Then, if this relic has 2 or more counters on it, sacrifice it and activate the selected effects.</text>
+    <related>Drone</related>
 	</card>
 	<card>
     <name>Defense Matrix</name>
@@ -576,11 +583,12 @@ When a friendly Construct token attacks, you can remove a counter from this card
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a 4/3 Fledgling Scourge token.
+    <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a Fledgling Scourge token.
 
 
 
 Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen feathers instead dye the waters of Indra a dismal grey.</text>
+    <related>Fledgling Scourge</related>
   </card>
 	<card>
     <name>Writhing Flesh</name>
@@ -667,12 +675,12 @@ And you will rejoice." —Abdogul Gaar</text>
     <tablerow>2</tablerow>
     <text>[Invulnerable]
 {Battle} This unit gains +1/+1.
-{Upkeep} If this unit has 10/10 or more, transform it into a 10/10 Surpassed Servant token with [Pacifist] and the following effect...
-- {Upkeep} Your Quanta Lord takes 10 damage.
+{Upkeep} If this unit has 10/10 or more, transform it into a Surpassed Servant token.
 
 
 
 Now...</text>
+    <related>Surpassed Servant</related>
   </card>
 	<card>
     <name>Direkin Devil</name>
@@ -753,7 +761,8 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Summon a 3/2 Dire Spawn token for each unit destroyed this turn.</text>
+    <text>Summon a Dire Spawn token for each unit destroyed this turn.</text>
+    <related>Dire Spawn</related>
 	</card>
 	<card>
     <name>Stigma</name>
@@ -939,7 +948,8 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon/Upkeep} Summon a 0/5 Boulder token with [Guard] and [Pacifist].</text>
+    <text>{Summon/Upkeep} Summon a Boulder token.</text>
+    <related>Boulder</related>
 	</card>
   
 	<!-- Pure -->
@@ -1174,11 +1184,12 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 1Q, exert: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a 1/1 Drone token.
+    <text>Pay 1Q, exert: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a Drone token.
 
 
 
 Echelon's intelligence was too valuable to lock away entirely.</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -1189,7 +1200,8 @@ Echelon's intelligence was too valuable to lock away entirely.</text>
     <pt>1/2</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>{Death} Summon a 1/1 Drone token.</text>
+    <text>{Death} Summon a Drone token.</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -1268,7 +1280,8 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Death} Summon 1/1 Drone tokens equal to this unit's strength.</text>
+{Death} Summon Drone tokens equal to this unit's strength.</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -1330,7 +1343,8 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>Your Construct tokens have +2/0.
-{Summon} Summon 2 1/1 Drone tokens.</text>
+{Summon} Summon 2 Drone tokens.</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -1340,7 +1354,8 @@ Exert: Destroy a relic.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert a relic you control: Summon a 1/1 Drone token.</text>
+    <text>Exert a relic you control: Summon a Drone token.</text>
+    <related>Drone</related>
 	</card>
 
   <!-- Outsider -->
@@ -1377,7 +1392,8 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <pt>1/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Death} Summon a 2/1 Spawn token. Deal 2 damage to your Quanta Lord.</text>
+    <text>{Death} Summon a Spawn token. Deal 2 damage to your Quanta Lord.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -1400,7 +1416,8 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <pt>3/3</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>Exert: Annihilate a unit from a graveyard. If you do, summon a 2/1 Spawn token.</text>
+    <text>Exert: Annihilate a unit from a graveyard. If you do, summon a Spawn token.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -1411,7 +1428,8 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <pt>1/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon 2 2/1 Spawn tokens.</text>
+    <text>{Summon} Summon 2 Spawn tokens.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -1445,8 +1463,9 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <color>B</color>
     <tablerow>1</tablerow>
     <text>When another friendly unit dies, select an effect...
-- Summon a 2/1 Spawn token.
+- Summon a Spawn token.
 - Horrors you control get +1/+1.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -1457,8 +1476,9 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
     <pt>5/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon 2 1/2 Black Guard tokens with [Guard].
+    <text>{Summon} Summon 2 Black Guard tokens.
 Has [Invulnerable] and [Shroud] while you control a Black Guard token.</text>
+    <related>Black Guard</related>
 	</card>
 
 	<card>
@@ -1529,7 +1549,8 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>{Echo} Summon 12 2/1 Spawn tokens.</text>
+    <text>{Echo} Summon 12 Spawn tokens.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -1540,7 +1561,8 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <color>B</color>
     <tablerow>0</tablerow>
     <text>Whenever a friendly unit dies, your Quanta Lord heals 1 life.
-Exert and pay 3 life: Summon a 2/1 Spawn token.</text>
+Exert and pay 3 life: Summon a Spawn token.</text>
+    <related>Spawn</related>
 	</card>
 
 <!-- Nature -->
@@ -2111,11 +2133,12 @@ So many problems within, sometimes you forget about the problems without.</text>
     <pt>2/3</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>Exert: Return this card to your hand. Summon a 1/1 Drone token.
+    <text>Exert: Return this card to your hand. Summon a Drone token.
 
 
 
 "A thousand little spiders. Treading lightly on an invisible web."</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -2173,11 +2196,12 @@ When the [Aura] breaks, gains +4/+4.
     <type>Science Support</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Summon 2 1/1 Drone tokens or give a Construct +2/+2.
+    <text>Summon 2 Drone tokens or give a Construct +2/+2.
 
 
 
 "Branch or commit?"</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -2188,11 +2212,12 @@ When the [Aura] breaks, gains +4/+4.
     <color>R</color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage.
-{Kill} Summon a 1/1 Drone token.
+{Kill} Summon a Drone token.
 
 
 
 "Are you there. Are you there. Are you..."</text>
+    <related>Drone</related>
 	</card>
 
 	<card>
@@ -2384,11 +2409,12 @@ The old get older. The strong get stronger.</text>
     <pt>3/6</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>Once a turn, discard a card: Summon a 3/3 Elemental token with [Guard], [Hidden] or [Drain].
+    <text>Once a turn, discard a card: Summon an Elemental token and give it [Guard], [Hidden] or [Drain].
 
 
 
 "What is the shape of a shape?"</text>
+    <related>Elemental</related>
 	</card>
 
 	<card>
@@ -2500,11 +2526,12 @@ A long journey can change people.</text>
     <type>Mythical Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>For each card in your hand, summon a 3/3 Elemental with [Swift]. Destroy them at the end of your turn.
+    <text>For each card in your hand, summon an Elemental token and give it [Swift]. Destroy them at the end of your turn.
 
 
 
 "The land will never allow this to happen again."</text>
+    <related>Elemental</related>
 	</card>
 
 
@@ -2823,11 +2850,12 @@ The fettered return. It is their turn.</text>
     <pt>7/7</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Kill} Summon a 2/1 Spawn token for the killed unit's controller.
+    <text>{Kill} Summon a Spawn token for the killed unit's controller.
 
 
 
 "If only you knew."</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -2853,12 +2881,13 @@ The fettered return. It is their turn.</text>
     <pt>0/4</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Summon 3 2/1 Spawn tokens.
+    <text>{Summon} Summon 3 Spawn tokens.
 {Death} Destroy all Spawns you control.
 
 
 
 Tentacles. Why did it have to be tentacles.</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -2899,11 +2928,12 @@ If killed by a unit, annihilate the killer.
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Destroy a unit: Summon 2 3/2 Dire Spawn tokens for its controller.
+    <text>Destroy a unit: Summon 2 Dire Spawn tokens for its controller.
 
 
 
 "From one, many."</text>
+    <related>Dire Spawn</related>
 	</card>
 
 	<card>
@@ -2947,6 +2977,7 @@ Summon a Shadow token with stats equal to the amount reduced.
 
 
 "In your weakest moments, it grows stronger."</text>
+    <related>Shadow</related>
 	</card>
 
 	<card>
@@ -2970,11 +3001,12 @@ Kneel.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Mill 3 cards: Summon a 2/1 Spawn token for each unit milled.
+    <text>Mill 3 cards: Summon a Spawn token for each unit milled.
 
 
 
 "Sacrifices must be made."</text>
+    <related>Spawn</related>
 	</card>
 
 	<card>
@@ -3331,12 +3363,12 @@ Total extermination.</text>
 	<card>
     <name>Emulate</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Exert and pay 1Q: Attach a unit from your hand or graveyard to this card. Annihilate it when it is detached from this card.
-When you summon a token, you can detach a unit from this card with the same Quanta cost as that token: That token gains the detached unit's effects.
+    <text>Exert and pay 4Q: Attach a unit from your hand or graveyard to this card. Annihilate it when it is detached from this card.
+When you summon a unit, you can detach a unit from this card: Purge it, then that unit gains the detached unit's effects.
 
 
 
@@ -3454,13 +3486,12 @@ A single spire stands in the center of the crater.</text>
     <pt>2/3</pt>
     <tablerow>1</tablerow>
     <text>[Guard]
-{Summon} Summon a 2/1 Salty the Hamster token with the following effects:
-- Exert and pay 1Q: Deal 2 damage.
-- Exert and pay 2Q: Draw 2 cards, then discard a card.
-- Exert and pay 3Q: Stun all enemy units.
+{Summon} Summon a Salty the Hamster token.
+
 
 
 "The cake has been prepared. To speak not of the wine."</text>
+    <related>Salty the Hamster</related>
   </card>
 
 	<card>
@@ -3482,7 +3513,7 @@ A remorseful cheater. This time he's playing until he loses.</text>
 
 	<card>
     <name>Cattle Provider</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHorror.png">C1</set>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Human Horror</type>
     <color></color>
@@ -3761,12 +3792,12 @@ The Champ doesn't lose.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target opponent summons a 1/1 Statue of an Ugly, Grinning Man token. It has [Aura] and the following effect...
-- When you summon a unit, take 1 damage.
+    <text>Target opponent summons a Statue of an Ugly, Grinning Man token.
 
 
 
 Well... damn.</text>
+    <related>Statue of an Ugly, Grinning Man</related>
   </card>
 
 	<card>

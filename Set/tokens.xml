@@ -2,7 +2,7 @@
 <cockatrice_carddatabase version="3">
   <cards>
 	<card>
-    <name>Egg</name>
+    <name>Chicken Egg</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
     <manacost>0Q</manacost>
     <type>Nature Unit — Beast</type>
@@ -10,7 +10,8 @@
     <pt>0/1</pt>
     <tablerow>1</tablerow>
     <text>[Pacifist]
-{Death} Summon a 2/1 Chicken token.</text>
+{Death} Summon a Chicken token.</text>
+    <related>Chicken</related>
     <token>1</token>
   </card>
   <card>
@@ -149,6 +150,7 @@ When you summon a unit, take 1 damage.</text>
 
 
 ... your time is up.</text>
+    <token>1</token>
   </card>
   <card>
     <name>Salty the Hamster</name>
@@ -170,7 +172,7 @@ Exert and pay 3Q: Stun all enemy units.</text>
     <type>Neutral Unit — Animation</type>
     <color>B</color>
     <pt>0/5</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>[Guard], [Pacifist]</text>
     <token>1</token>
   </card>
