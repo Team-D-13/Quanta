@@ -753,7 +753,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
     <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Activate when an enemy unit attacks. You choose the attack target (it can be another enemy unit).</text>
+    <text>Activate when an enemy unit attacks. You choose the attack target (it can be another enemy).</text>
 	</card>
   <card>
     <name>Corpse Corruption</name>
@@ -911,7 +911,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Destroy a card, then destroy all cards with the same Quanta Cost as that card.</text>
+    <text>Destroy a card, and if you do, destroy all cards with the same Quanta Cost as that card.</text>
 	</card>
   <card>
     <name>Clockwork Angel</name>
@@ -1843,7 +1843,7 @@ The morgues are overflowing. Corners must be cut.</text>
     <type>Neutral Unit — Soldier</type>
     <pt>1/2</pt>
     <color></color>
-    <tablerow>2</tablerow>
+    <tablerow>1</tablerow>
     <text>[Hidden], [Toxic]
     
     
@@ -3410,7 +3410,7 @@ Some choose to live for the isle. Some go a step further.</text>
     <manacost>4Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>Exert: Until the end of the turn, give a unit -2/0. When it damages an enemy unit, all enemy units take the damage.
 	
 	
@@ -3658,7 +3658,7 @@ If nothing can see you, are you really there?</text>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage. If this would kill the target, it is instead fully healed and it gains the following effect...
-{Upkeep} Deal damage equal to this card's strength to a friendly target.
+{Upkeep} Deal damage equal to this card's strength to a friendly Quanta Lord.
 
 
 
