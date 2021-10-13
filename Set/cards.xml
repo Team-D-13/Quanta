@@ -16,7 +16,7 @@
   <!-- Nature -->
   <card>
     <name>Shatterglade Patriarch</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <type>Nature Quanta Lord — Titan</type>
     <color>G</color>
     <loyalty>30</loyalty>
@@ -29,7 +29,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
   </card>
 	<card>
     <name>Regal Sunbird</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Unit — Bird</type>
     <color>G</color>
@@ -39,7 +39,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
   </card>
 	<card>
     <name>Surprise Gnome</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Unit — Human</type>
     <color>G</color>
@@ -49,7 +49,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
   </card>
 	<card>
     <name>Steelskin Panda</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
@@ -60,7 +60,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Bramblebear</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Plant Beast</type>
     <color>G</color>
@@ -70,7 +70,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Mother Bird</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Bird</type>
     <color>G</color>
@@ -81,7 +81,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Pack Hound</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
@@ -91,7 +91,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Rampaging Raptor</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
@@ -101,7 +101,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Hungry Hen</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Unit — Bird</type>
     <color>G</color>
@@ -112,7 +112,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Ravenous Rooster</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Unit — Bird</type>
     <color>G</color>
@@ -122,7 +122,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Infiniflea</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Insect</type>
     <color>G</color>
@@ -136,7 +136,7 @@ Some say that since the cataclysm, Brunell's forests have been cast smothered wi
   </card>
   <card>
     <name>Skull Scarab</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
     <manacost>6Q</manacost>
     <type>Nature Unit — Insect</type>
     <color>G</color>
@@ -150,7 +150,7 @@ Some say that since the cataclysm, Brunell's forests have been cast smothered wi
   </card>
 	<card>
     <name>Island Turtle</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
@@ -161,7 +161,7 @@ If this unit would take more than 3 damage from a battle, it takes 3 damage inst
   </card>
 	<card>
     <name>Worldblood Primordial</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureElemental.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureElemental.png">C1</set>
     <manacost>10Q</manacost>
     <type>Mythical Nature Unit — Elemental Titan</type>
     <color>G</color>
@@ -175,7 +175,7 @@ The heart which once slumbered within a sea of blood, awoken by the breath of it
   </card>
 	<card>
     <name>Double Rainbow</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -187,7 +187,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
   </card>
 	<card>
     <name>Growth Spurt</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -196,7 +196,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
 	</card>
 	<card>
     <name>Stampede</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -205,7 +205,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
 	</card>
 	<card>
     <name>Roots of the World Tree</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNaturePassive.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNaturePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Mythical Nature Relic</type>
     <color>G</color>
@@ -216,7 +216,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
   <!-- Arcane -->
 	<card>
     <name>Spellwright of Wonders</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Mage</type>
     <color>U</color>
     <loyalty>30</loyalty>
@@ -226,7 +226,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
   </card>
   <card>
     <name>Magical Acolyte</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>1Q</manacost>
     <type>Arcane Unit — Mage</type>
     <color>U</color>
@@ -237,7 +237,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Enlightened Scholar</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Unit — Mage</type>
     <color>U</color>
@@ -247,7 +247,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Shapeshifting Puddle</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSlime.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSlime.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Unit — Elemental Slime</type>
     <color>U</color>
@@ -257,7 +257,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
   <card>
     <name>Elemental Residue</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Elemental</type>
     <color>U</color>
@@ -267,7 +267,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Imperial Spellblade</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSoldier.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Mage Soldier</type>
     <color>U</color>
@@ -277,7 +277,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Imperial Caster</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Mage</type>
     <color>U</color>
@@ -287,7 +287,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Grand Magister</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>5Q</manacost>
     <type>Arcane Unit — Mage</type>
     <color>U</color>
@@ -297,7 +297,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
   </card>
 	<card>
     <name>Spellslinging Strongman</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSoldier.png">C1</set>
     <manacost>6Q</manacost>
     <type>Arcane Unit — Mage Soldier</type>
     <color>U</color>
@@ -308,7 +308,7 @@ When you deal effect damage, this unit gains +1/0.</text>
   </card>
 	<card>
     <name>Spark</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -317,7 +317,7 @@ When you deal effect damage, this unit gains +1/0.</text>
 	</card>
 	<card>
     <name>Insight</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -326,7 +326,7 @@ When you deal effect damage, this unit gains +1/0.</text>
 	</card>
   <card>
     <name>Appraise</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -335,7 +335,7 @@ When you deal effect damage, this unit gains +1/0.</text>
 	</card>
 	<card>
     <name>Doublecast</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Mythical Arcane Support</type>
     <color>U</color>
@@ -348,7 +348,7 @@ Two's better than one.</text>
 	</card>
 	<card>
     <name>Thunderstorm</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -357,7 +357,7 @@ Two's better than one.</text>
 	</card>
 	<card>
     <name>Focused Flames</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -367,7 +367,7 @@ Two's better than one.</text>
 	</card>
 	<card>
     <name>Meditate</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -376,7 +376,7 @@ Two's better than one.</text>
 	</card>
 	<card>
     <name>Brainstorm</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -388,7 +388,7 @@ Two's better than one.</text>
 	</card>
 	<card>
     <name>Library of Alunarth</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcanePassive.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcanePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Mythical Arcane Relic</type>
     <color>U</color>
@@ -400,7 +400,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   <!-- Science -->
   <card>
     <name>Chief Charles</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <type>Science Quanta Lord — Human Construct</type>
     <color>R</color>
     <loyalty>30</loyalty>
@@ -414,7 +414,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Ace Pilot</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>1Q</manacost>
     <type>Science Unit — Soldier</type>
     <color>R</color>
@@ -425,7 +425,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
   <card>
     <name>Spinbot</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Unit — Construct</type>
     <color>R</color>
@@ -435,7 +435,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Spiderbomber</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Unit — Construct</type>
     <color>R</color>
@@ -446,7 +446,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Modular Drone</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Unit — Construct</type>
     <color>R</color>
@@ -457,7 +457,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Magnetiser</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Unit — Construct</type>
     <color>R</color>
@@ -467,7 +467,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Machine Lord</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Unit — Construct Soldier</type>
     <color>R</color>
@@ -477,7 +477,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
 	<card>
     <name>Perfect Mecha [REX•MAGNUS]</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
     <manacost>10Q</manacost>
     <type>Mythical Science Unit — Construct</type>
     <color>R</color>
@@ -488,7 +488,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
   </card>
   <card>
     <name>Machinery Mobilization</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
@@ -497,7 +497,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
 	<card>
     <name>Acid Rain</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>1Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
@@ -506,7 +506,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Budget Bomb</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
@@ -515,7 +515,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Drone Factory</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -525,7 +525,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Frontline Module</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -534,7 +534,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Rearguard Module</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -543,7 +543,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Time Capsule</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalSciencePassive.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalSciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Mythical Science Relic</type>
     <color>R</color>
@@ -557,7 +557,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
 	<card>
     <name>Defense Matrix</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -566,7 +566,7 @@ Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.</
 	</card>
   <card>
     <name>Deathcloud Capsules</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -578,7 +578,7 @@ When a friendly Construct token attacks, you can remove a counter from this card
   <!-- Outsider -->
   <card>
     <name>Helau, Uncrowned Queen of the Wastes</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <type>Outsider Quanta Lord — Undead Bird</type>
     <color>B</color>
     <loyalty>30</loyalty>
@@ -592,7 +592,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
   </card>
 	<card>
     <name>Writhing Flesh</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Unit — Slime Horror</type>
     <color>B</color>
@@ -602,7 +602,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
   </card>
 	<card>
     <name>Direkin Scuttler</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Unit — Insect Demon</type>
     <color>B</color>
@@ -613,7 +613,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
   </card>
 	<card>
     <name>Gravetrawler</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Unit — Undead</type>
     <color>B</color>
@@ -627,7 +627,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
   </card>
 	<card>
     <name>Voidmaw</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBeast.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Beast Horror</type>
     <color>B</color>
@@ -641,7 +641,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
   </card>
   <card>
     <name>Iconoclast</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Warlock</type>
     <color>B</color>
@@ -657,7 +657,7 @@ And you will rejoice." —Abdogul Gaar</text>
   </card>
 	<card>
     <name>Direkin Destroyer</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>5Q</manacost>
     <type>Outsider Unit — Dragon Demon</type>
     <color>B</color>
@@ -667,7 +667,7 @@ And you will rejoice." —Abdogul Gaar</text>
   </card>
   <card>
     <name>Servant for Now</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>5Q</manacost>
     <type>Mythical Outsider Unit — Human Horror</type>
     <color>B</color>
@@ -684,7 +684,7 @@ Now...</text>
   </card>
 	<card>
     <name>Direkin Devil</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Unit — Demon</type>
     <color>B</color>
@@ -694,7 +694,7 @@ Now...</text>
   </card>
 	<card>
     <name>Blaspheme</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -703,7 +703,7 @@ Now...</text>
 	</card>
 	<card>
     <name>Soul Pact</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -712,7 +712,7 @@ Now...</text>
 	</card>
 	<card>
     <name>Resurrection</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Mythical Outsider Support</type>
     <color>B</color>
@@ -725,7 +725,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
 	</card>
   <card>
     <name>Body Control</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -738,7 +738,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
   <card>
     <name>Life Link</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support — Flash</type>
     <color>B</color>
@@ -747,7 +747,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
   <card>
     <name>Flesh Revolt</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Support — Flash</type>
     <color>B</color>
@@ -756,7 +756,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
   <card>
     <name>Corpse Corruption</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support — Flash</type>
     <color>B</color>
@@ -766,7 +766,7 @@ It's not quite what the Magician's Guild wanted, but it'll do.</text>
 	</card>
 	<card>
     <name>Stigma</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>0Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
@@ -776,7 +776,7 @@ When an opponent summons a unit, you can sacrifice a card: Put a counter on this
 	</card>
 	<card>
     <name>Wormhole</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
@@ -792,7 +792,7 @@ In he goes, and out he comes.</text>
   <!-- Neutral -->
   <card>
     <name>Technoleech</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessInsect.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessInsect.png">C1</set>
     <manacost>0Q</manacost>
     <type>Neutral Unit — Insect Construct</type>
     <color></color>
@@ -806,7 +806,7 @@ Electricity eating parasites, often found in salvages of old machinery.</text>
   </card>
   <card>
     <name>Ichor Goblin</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Unit — Ascendant Human</type>
     <color></color>
@@ -820,7 +820,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Scrapyard Scavenger</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -830,7 +830,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Silent Servant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -841,7 +841,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Wisp Whisperer</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -851,7 +851,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Carver of Curios</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -861,7 +861,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Moonlit Maiden</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSpirit.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSpirit.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Spirit Human</type>
     <color></color>
@@ -871,7 +871,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Sunlit Seraphim</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
     <manacost>7Q</manacost>
     <type>Neutral Unit — Ascendant</type>
     <color></color>
@@ -885,7 +885,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Astral Conciousness</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSpirit.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSpirit.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Neutral Unit — Spirit</type>
     <color></color>
@@ -896,7 +896,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
   </card>
   <card>
     <name>Resonance Reflector</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -905,7 +905,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 	</card>
   <card>
     <name>Shatterstorm</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -914,7 +914,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 	</card>
   <card>
     <name>Clockwork Angel</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support — Flash</type>
     <color></color>
@@ -923,7 +923,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 	</card>
   <card>
     <name>Ichor Goblet</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Neutral Relic</type>
     <color></color>
@@ -933,7 +933,7 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
 	</card>
   <card>
     <name>Seaspire Sundry</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Relic</type>
     <color></color>
@@ -943,7 +943,7 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
 	</card>
   <card>
     <name>Boulder Bulwark</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Relic</type>
     <color></color>
@@ -957,7 +957,7 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
   <!-- Arcane -->
 	<card>
     <name>Dana Pyrus, Spark Keeper</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Human Mage</type>
     <color>U</color>
     <loyalty>30</loyalty>
@@ -971,7 +971,7 @@ The last breath of the Pyre still smoulders, awaiting the day it will be rekindl
     
     <card>
     <name>Hyrix, Illusory Illusionist</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Animation Mage</type>
     <color>U</color>
     <loyalty>30</loyalty>
@@ -985,7 +985,7 @@ Were they ever really here?</text>
 
 	<card>
     <name>Bolt Juggler</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>1Q</manacost>
     <type>Arcane Unit — Human Mage</type>
     <pt>0/4</pt>
@@ -996,7 +996,7 @@ Were they ever really here?</text>
 
 	<card>
     <name>Unstable Pyromancer</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>1/5</pt>
@@ -1011,7 +1011,7 @@ The brightest flames burn fastest.</text>
 
 	<card>
     <name>Tome Sifter</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>3/2</pt>
@@ -1026,7 +1026,7 @@ There is always more to learn from the past.</text>
 
 	<card>
     <name>Bloodcaster</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Human Warlock</type>
     <pt>3/1</pt>
@@ -1042,7 +1042,7 @@ Life is a powerful fuel.</text>
 
 	<card>
     <name>Spell Hoarder</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>2/2</pt>
@@ -1053,7 +1053,7 @@ Life is a powerful fuel.</text>
 
 	<card>
     <name>Stormchaser</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>1/5</pt>
@@ -1065,7 +1065,7 @@ When you cast a support, this unit gains +2/0 this turn.</text>
 
 	<card>
     <name>Warmage Frontrunner</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>5Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>3/5</pt>
@@ -1076,7 +1076,7 @@ When you cast a support, this unit gains +2/0 this turn.</text>
 
 	<card>
     <name>Greater Battlemage</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>8Q</manacost>
     <type>Arcane Unit — Mage</type>
     <pt>6/3</pt>
@@ -1091,7 +1091,7 @@ He always comes back for more.</text>
 
 	<card>
     <name>The Luminant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneAscendant.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneAscendant.png">C1</set>
     <manacost>10Q</manacost>
     <type>Mythical Arcane Unit — Ascendant Mage</type>
     <pt>5/5</pt>
@@ -1103,7 +1103,7 @@ He always comes back for more.</text>
 
 	<card>
     <name>Leech Velocity</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -1113,7 +1113,7 @@ He always comes back for more.</text>
 
 	<card>
     <name>Accelerate Thought</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Arcane Support — Flash</type>
     <color>U</color>
@@ -1123,7 +1123,7 @@ He always comes back for more.</text>
 
 	<card>
     <name>Flashfire</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Arcane Support — Flash</type>
     <color>U</color>
@@ -1134,7 +1134,7 @@ Deal 3 damage to all units.</text>
 
 	<card>
     <name>Chain Lightning</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -1144,7 +1144,7 @@ Deal 3 damage to all units.</text>
 
 	<card>
     <name>Wand of Blasting</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -1154,7 +1154,7 @@ Deal 3 damage to all units.</text>
 
 	<card>
     <name>The Duplex Codex</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcanePassive.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcanePassive.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Arcane Relic</type>
     <color>U</color>
@@ -1165,7 +1165,7 @@ Deal 3 damage to all units.</text>
   <!-- Science -->
 	<card>
     <name>Kreltak, Banished Technopriest</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <type>Science Quanta Lord — Human Soldier</type>
     <color>R</color>
     <loyalty>30</loyalty>
@@ -1179,7 +1179,7 @@ Deal 3 damage to all units.</text>
     
     <card>
     <name>Tyrano, Overseer Shard</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <type>Science Quanta Lord — Construct</type>
     <color>R</color>
     <loyalty>30</loyalty>
@@ -1194,7 +1194,7 @@ Echelon's intelligence was too valuable to lock away entirely.</text>
 
 	<card>
     <name>Metadrone</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>1Q</manacost>
     <type>Science Unit — Construct</type>
     <pt>1/2</pt>
@@ -1206,7 +1206,7 @@ Echelon's intelligence was too valuable to lock away entirely.</text>
 
 	<card>
     <name>Resourceful Trawler</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Unit — Human</type>
     <pt>1/3</pt>
@@ -1217,7 +1217,7 @@ Echelon's intelligence was too valuable to lock away entirely.</text>
 
 	<card>
     <name>Veteran Gunsmith</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Unit — Human</type>
     <pt>2/4</pt>
@@ -1228,7 +1228,7 @@ Echelon's intelligence was too valuable to lock away entirely.</text>
 
 	<card>
     <name>Sly Saboteur</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Unit — Human Soldier</type>
     <pt>2/3</pt>
@@ -1240,7 +1240,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Ornery Demolitionist</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Unit — Human Soldier</type>
     <pt>2/6</pt>
@@ -1251,7 +1251,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Platefist Brawler</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Unit — Human Soldier</type>
     <pt>1/7</pt>
@@ -1262,7 +1262,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Brash Rocketeer</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Unit — Human Soldier</type>
     <pt>5/5</pt>
@@ -1273,7 +1273,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Helicarrier</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>6Q</manacost>
     <type>Science Unit — Construct</type>
     <pt>4/3</pt>
@@ -1286,7 +1286,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>M.A.D. Man</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSoldier.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSoldier.png">C1</set>
     <manacost>7Q</manacost>
     <type>Mythical Science Unit — Human Soldier</type>
     <pt>7/1</pt>
@@ -1297,7 +1297,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Backup Fire</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -1307,7 +1307,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Orbital Strike</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -1317,7 +1317,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Detonate</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -1327,7 +1327,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>The Bomb</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSupport.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -1337,7 +1337,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Munitions Factory</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -1349,7 +1349,7 @@ Exert: Destroy a relic.</text>
 
 	<card>
     <name>Swarm Centre</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -1361,7 +1361,7 @@ Exert: Destroy a relic.</text>
   <!-- Outsider -->
 	<card>
     <name>Kareht, the Awakener</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
     <type>Outsider Quanta Lord — Human Warlock</type>
     <color>B</color>
     <loyalty>30</loyalty>
@@ -1371,7 +1371,7 @@ Exert: Destroy a relic.</text>
     
     <card>
     <name>Lythgrlk, Maw of Miasma</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <type>Outsider Quanta Lord — Horror</type>
     <color>B</color>
     <loyalty>30</loyalty>
@@ -1386,7 +1386,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Escaped Fodder</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Unit — Undead</type>
     <pt>1/1</pt>
@@ -1398,7 +1398,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Blackblade Cultist</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Unit — Human</type>
     <pt>1/3</pt>
@@ -1410,7 +1410,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Broodmother</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Unit — Horror</type>
     <pt>3/3</pt>
@@ -1422,7 +1422,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Swarm Scion</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Human Warlock</type>
     <pt>1/1</pt>
@@ -1434,7 +1434,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Bestower of Fangs</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Human Warlock</type>
     <pt>2/3</pt>
@@ -1445,7 +1445,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Soul Feaster</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>5Q</manacost>
     <type>Outsider Unit — Demon</type>
     <pt>2/5</pt>
@@ -1456,7 +1456,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>Flesh Crafter</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Unit — Horror</type>
     <pt>3/4</pt>
@@ -1470,7 +1470,7 @@ Death is an attribute which, with effort, and be extracted, purified, and weapon
 
 	<card>
     <name>The Black King</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>7Q</manacost>
     <type>Mythical Outsider Unit — Ascendant Horror</type>
     <pt>5/1</pt>
@@ -1483,7 +1483,7 @@ Has [Invulnerable] and [Shroud] while you control a Black Guard token.</text>
 
 	<card>
     <name>Ulreth's Shadow</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Outsider Unit — Horror</type>
     <pt>2/2</pt>
@@ -1500,7 +1500,7 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
 
 	<card>
     <name>Cull</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -1510,7 +1510,7 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
 
 	<card>
     <name>Dissect</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -1520,7 +1520,7 @@ The Devourer was ripped from the world long ago, but the hole that was left behi
 
 	<card>
     <name>Hand of Oblivion</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -1534,7 +1534,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
 
 	<card>
     <name>Flesh Facsimile</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -1544,7 +1544,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
 
 	<card>
     <name>Stroke of Midnight</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>10Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -1555,7 +1555,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
 
 	<card>
     <name>Bloody Altar</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
@@ -1568,7 +1568,7 @@ Exert and pay 3 life: Summon a Spawn token.</text>
 <!-- Nature -->
 	<card>
     <name>Garth, Titanblood Survivor</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <type>Nature Quanta Lord — Human Dragon</type>
     <color>G</color>
     <loyalty>30</loyalty>
@@ -1584,7 +1584,7 @@ that vile liquid is tearing me apart even now."</text>
     
     <card>
     <name>Thag, the First Giant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <type>Nature Quanta Lord — Titan</type>
     <color>G</color>
     <loyalty>30</loyalty>
@@ -1594,7 +1594,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Falrin, Spirit of the Pack</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>1Q</manacost>
     <type>Mythical Nature Unit — Ascendant Beast</type>
     <pt>0/1</pt>
@@ -1605,7 +1605,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Tyradon Cub</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Beast</type>
     <pt>2/1</pt>
@@ -1617,7 +1617,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Lifebloom Lily</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Plant</type>
     <pt>2/2</pt>
@@ -1628,7 +1628,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Vigor Shaman</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Human Mage</type>
     <pt>2/2</pt>
@@ -1639,7 +1639,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Stalking Panther</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Beast</type>
     <pt>3/2</pt>
@@ -1650,7 +1650,7 @@ that vile liquid is tearing me apart even now."</text>
 
 	<card>
     <name>Prosperous Treant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Plant</type>
     <pt>2/6</pt>
@@ -1662,7 +1662,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Tyradon Matriarch</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Beast</type>
     <pt>4/3</pt>
@@ -1673,7 +1673,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Tyradon Patriarch</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>6Q</manacost>
     <type>Nature Unit — Beast</type>
     <pt>7/5</pt>
@@ -1684,7 +1684,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Nirlaf, Spirit of Death</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Nature Unit — Undead Beast</type>
     <pt>0/1</pt>
@@ -1696,7 +1696,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Redwood Guardian</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>6Q</manacost>
     <type>Nature Unit — Plant Titan</type>
     <pt>4/7</pt>
@@ -1708,7 +1708,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Mindsurge Druid</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>7Q</manacost>
     <type>Nature Unit — Human Mage</type>
     <pt>3/2</pt>
@@ -1719,7 +1719,7 @@ Exert: Gain 2Q.</text>
 
 	<card>
     <name>Growth Surge</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Support - Flash</type>
     <color>G</color>
@@ -1733,7 +1733,7 @@ Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
 
 	<card>
     <name>Verdant Bloom</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -1745,7 +1745,7 @@ Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
 
 	<card>
     <name>Second Swipe</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -1759,7 +1759,7 @@ Never let your guard down.</text>
 
 	<card>
     <name>Titanbone Shrine</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -1770,7 +1770,7 @@ Never let your guard down.</text>
 <!-- Neutral -->
 	<card>
     <name>Legion Scout</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Unit — Soldier</type>
     <pt>2/1</pt>
@@ -1781,7 +1781,7 @@ Never let your guard down.</text>
 
 	<card>
     <name>Paladin Aspirant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Unit — Soldier</type>
     <pt>2/1</pt>
@@ -1796,7 +1796,7 @@ Training is never over.</text>
 
 	<card>
     <name>Master of Disguise</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>2Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>2/3</pt>
@@ -1811,7 +1811,7 @@ He could be anywhere. He could be ANYONE.</text>
 
 	<card>
     <name>Black Widow</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessInsect.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessInsect.png">C1</set>
     <manacost>2Q</manacost>
     <type>Neutral Unit — Insect</type>
     <pt>1/2</pt>
@@ -1822,7 +1822,7 @@ He could be anywhere. He could be ANYONE.</text>
 
 	<card>
     <name>Crooked Mortician</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>2Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>2/3</pt>
@@ -1837,7 +1837,7 @@ The morgues are overflowing. Corners must be cut.</text>
 
 	<card>
     <name>Church Messenger</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Soldier</type>
     <pt>1/2</pt>
@@ -1852,7 +1852,7 @@ A very particular message is dominant among his deliveries.</text>
 
 	<card>
     <name>Wizened Smith</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>2/2</pt>
@@ -1867,7 +1867,7 @@ His influence on the town was subtle, unremarked upon. But his work will survive
 
 	<card>
     <name>Steven Pyrus, Master Thief</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessMage.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Mythical Neutral Unit — Human Mage</type>
     <pt>2/3</pt>
@@ -1883,7 +1883,7 @@ Leaves no trace but molten iron.</text>
 
 	<card>
     <name>Temple Guardian</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSoldier.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Soldier</type>
     <pt>3/2</pt>
@@ -1898,7 +1898,7 @@ The paladins of the Church of Iron are implacable.</text>
 
 	<card>
     <name>Animate Armory</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Animation</type>
     <pt>1/4</pt>
@@ -1910,7 +1910,7 @@ The paladins of the Church of Iron are implacable.</text>
 
 	<card>
     <name>Bound Thunder</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessElemental.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessElemental.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Elemental</type>
     <pt>3/1</pt>
@@ -1921,7 +1921,7 @@ The paladins of the Church of Iron are implacable.</text>
     
 	<card>
     <name>Loosed Warbeast</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Beast Soldier</type>
     <pt>5/4</pt>
@@ -1933,7 +1933,7 @@ The paladins of the Church of Iron are implacable.</text>
     
         <card>
     <name>Prism Trout</name>
-	<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessFish.png">C1</set>
+	<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessFish.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Fish</type>
     <pt>4/5</pt>
@@ -1947,7 +1947,7 @@ Mind-numbingly rare, the Prism Trout has been hunted to near extinction for thei
 
 	<card>
     <name>Eternal Paladin</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessUndead.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessUndead.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Undead Soldier</type>
     <pt>3/7</pt>
@@ -1962,7 +1962,7 @@ Though no new Eternals have been inaugurated in millenia, they still infest the 
     
 	<card>
     <name>Greedy Graverobber</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>3/4</pt>
@@ -1977,7 +1977,7 @@ You wouldn't believe the things people are just throwing away!</text>
     
     <card>
     <name>Primordial Ooze</name>
-	<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
+	<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Ascendant Slime</type>
     <pt>3/6</pt>
@@ -1994,7 +1994,7 @@ Prized for their healing properties.</text>
 
 	<card>
     <name>Living Discontinuity</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">C1</set>
     <manacost>6Q</manacost>
     <type>Neutral Unit — Animation</type>
     <pt>7/6</pt>
@@ -2009,7 +2009,7 @@ It lives in the spaces between seconds.</text>
 
 	<card>
     <name>Radiant Giant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTitan.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTitan.png">C1</set>
     <manacost>7Q</manacost>
     <type>Neutral Unit — Elemental Titan</type>
     <pt>7/7</pt>
@@ -2021,7 +2021,7 @@ Has [Shroud] while it has [Aura].</text>
     
     <card>
     <name>Avatar of Strife</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
     <manacost>8Q</manacost>
     <type>Neutral Unit — Ascendant Soldier</type>
     <pt>4/7</pt>
@@ -2033,7 +2033,7 @@ Exert: Your units get +1/+1.</text>
 
 	<card>
     <name>Scion of Zenith</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessAscendant.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessAscendant.png">C1</set>
     <manacost>9Q</manacost>
     <type>Mythical Neutral Unit — Ascendent</type>
     <pt>4/3</pt>
@@ -2050,7 +2050,7 @@ Bow before Glorious Perfection.</text>
   
 	<card>
     <name>Dream Curator Tycho</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+		<set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
     <type>Science Quanta Lord — Human</type>
     <color>R</color>
     <loyalty>30</loyalty>
@@ -2066,7 +2066,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
 
 	<card>
     <name>Grid Bug</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceInsect.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceInsect.png">C1</set>
     <manacost>1Q</manacost>
     <type>Science Unit — Insect Construct Spirit</type>
     <pt>1/1</pt>
@@ -2082,7 +2082,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
 
 	<card>
     <name>Observer</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Unit — Construct</type>
     <pt>0/3</pt>
@@ -2097,7 +2097,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
 
 	<card>
     <name>Cracked Firewall</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Unit — Construct</type>
     <pt>1/4</pt>
@@ -2112,7 +2112,7 @@ The enclave of the cave elects to make sure she never realizes this possibility.
 
 	<card>
     <name>Sentinel</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Unit — Construct</type>
     <pt>3/6</pt>
@@ -2127,7 +2127,7 @@ So many problems within, sometimes you forget about the problems without.</text>
 
 	<card>
     <name>Net Crawler</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Unit — Construct Spirit</type>
     <pt>2/3</pt>
@@ -2143,7 +2143,7 @@ So many problems within, sometimes you forget about the problems without.</text>
 
 	<card>
     <name>Interdictor</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSoldier.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Unit — Human Soldier</type>
     <pt>2/5</pt>
@@ -2159,7 +2159,7 @@ Has +3/0 during your turn.
 
 	<card>
     <name>Apotheotic Ecclesiarch</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceHuman.png">C1</set>
     <manacost>7Q</manacost>
     <type>Science Unit — Human</type>
     <pt>4/4</pt>
@@ -2175,7 +2175,7 @@ When the [Aura] breaks, gains +4/+4.
 
 	<card>
     <name>Virolord Isoburn</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Science Unit — Construct Spirit</type>
     <pt>6/6</pt>
@@ -2191,7 +2191,7 @@ When the [Aura] breaks, gains +4/+4.
 
 	<card>
     <name>Assembly</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -2206,7 +2206,7 @@ When the [Aura] breaks, gains +4/+4.
 
 	<card>
     <name>Ping</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -2222,7 +2222,7 @@ When the [Aura] breaks, gains +4/+4.
 
 	<card>
     <name>Query</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -2237,7 +2237,7 @@ If it costs 0, destroy a unit instead.
 
 	<card>
     <name>Missile Strike</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -2251,7 +2251,7 @@ You can't beat a classic.</text>
 
 	<card>
     <name>Laser Beam</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Science Support</type>
     <color>R</color>
@@ -2265,7 +2265,7 @@ Destruction, with precision.</text>
 
 	<card>
     <name>MAX POWER</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSupport.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Science Support</type>
     <color>R</color>
@@ -2279,7 +2279,7 @@ Destruction, with precision.</text>
 
 	<card>
     <name>Surge Capacitor</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -2294,7 +2294,7 @@ Destruction, with precision.</text>
 
 	<card>
     <name>Ayna, Spirit Seeker</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+		<set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <type>Arcane Quanta Lord — Human Mage</type>
     <color>U</color>
     <loyalty>30</loyalty>
@@ -2312,7 +2312,7 @@ The king.</text>
 
 	<card>
     <name>Dune Mystic</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Unit — Human Mage</type>
     <pt>2/3</pt>
@@ -2327,7 +2327,7 @@ The king.</text>
 
 	<card>
     <name>Ancient Construct</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneAnimation.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneAnimation.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Animation</type>
     <pt>2/4</pt>
@@ -2342,7 +2342,7 @@ The king.</text>
 
 	<card>
 	<name>Thaumaturgical Multicutter</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneConstruct.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneConstruct.png">C1</set>
 	<manacost>5Q</manacost>
 	<type>Arcane Unit — Construct</type>
 	<pt>3/6</pt>
@@ -2358,7 +2358,7 @@ Magic has kept these blades as sharp as the day they were enchanted.</text>
 
 	<card>
     <name>Hedge Seer</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Human Mage</type>
     <pt>1/5</pt>
@@ -2373,7 +2373,7 @@ Magic has kept these blades as sharp as the day they were enchanted.</text>
 
 	<card>
     <name>Power Broker</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Human Warlock</type>
     <pt>3/4</pt>
@@ -2388,7 +2388,7 @@ Magic has kept these blades as sharp as the day they were enchanted.</text>
 
 	<card>
 	<name>Ancient Lich</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
 	<manacost>6Q</manacost>
 	<type>Arcane Unit — Undead Mage</type>
 	<pt>5/3</pt>
@@ -2403,7 +2403,7 @@ The old get older. The strong get stronger.</text>
 
 	<card>
     <name>Primordial Shape</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneElemental.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneElemental.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Arcane Unit — Elemental</type>
     <pt>3/6</pt>
@@ -2419,7 +2419,7 @@ The old get older. The strong get stronger.</text>
 
 	<card>
     <name>Magic Dart</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2433,7 +2433,7 @@ The old get older. The strong get stronger.</text>
 
 	<card>
     <name>Mirage</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2447,7 +2447,7 @@ The old get older. The strong get stronger.</text>
 
 	<card>
     <name>Oasis</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2462,7 +2462,7 @@ All units gain 2 life.
 
 	<card>
     <name>Invocation</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2478,7 +2478,7 @@ You can do anything. Just put your mind to it.</text>
 
 	<card>
     <name>Spirit Away</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>XQ</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2493,7 +2493,7 @@ A long journey can change people.</text>
 
 	<card>
     <name>Astral Feedback</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2507,7 +2507,7 @@ A long journey can change people.</text>
 
 	<card>
     <name>Sandstorm</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -2521,7 +2521,7 @@ A long journey can change people.</text>
 
 	<card>
     <name>Tempest</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Arcane Support</type>
     <color>U</color>
@@ -2540,7 +2540,7 @@ A long journey can change people.</text>
 
 	<card>
     <name>Girimehkala, the Inheritor</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
+		<set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
     <type>Nature Quanta Lord — Dragon Beast</type>
     <color>G</color>
     <loyalty>30</loyalty>
@@ -2556,7 +2556,7 @@ The progeny of the titan took life and calamity followed.</text>
 
 	<card>
     <name>Toothscale</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Unit — Beast</type>
     <pt>2/1</pt>
@@ -2572,7 +2572,7 @@ The progeny of the titan took life and calamity followed.</text>
 
 	<card>
     <name>Gnarled Witch</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Plant Warlock</type>
     <pt>2/4</pt>
@@ -2587,7 +2587,7 @@ Grow tall. Or be trampled.</text>
 
 	<card>
     <name>Shardspawn</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureDragon.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Dragon Beast</type>
     <pt>5/5</pt>
@@ -2603,7 +2603,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Leaf Roc</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Unit — Giant Bird</type>
     <pt>5/3</pt>
@@ -2618,7 +2618,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Hulking Troll</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureGiant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureGiant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Giant</type>
     <pt>4/6</pt>
@@ -2633,7 +2633,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Arcentree</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>7Q</manacost>
     <type>Nature Unit — Giant Plant</type>
     <pt>7/7</pt>
@@ -2648,7 +2648,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Arahabaki, the Titanbeast</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Nature Unit — Giant Beast</type>
     <pt>8/10</pt>
@@ -2663,7 +2663,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Bloodbond</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2677,7 +2677,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Mantra</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2691,7 +2691,7 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
 
 	<card>
     <name>Vanguard</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2705,7 +2705,7 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
 
 	<card>
     <name>Crunch</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2719,7 +2719,7 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
 
 	<card>
     <name>Leech</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2733,7 +2733,7 @@ Swift and brutal, or slow and agonizing. Passage of life moves at many leagues.<
 
 	<card>
     <name>Voracity</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -2749,7 +2749,7 @@ It's only natural to want more.</text>
 
 	<card>
     <name>Star Power</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureSupport.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Nature Support</type>
     <color>G</color>
@@ -2763,7 +2763,7 @@ It's only natural to want more.</text>
 
 	<card>
     <name>Idol of Carnage</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -2782,7 +2782,7 @@ Exert: Remove all counters from this relic. Heal for an equal amount.
 
 	<card>
     <name>Mephorash, the Reclaimer</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+		<set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <type>Outsider Quanta Lord — Demon</type>
     <color>B</color>
     <loyalty>30</loyalty>
@@ -2798,7 +2798,7 @@ Why can't you understand!?"</text>
 
 	<card>
     <name>Impish Pillager</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Unit — Demon</type>
     <pt>2/2</pt>
@@ -2813,7 +2813,7 @@ Why can't you understand!?"</text>
 
 	<card>
     <name>Revenant</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Unit — Undead</type>
     <pt>2/2</pt>
@@ -2829,7 +2829,7 @@ The fettered return. It is their turn.</text>
 
 	<card>
     <name>Stygian Tempter</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Demon</type>
     <pt>2/2</pt>
@@ -2844,7 +2844,7 @@ The fettered return. It is their turn.</text>
 
 	<card>
     <name>Shrouded Corruptor</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Unit — Demon Warlock</type>
     <pt>7/7</pt>
@@ -2860,7 +2860,7 @@ The fettered return. It is their turn.</text>
 
 	<card>
     <name>Dessicated</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>7Q</manacost>
     <type>Outsider Unit — Undead</type>
     <pt>2/2</pt>
@@ -2875,7 +2875,7 @@ The fettered return. It is their turn.</text>
 
 	<card>
     <name>Writhing Thing</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Unit — Horror</type>
     <pt>0/4</pt>
@@ -2892,7 +2892,7 @@ Tentacles. Why did it have to be tentacles.</text>
 
 	<card>
     <name>Bloated Monstrosity</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <manacost>5Q</manacost>
     <type>Outsider Unit — Undead Horror</type>
     <pt>2/5</pt>
@@ -2907,7 +2907,7 @@ Tentacles. Why did it have to be tentacles.</text>
 
 	<card>
     <name>Lost Signal</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Outsider Unit — Horror</type>
     <pt>5/5</pt>
@@ -2923,7 +2923,7 @@ If killed by a unit, annihilate the killer.
 
 	<card>
     <name>Mitosis</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -2938,7 +2938,7 @@ If killed by a unit, annihilate the killer.
 
 	<card>
     <name>Scourge</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -2952,7 +2952,7 @@ If killed by a unit, annihilate the killer.
 
 	<card>
     <name>From Beyond</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -2966,7 +2966,7 @@ If killed by a unit, annihilate the killer.
 
 	<card>
     <name>Inner Demons</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
 	<color>B</color>
@@ -2982,7 +2982,7 @@ Summon a Shadow token with stats equal to the amount reduced.
 
 	<card>
     <name>Despair</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Support</type>
 	<color>B</color>
@@ -2996,7 +2996,7 @@ Kneel.</text>
 
 	<card>
     <name>Eclipse</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3011,7 +3011,7 @@ Kneel.</text>
 
 	<card>
     <name>Mass Lethargy</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
     <manacost>5Q</manacost>
     <type>Mythical Outsider Support</type>
     <color>B</color>
@@ -3029,7 +3029,7 @@ Kneel.</text>
 
 	<card>
     <name>Hungry Jelly</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSlime.png">C1</set>
     <manacost>2Q</manacost>
     <type>Neutral Unit — Slime</type>
     <pt>2/2</pt>
@@ -3044,7 +3044,7 @@ Kneel.</text>
 
 	<card>
     <name>Untouchable</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>5Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>4/6</pt>
@@ -3059,7 +3059,7 @@ Life passes some by.</text>
 
 	<card>
     <name>Clockstopper</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human</type>
     <pt>2/2</pt>
@@ -3074,7 +3074,7 @@ We tend to destroy what we can't understand.</text>
 
 	<card>
     <name>Pure Vessel</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
     <manacost>7Q</manacost>
     <type>Neutral Unit — Ascendant</type>
     <pt>7/7</pt>
@@ -3089,7 +3089,7 @@ We tend to destroy what we can't understand.</text>
 
 	<card>
     <name>Adept</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Unit — Human Ascendant</type>
     <pt>1/1</pt>
@@ -3104,7 +3104,7 @@ Perfection is always just beyond the horizon.</text>
 
 	<card>
     <name>Rolling Stone</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessElemental.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessElemental.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Elemental</type>
     <pt>3/2</pt>
@@ -3119,7 +3119,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Shimmering Dragon</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessDragon.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessDragon.png">C1</set>
     <manacost>6Q</manacost>
     <type>Neutral Unit — Dragon Mage</type>
     <pt>5/7</pt>
@@ -3134,7 +3134,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Mana Gorgon</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Demon Beast</type>
     <pt>4/4</pt>
@@ -3150,7 +3150,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Dusklord Barrow, the Returned</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessUndead.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessUndead.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Neutral Unit — Undead</type>
     <pt>4/10</pt>
@@ -3165,7 +3165,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Trip</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support — Flash</type>
     <color></color>
@@ -3179,7 +3179,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Subsume</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -3193,7 +3193,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Bargain</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -3207,7 +3207,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Focus</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -3221,7 +3221,7 @@ Out of the way, scrubs.</text>
 
 	<card>
     <name>Dominate</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>8Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -3235,7 +3235,7 @@ Only the will of iron deserves true control.</text>
 
 	<card>
     <name>Phantom Hammer</name>
-		<set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSupport.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSupport.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Neutral Support</type>
     <color></color>
@@ -3252,7 +3252,7 @@ Annihilate all units this kills.
   
   	<card>
     <name>Integration Administrator</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceAscendant.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceAscendant.png">C1</set>
     <type>Science Quanta Lord — Ascendant</type>
     <color>R</color>
     <loyalty>30</loyalty>
@@ -3268,7 +3268,7 @@ Herald of the gleaming isle. They seek and claim. If you're lucky, they'll ask f
 
 	<card>
     <name>Lord Bang</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Neutral Unit — Human Anomaly</type>
     <color></color>
@@ -3283,7 +3283,7 @@ This is it.</text>
 
 	<card>
     <name>Devastroy</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3297,7 +3297,7 @@ Few get to brag of dying twice.</text>
 
 	<card>
     <name>Modus Alpha</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3313,7 +3313,7 @@ Longtime effeciency protocol.</text>
 
 	<card>
     <name>Modus Gamma</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3329,7 +3329,7 @@ Learning/assimilation protocol.</text>
 
 	<card>
     <name>Modus Sigma</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>6Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3345,7 +3345,7 @@ Overload protocol.</text>
 
 	<card>
     <name>Modus Omega</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3362,7 +3362,7 @@ Total extermination.</text>
 
 	<card>
     <name>Emulate</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3377,7 +3377,7 @@ The second step.</text>
 
 	<card>
     <name>Emergency Maneuvers</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3391,7 +3391,7 @@ Just don't get hit.</text>
 
 	<card>
     <name>NCM Procedure</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3405,7 +3405,7 @@ Some choose to live for the isle. Some go a step further.</text>
 
 	<card>
     <name>Shacklebond</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
@@ -3418,7 +3418,7 @@ Famed Technique of Zol. Brings down foes with their own schemes.</text>
 
 	<card>
     <name>Hopeless Horizon Soldier</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -3434,7 +3434,7 @@ You are equal to what you think, severely.</text>
 
 	<card>
     <name>Hopeless Horizon Savant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>7Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
@@ -3450,7 +3450,7 @@ You are equal to what you think, severely.</text>
 
 	<card>
     <name>The Time Being</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
     <type>Outsider Quanta Lord — Horror</type>
     <color>B</color>
     <loyalty>30</loyalty>
@@ -3464,7 +3464,7 @@ It, is coming.</text>
 
 	<card>
     <name>Clock Tower Warden</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <type>Arcane Quanta Lord — Human</type>
     <color>U</color>
     <loyalty>30</loyalty>
@@ -3479,7 +3479,7 @@ A single spire stands in the center of the crater.</text>
 
 	<card>
     <name>Grey Crane</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
@@ -3496,7 +3496,7 @@ A single spire stands in the center of the crater.</text>
 
 	<card>
     <name>The Grieving Marauder</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
@@ -3513,7 +3513,7 @@ A remorseful cheater. This time he's playing until he loses.</text>
 
 	<card>
     <name>Cattle Provider</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit — Human Horror</type>
     <color></color>
@@ -3528,7 +3528,7 @@ Proud chef and butcher on a quest to serve man.</text>
 
 	<card>
     <name>Fickle Fisher</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
@@ -3544,7 +3544,7 @@ In the right moment, with the right angle, anything is possible.</text>
 
 	<card>
     <name>Umbral Monarch</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Arcane Unit — Human</type>
     <color></color>
@@ -3561,7 +3561,7 @@ A fair and just ruler with nothing to hide.</text>
 
 	<card>
     <name>The Count</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneUndead.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneUndead.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Arcane Unit — Undead</type>
     <color></color>
@@ -3577,7 +3577,7 @@ So, a vampire walks into a bar...</text>
 
 	<card>
     <name>Chronological Key</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>0Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -3592,7 +3592,7 @@ What does it open? Merely possibilities.</text>
 
 	<card>
     <name>Reverse the Polarity</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
@@ -3608,7 +3608,7 @@ Re-route the power to the flux capacitors! No one's ever tried this before!</tex
 
 	<card>
     <name>Gaze Through the Eclipse</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3622,7 +3622,7 @@ When the veil parts, look through their eyes. —Khelengue Slab</text>
 
 	<card>
     <name>One-Masked Man</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Unit — Anomaly</type>
     <color>B</color>
@@ -3637,7 +3637,7 @@ Would you believe that the being watching you is, in fact, you?</text>
 
 	<card>
     <name>The Eye</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>8Q</manacost>
     <type>Outsider Unit — Anomaly</type>
     <color>B</color>
@@ -3652,7 +3652,7 @@ If nothing can see you, are you really there?</text>
 
 	<card>
     <name>Vessel Preparation</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3667,7 +3667,7 @@ What arose that day wore his name.</text>
 
 	<card>
     <name>Boris the Breaker</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Mythical Nature Unit — Human</type>
     <color>G</color>
@@ -3682,7 +3682,7 @@ What arose that day wore his name.</text>
 
 	<card>
     <name>Second Rider</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
@@ -3698,7 +3698,7 @@ Clickity clack, the rider is back.</text>
 
 	<card>
     <name>Legendary Martial Technique</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -3713,7 +3713,7 @@ Balance in all things.</text>
 
 	<card>
     <name>Dream</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Arcane Support</type>
     <color>B</color>
@@ -3727,7 +3727,7 @@ Ah, to see the world and forget it...</text>
 
 	<card>
     <name>Reckless Cultivation</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -3742,7 +3742,7 @@ Anyone can achieve power. Few can keep it.</text>
 
 	<card>
     <name>Dark Lard</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSlime.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSlime.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Unit — Slime</type>
     <color></color>
@@ -3757,7 +3757,7 @@ A strange mass that sleeps below a forest.</text>
 
 	<card>
     <name>Garage Sale</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Neutral Support</type>
     <color>G</color>
@@ -3772,7 +3772,7 @@ What a deal!</text>
 
 	<card>
     <name>The Champ</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Nature Unit — Human</type>
     <color>G</color>
@@ -3787,7 +3787,7 @@ The Champ doesn't lose.</text>
 
 	<card>
     <name>Mildly Annoying Curse</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3802,7 +3802,7 @@ Well... damn.</text>
 
 	<card>
     <name>Omen of Evolution</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -3817,7 +3817,7 @@ Natural selection tends to get dangerously close to destiny.</text>
 
 	<card>
     <name>Primal Primordial</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>10Q</manacost>
     <type>Nature Unit — Titan</type>
     <color>G</color>
@@ -3832,7 +3832,7 @@ Does it follow only instinct, or a scheme beyond our understanding? Impossible t
 
 	<card>
     <name>Big Wac</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTitan.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTitan.png">C1</set>
     <manacost>10Q</manacost>
     <type>Science Unit — Titan</type>
     <color>R</color>
@@ -3846,7 +3846,7 @@ In this world, it's eat.</text>
   </card>
 	<card>
     <name>The Impartial Judge</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureAscendant.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureAscendant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Ascendant</type>
     <color>G</color>
@@ -3861,7 +3861,7 @@ Objection overruled.</text>
 
 	<card>
     <name>Over Vortex</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>1Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3875,7 +3875,7 @@ Diverting excess power into OBLITERATION!</text>
 
 	<card>
     <name>Sudden Strike</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -3889,7 +3889,7 @@ One of the oldest moves, if not the oldest.</text>
 
 	<card>
     <name>Curse of the Mummy</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Undead</type>
     <color>U</color>
@@ -3904,7 +3904,7 @@ Return the slab, or suffer my curse...</text>
 
 	<card>
     <name>Chronological Sendoff</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -3919,7 +3919,7 @@ Save the future.</text>
 
 	<card>
     <name>Magical Theorist</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Human</type>
     <color>U</color>
@@ -3934,7 +3934,7 @@ Eye of newt, toe of frog, wool of bat...</text>
 
 	<card>
     <name>Legacy Theft</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Support — Flash</type>
     <color>B</color>
@@ -3948,7 +3948,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
 
 	<card>
     <name>Soul Drain</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>7Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -3962,7 +3962,7 @@ At first, they feel nothing, then, they feel nothing.</text>
 
 	<card>
     <name>Pact with the Reaper</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
@@ -3977,7 +3977,7 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
 
 	<card>
     <name>Quack</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support</type>
     <color></color>
