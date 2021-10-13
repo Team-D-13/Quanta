@@ -81,7 +81,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Pack Hound</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
@@ -122,7 +122,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Infiniflea</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Insect</type>
     <color>G</color>
@@ -134,30 +134,31 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
 
 Some say that since the cataclysm, Brunell's forests have been cast smothered within a blanket of eternal night. Only those brave enough to venture the wilderness themselves discover the terrifying truth.</text>
   </card>
-  <card>
-    <name>Skull Scarab</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
-    <manacost>6Q</manacost>
-    <type>Nature Unit — Insect</type>
-    <color>G</color>
-    <pt>1/1</pt>
-    <tablerow>1</tablerow>
-    <text>{Summon} Target a unit: Steal its strength and toughness.
-
-
-
-"... so I looked behind me, and Steve was staring straight, straight at me. But, but his chest, his arms—the rest of him, man...! His head... No... No, that wasn't his head..."</text>
-  </card>
 	<card>
     <name>Island Turtle</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Beast</type>
     <color>G</color>
     <pt>2/6</pt>
     <tablerow>2</tablerow>
     <text>[Guard], [Regenerate]
-If this unit would take more than 3 damage from a battle, it takes 3 damage instead.</text>
+{Battle} If this unit would take more than 3 damage this battle, it takes 3 damage instead.</text>
+  </card>
+  <card>
+    <name>Slaughter Sloth</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Unit — Beast</type>
+    <color>G</color>
+    <pt>8/8</pt>
+    <tablerow>1</tablerow>
+    <text>[Pierce], [Regenerate]
+Has [Pacifist] while there are 4 or less enemy units.
+
+
+
+A legend of the wilderness. It doesn't deign to act unless it believes the sanctity of its turf is at stake.</text>
   </card>
 	<card>
     <name>Worldblood Primordial</name>
@@ -187,7 +188,7 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
   </card>
 	<card>
     <name>Growth Spurt</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -196,8 +197,8 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
 	</card>
 	<card>
     <name>Stampede</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
