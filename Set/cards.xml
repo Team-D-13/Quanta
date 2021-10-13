@@ -893,7 +893,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <pt>3/12</pt>
     <tablerow>1</tablerow>
     <text>[Guard]
-{Summon} Your relics become 3/3 Animations (they are still treated as relics).</text>
+{Summon} Your relics become 3/3 Animation units (they are still also treated as relics).</text>
   </card>
   <card>
     <name>Resonance Reflector</name>
