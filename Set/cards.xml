@@ -4123,7 +4123,7 @@ Now is as good of a time as any.</text>
     <type>Mythical Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target unit is sent to your hand when it'd leave the field.
+    <text>Target unit is sent to your hand when it would leave the field.
     
     
 Many pawns aren't even aware of the manipulation.</text>
@@ -4138,7 +4138,7 @@ Many pawns aren't even aware of the manipulation.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Guard]
-If you don't control a relic, annihilate this card.
+If you do not control a relic, destroy this unit.
     
     
     
@@ -4184,8 +4184,7 @@ Lives to be served. I mean. To serve.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage to all enemy units. Add this to their effects...
-"Cannot be healed."
+    <text>Deal 1 damage to all enemy units. They can no longer be healed.
     
     
     
