@@ -3350,7 +3350,7 @@ This is it.</text>
 
 	<card>
     <name>Devastroy</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
@@ -3444,7 +3444,7 @@ The second step.</text>
 
 	<card>
     <name>Emergency Maneuvers</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3458,7 +3458,7 @@ Just don't get hit.</text>
 
 	<card>
     <name>NCM Procedure</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
@@ -3611,7 +3611,7 @@ In the right moment, with the right angle, anything is possible.</text>
 
 	<card>
     <name>Umbral Monarch</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Arcane Unit — Human</type>
     <color></color>
@@ -3643,7 +3643,7 @@ So, a vampire walks into a bar...</text>
 
 	<card>
     <name>Chronological Key</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>0Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -3658,7 +3658,7 @@ What does it open? Merely possibilities.</text>
 
 	<card>
     <name>Reverse the Polarity</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
@@ -3688,7 +3688,7 @@ When the veil parts, look through their eyes. -Kalangue Monument </text>
 
 	<card>
     <name>One-Masked Man</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Unit — Anomaly</type>
     <color>B</color>
@@ -3703,7 +3703,7 @@ Would you believe that the being watching you is, in fact, you?</text>
 
 	<card>
     <name>The Eye</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>8Q</manacost>
     <type>Outsider Unit — Anomaly</type>
     <color>B</color>
@@ -3718,13 +3718,13 @@ If nothing can see you, are you really there?</text>
 
 	<card>
     <name>Vessel Preparation</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage. If this would kill the target, it is instead fully healed and it gains the following effect...
-{Upkeep} The owner of (the appropriate) Vessel Preparation chooses a target: deal 1 damage to it.
+{Upkeep} Deal damage equal to this unit's strength to a target chosen by the owner of (the appropriate) Vessel Preparation.
 
 
 
@@ -3733,9 +3733,9 @@ What arose that day wore his name.</text>
 
 	<card>
     <name>Boris the Breaker</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Mythical Nature Unit — Human</type>
+    <type>Mythical Neutral Unit — Human</type>
     <color>G</color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
@@ -3764,7 +3764,7 @@ Clickity clack, the rider is back.</text>
 
 	<card>
     <name>Legendary Martial Technique</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -3868,7 +3868,7 @@ Well... damn.</text>
 
 	<card>
     <name>Omen of Evolution</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
@@ -3883,7 +3883,7 @@ Natural selection can get dangerously close to destiny.</text>
 
 	<card>
     <name>Primal Primordial</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>10Q</manacost>
     <type>Nature Unit — Titan</type>
     <color>G</color>
@@ -3898,7 +3898,7 @@ Does it only follow instinct, or a scheme beyond our understanding? Impossible t
 
 	<card>
     <name>Big Wac</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTitan.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTitan.png">C1</set>
     <manacost>10Q</manacost>
     <type>Science Unit — Titan</type>
     <color>R</color>
@@ -3940,8 +3940,8 @@ Diverting excess power into OBLITERATION!</text>
   </card>
 
 	<card>
-    <name>Sudden Strike</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <name>Snapstrike</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -3999,7 +3999,7 @@ Eye of newt, toe of frog, wool of bat...</text>
   </card>
 
 	<card>
-    <name>Legacy Theft</name>
+    <name>Legacy Erasure</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Outsider Support — Flash</type>
@@ -4014,7 +4014,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
 
 	<card>
     <name>Soulsiphon</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>7Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -4028,7 +4028,7 @@ At first, they feel nothing. Then, they feel nothing.</text>
 
 	<card>
     <name>Pact with the Reaper</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
     <color>U</color>
@@ -4058,7 +4058,7 @@ Make it stop. MAKE IT STOP!</text>
 	  
 	  <card>
     <name>Tiki Tribesman</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Unit - Human</type>
     <pt>2/2</pt>
@@ -4104,7 +4104,7 @@ The King of Kalamesh sought a city in the sky. His advisor had bigger plans.</te
 	  
 	  <card>
     <name>Chronological Pulse</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
