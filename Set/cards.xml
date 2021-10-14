@@ -2824,7 +2824,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <name>Leaf Roc</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Nature Unit — Giant Bird</type>
+    <type>Nature Unit — Titan Bird</type>
     <pt>5/3</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -2837,9 +2837,9 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 	<card>
     <name>Hulking Troll</name>
-		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureGiant.png">C1</set>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>5Q</manacost>
-    <type>Nature Unit — Giant</type>
+    <type>Nature Unit — Titan</type>
     <pt>4/6</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -2854,7 +2854,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <name>Arcentree</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>7Q</manacost>
-    <type>Nature Unit — Giant Plant</type>
+    <type>Nature Unit — Titan Plant</type>
     <pt>7/7</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -2869,7 +2869,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <name>Thrashing Beast</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>5Q</manacost>
-    <type>Nature Unit — Giant Beast</type>
+    <type>Nature Unit — Titan Beast</type>
     <pt>6/5</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -2884,7 +2884,7 @@ Collateral is not a concept well known in the forests.^</text>
     <name>Arahabaki, the Titanbeast</name>
 		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureBeast.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Mythical Nature Unit — Giant Beast</type>
+    <type>Mythical Nature Unit — Titan Beast</type>
     <pt>8/10</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -2899,7 +2899,7 @@ Collateral is not a concept well known in the forests.^</text>
     <name>The Spore Titan</name>
 		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNaturePlant.png">C1</set>
     <manacost>9Q</manacost>
-    <type>Mythical Nature Unit — Giant Plant</type>
+    <type>Mythical Nature Unit — Titan Plant</type>
     <pt>10/10</pt>
     <color>G</color>
     <tablerow>2</tablerow>
@@ -3547,9 +3547,9 @@ Out of the way, scrubs.</text>
 	
 	<card>
     <name>Shuregg, the Destroyer</name>
-		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessGiant.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessTitan.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Mythical Neutral Unit — Giant</type>
+    <type>Mythical Neutral Unit — Titan</type>
     <pt>4/6</pt>
     <color></color>
     <tablerow>1</tablerow>
