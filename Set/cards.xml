@@ -2238,6 +2238,37 @@ When this unit loses [Aura], it gains +4/+4.
 
 "Why limit the inevitable? One way or another, this place will be the crucible of a new god."</text>
 	</card>
+	
+	<card>
+    <name>Sniper Bot</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Science Unit — Construct</type>
+    <pt>1/1</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} Deal 5 damage.
+
+
+
+"You can't beat a machine in precision."</text>
+	</card>
+	
+	<card>
+    <name>Heavy Crawler</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Science Unit — Construct</type>
+    <pt>2/4</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>[Swift]
+Has +2/0 for each of your relics.
+
+
+
+"Stick some guns on it. A cannon. It's moddable."</text>
+	</card>
 
 	<card>
     <name>Virolord Isoburn</name>
@@ -2328,6 +2359,34 @@ You can't beat a classic.</text>
 
 Destruction, with precision.</text>
 	</card>
+	
+	<card>
+    <name>Detomatrix Cartridge</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>Destroy a relic. Deal damage equal to it's cost.
+
+
+
+Having many enemies in the admin circles can often lead to mysterious, destructive malfunctions.</text>
+	</card>
+	
+	<card>
+    <name>Logic Bomb</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Science Support</type>
+    <color>R</color>
+    <tablerow>3</tablerow>
+    <text>{Death} Deal 4 damage to all units. Exert: Destroy this card.
+
+
+
+"It has been clearly declared. Being in the blast radius is your own fault."</text>
+	</card>
 
 	<card>
     <name>MAX POWER</name>
@@ -2355,6 +2414,20 @@ Destruction, with precision.</text>
 
 
 "The juice must flow."</text>
+	</card>
+	
+	<card>
+    <name>Reactor</name>
+		<set rarity="Mythícal" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalSciencePassive.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Mythical Science Relic</type>
+    <color>R</color>
+    <tablerow>0</tablerow>
+    <text>Your cards cost 1Q less. If destroyed, take 10 damage.
+
+
+
+All the incomprehensible power they generate, to an observer manifests as a simple, steady hum.</text>
 	</card>
 
 
@@ -2466,6 +2539,22 @@ Magic has kept these blades as sharp as the day they were enchanted.</text>
 
 The old get older. The strong get stronger.</text>
 	</card>
+	
+	<card>
+	<name>Spellsteed Rider</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+	<manacost>3Q</manacost>
+	<type>Arcane Unit — Human Soldier Mage</type>
+	<pt>3/3</pt>
+	<color>U</color>
+	<tablerow>1</tablerow>
+	<text>[Swift]
+Whenever you play a support, you can summon this unit from or send it back to your hand.
+
+
+
+"Spellslinging from horseback. Why did nobody think of this before?"</text>
+	</card>
 
 	<card>
     <name>Primordial Shape</name>
@@ -2480,6 +2569,23 @@ The old get older. The strong get stronger.</text>
 
 
 "What is the shape of a shape?"</text>
+    <related>Elemental</related>
+	</card>
+	
+	<card>
+    <name>Auchidem, the Thrice Sealed</name>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneUndead.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Arcane Unit — Undead Mage Ascendant</type>
+    <pt>7/5</pt>
+    <color>U</color>
+    <tablerow>1</tablerow>
+    <text>[Aura]
+Exert: Deal 5 damage to all other units or give them +2/+2. Purge this unit.
+
+
+
+"The power is imprisoned within me - I am shackled to this land - And this world too, has been locked into ineffable tides..."</text>
     <related>Elemental</related>
 	</card>
 
@@ -2584,6 +2690,34 @@ A long journey can change people.</text>
 
 "You'd rather be anywhere else."</text>
 	</card>
+	
+	<card>
+    <name>Flux</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneTrigger.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Support — Flash</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>Activate when an enemy plays a support: It costs 5Q more.
+
+
+
+The weight falls upon the caster like a million suns. Only the foolish persist in their attempts.</text>
+	</card>
+	
+	<card>
+    <name>Forbidden Flame</name>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal 5 damage. If you hold a mythical card, you can reveal it: Deal 5 damage to everyone instead.
+
+
+
+"Some things should have stayed forgotten."</text>
+	</card>
 
 	<card>
     <name>Tempest</name>
@@ -2598,6 +2732,21 @@ A long journey can change people.</text>
 
 "The land will never allow this to happen again."</text>
     <related>Elemental</related>
+	</card>
+	
+	<card>
+    <name>Vessel of Coalescence</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Relic</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>Whenever you play a support, add a counter. Remove 3 counters: Create a 3/3 Elemental.
+
+
+
+"They come from swirling dust, or thin air. Seemingly out of nowhere."</text>
+	<related>Elemental</related>
 	</card>
 
 
@@ -2711,6 +2860,21 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 "Those who sought to fell it now adorn it."</text>
 	</card>
+	
+	<card>
+    <name>Thrashing Beast</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Unit — Giant Beast</type>
+    <pt>6/5</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>{Battle} Deal 1 damage to all enemy units, except the battling one.
+
+
+
+Collateral is not a concept well known in the forests.^</text>
+	</card>
 
 	<card>
     <name>Arahabaki, the Titanbeast</name>
@@ -2725,6 +2889,22 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 
 "When the shadow falls over you, you will know fear."</text>
+	</card>
+	
+	<card>
+    <name>The Spore Titan</name>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNaturePlant.png">C1</set>
+    <manacost>9Q</manacost>
+    <type>Mythical Nature Unit — Giant Plant</type>
+    <pt>10/10</pt>
+    <color>G</color>
+    <tablerow>2</tablerow>
+    <text>[Guard]
+{Death} Fully heal all friendly units and give them [Shroud] until your next turn.
+
+
+
+Too large to be predated, the spore giant is a rare power that can afford to be benign.</text>
 	</card>
 
 	<card>
@@ -2811,6 +2991,48 @@ Pay 4 life: Draw 1 more.
 
 
 It's only natural to want more.</text>
+	</card>
+	
+	<card>
+    <name>Fatality</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Destroy a damaged unit.
+
+
+
+"A mercy, of sorts."</text>
+	</card>
+	
+	<card>
+    <name>Wild Shape</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Double a unit's strength or toughness.
+
+
+
+"Anything that survived the forests regressed into a more practical form."</text>
+	</card>
+	
+	<card>
+    <name>Morning Dew</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Support</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Heal 10 life, split as you choose. All units healed gain 0/+1.
+
+
+
+"Every dawn is its reward."</text>
 	</card>
 
 	<card>
@@ -2970,6 +3192,36 @@ Tentacles. Why did it have to be tentacles.</text>
 
 "Boomer!"</text>
 	</card>
+	
+	<card>
+    <name>Ethereal Stalker</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit — Undead Horror</type>
+    <pt>7/1</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Echo} Resurrect this unit.
+
+
+
+"The danger is gone. But the fear stays."</text>
+	</card>
+	
+	<card>
+    <name>Corrupt Incarnate</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAscendant.png">C1</set>
+    <manacost>7Q</manacost>
+    <type>Outsider Unit — Ascendant Horror</type>
+    <pt>7/7</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} - Mill up to 7 cards. If their total cost is 7 or lower, add them to your hand.
+
+
+
+"Many wishes. And it only takes one to regret them all."</text>
+	</card>
 
 	<card>
     <name>Lost Signal</name>
@@ -2985,6 +3237,21 @@ If killed by a unit, annihilate the killer.
 
 
 "An eternity of screams, followed by a moment of silence."</text>
+	</card>
+	
+	<card>
+    <name>Old Maxwell</name>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalHuman.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Outsider Unit — Human</type>
+    <pt>3/2</pt>
+    <color>B</color>
+    <tablerow>1</tablerow>
+    <text>{Summon} All friendly units gain {Death} Create a 2/1 Spawn.
+
+
+
+The name keeps appearing in records, but can never be attributed.</text>
 	</card>
 
 	<card>
@@ -3072,6 +3339,36 @@ Kneel.</text>
 
 
 "Sacrifices must be made."</text>
+    <related>Spawn</related>
+	</card>
+	
+	<card>
+    <name>Dopple</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Swap the strength and toughness of two units.
+
+
+
+"What's yours is mine as they say."</text>
+    <related>Spawn</related>
+	</card>
+	
+	<card>
+    <name>Gestate</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Sacrifice a unit: Create two 3/2 Dire Spawns with [Swift].
+
+
+
+The power was inside you all along.</text>
     <related>Spawn</related>
 	</card>
 
@@ -3213,6 +3510,21 @@ Out of the way, scrubs.</text>
 
 "Petrified quanta cannot be seen. It cannot be touched. But it can be felt."</text>
 	</card>
+	
+	<card>
+    <name>Lightdrinker</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSpirit.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit — Human Spirit</type>
+    <pt>5/3</pt>
+    <color></color>
+    <tablerow>2</tablerow>
+    <text>{Summon} Steal a unit's [Aura], [Guard] or [Swift].
+
+
+
+"Ah... a sunny delight."</text>
+	</card>
 
 	<card>
     <name>Dusklord Barrow, the Returned</name>
@@ -3227,6 +3539,22 @@ Out of the way, scrubs.</text>
 
 
 "The long night has only just begun."</text>
+	</card>
+	
+	<card>
+    <name>Shuregg, the Destroyer</name>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessGiant.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Unit — Giant</type>
+    <pt>4/6</pt>
+    <color></color>
+    <tablerow>1</tablerow>
+    <text>{Battle} Double this unit's strength. 
+{Upkeep} Set it's strength to 4.
+
+
+
+"Don't get him started."</text>
 	</card>
 
 	<card>
@@ -3298,6 +3626,34 @@ Out of the way, scrubs.</text>
 
 Only the will of iron deserves true control.</text>
 	</card>
+	
+	<card>
+    <name>Sanctify</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Purge a unit and give it +4/+4.
+
+
+
+"I am ready."</text>
+	</card>
+	
+	<card>
+    <name>Heroic Strike</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>This turn, your Quanta Lord gains 5 strength and can attack.
+
+
+
+"Some matters require direct intervention."</text>
+	</card>
 
 	<card>
     <name>Phantom Hammer</name>
@@ -3312,6 +3668,20 @@ Annihilate all units this kills.
 
 
 "Not even dust remained."</text>
+	</card>
+	
+	<card>
+    <name>Iron Chains</name>
+		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Neutral Relic</type>
+    <color></color>
+    <tablerow>0</tablerow>
+    <text>{Summon} Choose a unit. It cannot unexert.
+
+
+
+"Any will can be measured by the girth of the chains that will bind it."</text>
 	</card>
   
   <!-- MMX -->
