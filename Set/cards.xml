@@ -3663,8 +3663,8 @@ What does it open? Merely possibilities.</text>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate when an opponent casts a support. Pay its cost: Activate one of the following effects...
-- Any strength/toughness changes caused by the support are inverted.
+    <text>Activate when an opponent casts a support. Pay its cost: Activate an effect...
+- Any strength/toughness changes caused by the support are swapped.
 - Select a new target for the support, as if you were the one playing the card.
 
 
