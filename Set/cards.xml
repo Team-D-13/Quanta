@@ -1773,7 +1773,7 @@ Exert: Gain 2Q.</text>
     <color>G</color>
     <tablerow>2</tablerow>
     <text>[Guard]
-{Summon} Restore 4 life.</text>
+{Summon} Heal 4 life.</text>
 	</card>
 
 	<card>
@@ -3554,7 +3554,7 @@ Out of the way, scrubs.</text>
     <color></color>
     <tablerow>1</tablerow>
     <text>{Battle} Double this unit's strength. 
-{Upkeep} Set it's strength to 4.
+{Upkeep} Set its strength to 4.
 
 
 
@@ -3638,7 +3638,7 @@ Only the will of iron deserves true control.</text>
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Purge a unit and give it +4/+4.
+    <text>Purge a unit, then give it +4/+4.
 
 
 
@@ -4342,12 +4342,12 @@ Return the slab, or suffer my curse...</text>
 	<card>
     <name>Chronological Sendoff</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>0Q</manacost>
+    <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Annihilate a unit from your hand.
-{Echo 10} Summon that unit.
+{Echo 3} Summon that unit.
 
 
 
