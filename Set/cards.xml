@@ -2233,7 +2233,7 @@ Has +3/0 during your turn.
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Aura]
-When the [Aura] breaks, gains +4/+4.
+When this unit loses [Aura], it gains +4/+4.
 
 
 
