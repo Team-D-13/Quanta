@@ -3724,7 +3724,7 @@ If nothing can see you, are you really there?</text>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage. If this would kill the target, it is instead fully healed and it gains the following effect...
-{Upkeep} Deal damage equal to this card's strength to a friendly Quanta Lord.
+{Upkeep} The owner of (the appropriate) Vessel Preparation chooses a target: deal 1 damage to it.
 
 
 
@@ -3818,7 +3818,7 @@ Anyone can achieve power. Few can keep it.</text>
 
 
 
-A strange mass that sleeps below a forest.</text>
+A strange mass upon which a forest grows.</text>
   </card>
 
 	<card>
@@ -3878,7 +3878,7 @@ When you summon a unit with the declared name, give it that ability.
 
 
 
-Natural selection tends to get dangerously close to destiny.</text>
+Natural selection can get dangerously close to destiny.</text>
   </card>
 
 	<card>
@@ -4013,7 +4013,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
   </card>
 
 	<card>
-    <name>Soul Drain</name>
+    <name>Soulsiphon</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>7Q</manacost>
     <type>Arcane Relic</type>
@@ -4023,7 +4023,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
 
 
 
-At first, they feel nothing, then, they feel nothing.</text>
+At first, they feel nothing. Then, they feel nothing.</text>
   </card>
 
 	<card>
