@@ -4062,7 +4062,7 @@ Make it stop. MAKE IT STOP!</text>
     <manacost>3Q</manacost>
     <type>Nature Unit - Human</type>
     <pt>2/2</pt>
-    <color>N</color>
+    <color>G</color>
     <tablerow>3</tablerow>
     <text>If this unit has any strength/toughness bonuses, it has +2/+2 and [Swift].
     
@@ -4114,6 +4114,35 @@ The King of Kalamesh sought a city in the sky. His advisor had bigger plans.</te
     
     
 Now is as good of a time as any.</text>
+	</card>
+	  
+	  <card>
+    <name>Soul Control</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Mythical Outsider Support</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Target unit is sent to your hand when it'd leave the field.
+    
+    
+Many pawns aren't even aware of the manipulation.</text>
+	</card>
+	  
+	  <card>
+    <name>Bushwalker</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHorror.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit - Human</type>
+    <pt>1/3</pt>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>[Guard]
+If you don't control a relic, annihilate this card.
+    
+    
+    
+Rustle rustle.</text>
 	</card>
 <!-- ###################################################################################################### -->
   </cards>
