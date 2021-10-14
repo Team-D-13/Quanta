@@ -2467,12 +2467,12 @@ The king.</text>
 	<card>
     <name>Ancient Construct</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneAnimation.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>4Q</manacost>
     <type>Arcane Unit — Animation</type>
     <pt>2/4</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>{Echo} Gain +2/+2 or draw 2 cards.
+    <text>{Echo} This unit gains +2/+2 or draw 2 cards.
 
 
 
@@ -4343,7 +4343,7 @@ Return the slab, or suffer my curse...</text>
     <color>U</color>
     <tablerow>3</tablerow>
     <text>Annihilate a unit from your hand.
-Echo 10: Summon that unit.
+{Echo 10} Summon that unit.
 
 
 
