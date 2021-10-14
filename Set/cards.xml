@@ -1058,7 +1058,7 @@ Were they ever really here?</text>
     <pt>0/4</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>Whenever you cast a support, deal 1 damage.</text>
+    <text>When you cast a support, deal 1 damage.</text>
 	</card>
 
 	<card>
@@ -1138,7 +1138,7 @@ When you cast a support, this unit gains +2/0 this turn.</text>
     <pt>3/5</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>Whenever you cast a support, Mage units you control get +1/+1.</text>
+    <text>When you cast a support, Mage units you control get +1/+1.</text>
 	</card>
 
 	<card>
@@ -1237,7 +1237,7 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 1Q, exert, sacrifice a Construct: Draw a card.
+    <text>Exert, pay 1Q, and sacrifice a Construct: Draw a card.
 
 
 
@@ -1251,7 +1251,7 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 1Q, exert: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a Drone token.
+    <text>Exert and pay 1Q: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a Drone token.
 
 
 
@@ -1627,7 +1627,7 @@ A dark shadow passes over the battlefield. A sigh rings out, then all is still.<
     <type>Outsider Relic</type>
     <color>B</color>
     <tablerow>0</tablerow>
-    <text>Whenever a friendly unit dies, your Quanta Lord heals 1 life.
+    <text>When a friendly unit dies, your Quanta Lord heals 1 life.
 Exert and pay 3 life: Summon a Spawn token.</text>
     <related>Spawn</related>
 	</card>
@@ -1831,7 +1831,7 @@ Never let your guard down.</text>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text>Whenever you summon a unit that costs 6Q or more, draw a card.</text>
+    <text>When you summon a unit that costs 6Q or more, draw a card.</text>
 	</card>
 
 <!-- Neutral -->
@@ -2366,7 +2366,7 @@ Destruction, with precision.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Whenever a friendly unit dies, put a counter on this Quanta Lord.
+    <text>When a friendly unit dies, put a counter on this Quanta Lord.
 Remove 2 counters from any friendly card: Deal 1 damage or heal 1 life.
 
 
@@ -2415,7 +2415,7 @@ The king.</text>
 	<pt>3/6</pt>
 	<color>U</color>
 	<tablerow>1</tablerow>
-	<text>Gains +2/0 whenever a support is played.
+	<text>Gains +2/0 When a support is played.
 	After attacking, set strength to its base value.
 
 
@@ -2645,7 +2645,7 @@ The progeny of the titan took life and calamity followed.</text>
     <pt>2/4</pt>
     <color>G</color>
     <tablerow>1</tablerow>
-    <text>Whenever one of your units recovers life, deal 1 damage.
+    <text>When a friendly unit recovers life, deal 1 damage.
 
 
 
@@ -2706,7 +2706,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <pt>7/7</pt>
     <color>G</color>
     <tablerow>1</tablerow>
-    <text>Whenever one of your units deals 5 or more damage in battle, draw a card.
+    <text>When a friendly unit deals 5 or more battle damage, draw a card.
 
 
 
@@ -2835,7 +2835,7 @@ It's only natural to want more.</text>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text>Whenever a unit dies, put a counter on this relic.
+    <text>When a unit dies, put a counter on this relic.
 Exert: Remove all counters from this relic. Heal for an equal amount.
 
 
@@ -3546,7 +3546,7 @@ A single spire stands in the center of the crater.</text>
 
 	<card>
     <name>Grey Crane</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
@@ -3784,7 +3784,7 @@ Balance in all things.</text>
     <type>Arcane Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Scry 5. You can swap 1 of the revealed cards with a card from your hand.
+    <text>Scry 5. You can swap 1 of the revealed cards with a card from your hand, then shuffle your deck.
 
 
 
