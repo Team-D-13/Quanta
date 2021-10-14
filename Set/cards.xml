@@ -1409,7 +1409,7 @@ Exert: Destroy a relic.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Your Construct tokens have +2/0.
+    <text>Friendly Construct tokens have +2/0.
 {Summon} Summon 2 Drone tokens.</text>
     <related>Drone</related>
 	</card>
