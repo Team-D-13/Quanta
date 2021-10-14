@@ -3557,7 +3557,7 @@ A single spire stands in the center of the crater.</text>
 
 
 
-"The cake has been prepared. To speak not of the wine."</text>
+"Raise the curtains. I'll show them real magic."</text>
     <related>Salty the Hamster</related>
   </card>
 
@@ -3634,7 +3634,7 @@ A fair and just ruler with nothing to hide.</text>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Transfer any amount of counters to this card from any other source.
-This card has +1/+1 for each counter on it..
+This card has +1/+1 for each counter on it.
 
 
 
@@ -3868,13 +3868,13 @@ Well... damn.</text>
 
 	<card>
     <name>Omen of Evolution</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
     <text>{Summon} Declare a unit name and an ability, except [Invulnerable].
-When you summon a unit with the declared name, give it that ability.
+When you summon a unit with the declared name, give it that ability and destroy this card.
 
 
 
@@ -3893,7 +3893,7 @@ Natural selection can get dangerously close to destiny.</text>
 
 
 
-Does it follow only instinct, or a scheme beyond our understanding? Impossible to tell.</text>
+Does it only follow instinct, or a scheme beyond our understanding? Impossible to tell.</text>
   </card>
 
 	<card>
