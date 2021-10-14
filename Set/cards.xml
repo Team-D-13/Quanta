@@ -4180,7 +4180,7 @@ Lives to be served. I mean. To serve.</text>
 <card>
     <name>Pyroclasm</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
