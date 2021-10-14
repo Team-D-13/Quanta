@@ -3384,7 +3384,7 @@ Longtime effeciency protocol.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When an enemy unit is destroyed: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this relic.
+    <text>When an enemy unit dies: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
 
