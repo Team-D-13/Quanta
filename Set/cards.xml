@@ -3658,7 +3658,7 @@ What does it open? Merely possibilities.</text>
 
 	<card>
     <name>Reverse the Polarity</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>0Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
