@@ -3795,7 +3795,7 @@ Ah, to see the world and forget it...</text>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text> Give a unit the following effect...
+    <text> Exert: Give a unit the following effect...
 - {Upkeep} This unit gains +2/+2. Destroy it if it has 10/10 or more.
 
 
