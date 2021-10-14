@@ -345,15 +345,6 @@ When you deal effect damage, this unit gains +1/0.</text>
     <tablerow>3</tablerow>
     <text>Deal 2 damage.</text>
 	</card>
-	<card>
-    <name>Insight</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>1Q</manacost>
-    <type>Arcane Support</type>
-    <color>U</color>
-    <tablerow>3</tablerow>
-    <text>Draw a card and reveal it. If it was a support, draw another.</text>
-	</card>
   <card>
     <name>Appraise</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
@@ -415,6 +406,19 @@ Two's better than one.</text>
 - Draw a card.
 - Stun a unit.
 - Deal 1 damage to all enemy units.</text>
+	</card>
+  <card>
+    <name>Manaburst</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal 8 damage.
+
+
+
+"I'm telling you man, that Manablast stuff? That was just a conspiracy to get us to like Manaburst again!"</text>
 	</card>
 	<card>
     <name>Library of Alunarth</name>
