@@ -3368,7 +3368,7 @@ Few get to brag of dying twice.</text>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>At the end of each turn, your units heal 1 life for each counter on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
@@ -3384,7 +3384,7 @@ Longtime effeciency protocol.</text>
     <manacost>4Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>When an enemy unit is destroyed: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
@@ -3400,7 +3400,7 @@ Learning/assimilation protocol.</text>
     <manacost>6Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>{Upkeep} Your units gain +2/0 and take 2 damage for each counter on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
@@ -3416,7 +3416,7 @@ Overload protocol.</text>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>When a friendly unit attacks, deal 2 damage and take 1 damage for each counter on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
@@ -3433,7 +3433,7 @@ Total extermination.</text>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>Exert and pay 4Q: Attach a unit from your hand or graveyard to this card. Annihilate it when it is detached from this card.
 When you summon a unit, you can detach a unit from this card: Purge it, then that unit gains the detached unit's effects.
 
@@ -3448,7 +3448,7 @@ The second step.</text>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>When a friendly unit would die, you can exert: Return it to the hand instead.
 
 
@@ -3647,7 +3647,7 @@ So, a vampire walks into a bar...</text>
     <manacost>0Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>Pay 2Q: Note down the exact state of a unit.
 {Flash} Exert: Return the last noted unit to its noted state.
 
@@ -3768,7 +3768,7 @@ Clickity clack, the rider is back.</text>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>When a friendly unit attacks, place a counter on it.
 When a friendly unit defends, you can remove a counter from it: Destroy the attacking unit after battle.
 
@@ -3797,7 +3797,7 @@ Ah, to see the world and forget it...</text>
     <manacost>3Q</manacost>
     <type>Nature Relic</type>
     <color>G</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text> Give a unit the following effect...
 - {Upkeep} This unit gains +2/+2. Destroy it if it has 10/10 or more.
 
@@ -3931,7 +3931,7 @@ Objection overruled.</text>
     <manacost>1Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>At the end of your turn, send cards from your hand to the bottom of your deck until you have 3. Then, deal damage to a Quanta Lord equal to the amount of cards you sent.
 
 
@@ -3941,7 +3941,7 @@ Diverting excess power into OBLITERATION!</text>
 
 	<card>
     <name>Snapstrike</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
@@ -4018,7 +4018,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
     <manacost>7Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>{Upkeep} Steal 1 toughness and 1 life from a Quanta Lord.
 
 
@@ -4077,7 +4077,7 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>Exert, then give a Construct unit -1/-1 until the end of the turn: Summon a Drone token and immediately attack a unit with it, then destroy it.
     <related>Drone</related> 
 
@@ -4092,7 +4092,7 @@ Commencing defense analysis.</text>
     <manacost>5Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>{Summon} Place 5 counters on this card.
 When you cast a support, deal 1 damage.
 At the end of the turn, if you didn't cast a support: Remove a counter from this card or destroy it if it has none.
@@ -4131,12 +4131,12 @@ Many pawns aren't even aware of the manipulation.</text>
 	  
 	  <card>
     <name>Bushwalker</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHorror.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHorror.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Unit - Horror</type>
     <pt>1/3</pt>
     <color>G</color>
-    <tablerow>3</tablerow>
+    <tablerow>1</tablerow>
     <text>[Guard]
 If you don't control a relic, annihilate this card.
     
@@ -4144,6 +4144,53 @@ If you don't control a relic, annihilate this card.
     
 Rustle rustle.</text>
 	</card>
+	  
+	  <card>
+    <name>First of the Ironclad</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
+    <manacost>10Q</manacost>
+    <type>Mythical Science Unit - Construct</type>
+    <pt>4/12</pt>
+    <color>R</color>
+    <tablerow>1</tablerow>
+    <text>Sacrifice a unit and exert: Destroy all relics.
+Sacrifce a relic and exert: Destroy all other units.
+    
+    
+    
+Those who'd seen it whispered that it wielded the power of the gods. The truth was far more grim.</text>
+    </card>
+
+
+<card>
+    <name>Sacred Tomato</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Unit - Plant</type>
+    <pt>2/4</pt>
+    <color>G</color>
+    <tablerow>1</tablerow>
+    <text>{Death} Heal 4 life.
+    
+    
+    
+Lives to be served. I mean. To serve.</text>
+    </card>
+
+<card>
+    <name>Pyroclasm</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Arcane Support</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Deal 1 damage to all enemy units. Add this to their effects...
+"Cannot be healed."
+    
+    
+    
+Feared and foul flame fueled by the flesh.</text>
+    </card>
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
