@@ -1313,7 +1313,7 @@ Exert: Destroy a relic.</text>
     <pt>2/6</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>Exert, sacrifice a relic or Construct: Deal 3 damage.</text>
+    <text>Exert, then sacrifice a relic or Construct: Deal 3 damage.</text>
 	</card>
 
 	<card>
