@@ -323,7 +323,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>5/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Reveal your hand and shuffle all non-support cards into your deck. Draw cards equal to the number of cards shuffled.</text>
+    <text>{Summon} Reveal your hand and shuffle all non-supports into your deck. Draw cards equal to the number of cards shuffled.</text>
   </card>
 	<card>
     <name>Spellslinging Strongman</name>
@@ -579,20 +579,20 @@ Shuffle your deck afterwards.
   <card>
     <name>Frontline Module</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a Construct token, give it +2/0. If it costs 1Q or less, also give it [Swift].</text>
+    <text>When you summon a Construct token, give it +1/0. If it costs 1Q or less, also give it [Swift].</text>
 	</card>
   <card>
     <name>Rearguard Module</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a Construct token, give it 0/+2. If it costs 1Q or less, also give it [Guard].</text>
+    <text>When you summon a Construct token, give it 0/+1. If it costs 1Q or less, also give it [Guard].</text>
 	</card>
   <card>
     <name>Time Capsule</name>
@@ -1084,7 +1084,7 @@ The brightest flames burn fastest.</text>
     <pt>3/2</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>{Summon} You can annihilate a support from your graveyard; draw a card.
+    <text>{Summon} You can annihilate a support from your graveyard: Draw a card.
     
     
     
@@ -2294,7 +2294,7 @@ When the [Aura] breaks, gains +4/+4.
     <type>Science Support</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Draw a card: Deal damage equal to its cost.
+    <text>Draw a card and reveal it: Deal damage equal to its cost.
 If it costs 0, destroy a unit instead.
 
 
@@ -3458,12 +3458,12 @@ Just don't get hit.</text>
 
 	<card>
     <name>NCM Procedure</name>
-    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text> When a friendly unit dies, resurrect it and purge it. Destroy at the end of your next turn without triggering the effect of NCM Procedure.
+    <text>When a friendly unit not named Husk dies, resurrect it, purge it, and its name becomes Husk. Destroy at the end of your next turn.
 
 
 
@@ -3551,7 +3551,7 @@ A single spire stands in the center of the crater.</text>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
     <pt>2/3</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>[Guard]
 {Summon} Summon a Salty the Hamster token.
 
@@ -3659,13 +3659,11 @@ What does it open? Merely possibilities.</text>
 	<card>
     <name>Reverse the Polarity</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
-    <manacost>0Q</manacost>
+    <manacost>2Q</manacost>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate when an opponent casts a support. Pay its cost: Activate an effect...
-- Any strength/toughness changes caused by the support are swapped.
-- Select a new target for the support, as if you were the one playing the card.
+    <text>Activate in response to an effect that targets. You choose the target(s).
 
 
 
@@ -4078,7 +4076,7 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert, then give a Construct unit -1/-1 until the end of the turn: Summon a Drone token and immediately attack a unit with it, then destroy it.
+    <text>Exert, then give a friendly Construct unit -1/-1: Summon a Drone token and immediately attack a unit with it, then destroy it.
 
     
     
@@ -4093,9 +4091,9 @@ Commencing defense analysis.</text>
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>{Summon} Place 5 counters on this card.
+    <text>{Summon} Place 3 counters on this card.
 When you cast a support, deal 1 damage.
-At the end of the turn, if you didn't cast a support: Remove a counter from this card or destroy it if it has none.
+At the end of your turn, if you didn't cast a support: Remove a counter from this card or destroy it if it has none.
 
     
     
