@@ -3685,7 +3685,8 @@ Annihilate all units this would kill instead.
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon} Choose a unit. It cannot unexert while this card is on the field.
+    <text>{Summon} Target a unit.
+That unit cannot unexert.
 
 
 
