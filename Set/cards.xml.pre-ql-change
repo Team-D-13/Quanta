@@ -21,7 +21,7 @@
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>If your Quanta exceeds your Max Quanta, you can exert and bungify: Deal damage to all enemy units equal to the difference.
+    <text>If your Quanta exceeds your Max Quanta, exert and pay 2Q: Deal 1 damage to all enemy units.
 
 
 
@@ -241,8 +241,8 @@ Return to the earth's embrace, my child.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When you would cast a support, you can exert and bungify: Summon a Scroll token and attach that support to it instead.</text>
-    <related>Scroll</related>
+    <text>When you cast a support, instead of resolving its effect, you can exert: Summon a Scroll relic and attach that support to it. That Scroll relic has the following effect:
+- Sacrifice: Cast the attached support.</text>
   </card>
   <card>
     <name>Elemental Particle</name>
@@ -444,7 +444,7 @@ The famed wizard's library. A font of knowledge amidst the rubble.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert, bungify, and sacrifice a unit: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed unit's Quanta cost.
+    <text>Exert and sacrifice a Construct: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed Construct's Quanta cost.
 
 
 
@@ -641,14 +641,11 @@ When a friendly Construct token attacks, you can remove a counter from this card
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a Fledgling Scourge token.
-Exert and bungify: Transform your Fledgling Scourges into Mature Scourges, and your Mature Scourges into Ancient Scourges.
 
 
 
 Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen feathers instead dye the waters of Indra a dismal grey.</text>
     <related>Fledgling Scourge</related>
-    <related>Mature Scourge</related>
-    <related>Ancient Scourge</related>
   </card>
 	<card>
     <name>Writhing Flesh</name>

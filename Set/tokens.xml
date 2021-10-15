@@ -148,6 +148,28 @@ When you summon a unit, take 1 damage.</text>
     <token>1</token>
   </card>
   <card>
+    <name>Mature Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>5Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>6/5</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Ancient Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>7Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>8/7</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+  <card>
     <name>Surpassed Servant</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
     <manacost>10Q</manacost>
@@ -186,6 +208,16 @@ Exert and pay 3Q: Stun all enemy units.</text>
     <tablerow>2</tablerow>
     <text>[Guard], [Pacifist]</text>
     <token>1</token>
+  <card>
+    <name>Scroll</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Arcane Relic</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>Sacrifice: Cast any attached supports.</text>
+    <token>1</token>
+	</card>
   </card>
   </cards>
 </cockatrice_carddatabase>
