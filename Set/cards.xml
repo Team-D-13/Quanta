@@ -3220,7 +3220,7 @@ Tentacles. Why did it have to be tentacles.</text>
     <pt>7/7</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} - Mill up to 7 cards. If their total cost is 7 or lower, add them to your hand.
+    <text>{Summon} Mill up to 7 cards. If their total Quanta cost is 7 or lower, add them to your hand.
 
 
 
@@ -3245,13 +3245,14 @@ If killed by a unit, annihilate the killer.
 	
 	<card>
     <name>Old Maxwell</name>
-		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalHuman.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Outsider Unit — Human</type>
     <pt>3/2</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} All friendly units gain {Death} Create a 2/1 Spawn.
+    <text>{Summon} All friendly units gain the following effect...
+- {Death} Create a 2/1 Spawn.
 
 
 
