@@ -3220,7 +3220,7 @@ Tentacles. Why did it have to be tentacles.</text>
     <pt>7/7</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Mill up to 7 cards. If their total Quanta cost is 7 or lower, add them to your hand.
+    <text>{Summon} - Mill up to 7 cards. If their total cost is 7 or lower, add them to your hand.
 
 
 
@@ -3245,14 +3245,13 @@ If killed by a unit, annihilate the killer.
 	
 	<card>
     <name>Old Maxwell</name>
-		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">C1</set>
+		<set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalHuman.png">C1</set>
     <manacost>6Q</manacost>
     <type>Mythical Outsider Unit — Human</type>
     <pt>3/2</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} All friendly units gain the following effect...
-- {Death} Create a 2/1 Spawn.
+    <text>{Summon} All friendly units gain {Death} Create a 2/1 Spawn.
 
 
 
@@ -4386,7 +4385,7 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Outsider Relic</type>
-    <color>U</color>
+    <color>B</color>
     <tablerow>0</tablerow>
     <text>{Upkeep} Steal 1 life from a Quanta Lord.
 
@@ -4400,7 +4399,7 @@ At first, they feel nothing. Then, they feel nothing.</text>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
-    <color>U</color>
+    <color>B</color>
     <tablerow>3</tablerow>
     <text>This turn, you can resurrect units by paying their Quanta cost, but you take damage equal to their Quanta cost.
 
