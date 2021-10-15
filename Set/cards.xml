@@ -1643,8 +1643,8 @@ Exert and pay 3 life: Summon a Spawn token.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 1 life: Gain 1Q.
-{Upkeep} Lose 1 life.
+    <text>Exert and pay 3 life: Gain 1Q.
+{Upkeep} Take 1 damage.
 
 
 
