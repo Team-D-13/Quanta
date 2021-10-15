@@ -21,7 +21,7 @@
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>If your Quanta exceeds your Max Quanta, you can exert and bungify: Deal damage to all enemy units equal to the difference.
+    <text>If your Quanta exceeds your Max Quanta, you can exert and unravel: Deal damage to all enemy units equal to the difference.
 
 
 
@@ -241,7 +241,7 @@ Return to the earth's embrace, my child.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When you would cast a support, you can exert and bungify: Summon a Scroll token and attach that support to it instead.</text>
+    <text>When you would cast a support, you can exert and unravel: Summon a Scroll token and attach that support to it instead.</text>
     <related>Scroll</related>
   </card>
   <card>
@@ -444,7 +444,7 @@ The famed wizard's library. A font of knowledge amidst the rubble.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert, bungify, and sacrifice a unit: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed unit's Quanta cost.
+    <text>Exert, unravel, and sacrifice a unit: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed unit's Quanta cost.
 
 
 
@@ -641,7 +641,7 @@ When a friendly Construct token attacks, you can remove a counter from this card
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a Fledgling Scourge token.
-Exert and bungify: Transform your Fledgling Scourges into Mature Scourges, and your Mature Scourges into Ancient Scourges.
+Exert and unravel: Transform your Fledgling Scourges into Mature Scourges, and your Mature Scourges into Ancient Scourges.
 
 
 
@@ -964,7 +964,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Mythical Neutral Unit — Spirit</type>
     <color></color>
     <pt>3/12</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>[Guard]
 {Summon} Your relics become 3/3 Animation units (they are still also treated as relics).</text>
   </card>
@@ -984,7 +984,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Destroy a card, and if you do, destroy all cards with the same Quanta Cost as that card.</text>
+    <text>Destroy a card, and if you do, destroy all cards with the same Quanta cost as that card.</text>
 	</card>
   <card>
     <name>Clockwork Angel</name>
@@ -3897,7 +3897,7 @@ This unit can have 2 instances of [Aura].
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert, discard a card and pay 2Q: Annihilate a unit until the end of the turn.
+    <text>{Flash} Exert and unravel: Annihilate a unit until the end of the turn.
 
 
 
@@ -3912,7 +3912,7 @@ It, is coming.</text>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>When an enemy would take damage, you can exert: Place that many counters on this card instead.
-Exert: Remove X counters from this card and deal that much damage.
+Exert and unravel: Remove X counters from this card and deal that much damage.
 
 
 
