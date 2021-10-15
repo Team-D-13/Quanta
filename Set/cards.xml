@@ -1036,7 +1036,7 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 2Q, exert, and annihilate a support in your graveyard: Deal 2 damage.
+    <text>Exert, Unravel, and annihilate a support in your graveyard: Deal 3 damage.
 
 
 
@@ -1050,7 +1050,7 @@ The last breath of the Pyre still smoulders, awaiting the day it will be rekindl
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 1Q: Return a friendly unit to your hand.
+    <text>Exert and unravel: Summon a unit from your hand with a Quanta cost less than or equal to your Max Quanta. Return it to your hand at the end of the turn.
 
 
 
@@ -1244,7 +1244,7 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert, pay 1Q, and sacrifice a Construct: Draw a card.
+    <text>Exert, sacrifice a Construct, and unravel: Draw a card.
 
 
 
@@ -1258,7 +1258,7 @@ Deal 3 damage to all units.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 1Q: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon a Drone token.
+    <text>Exert and unravel: Name a card type, then reveal the top card of your deck. If you guessed correctly, summon 2 1/1 Drone tokens, otherwise summon 1.
 
 
 
@@ -1440,7 +1440,7 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Sacrifice 3 units and exert: Resurrect a unit.</text>
+    <text>Exert, sacrifice 3 units and unravel: Resurrect a unit.</text>
 	</card>
     
     <card>
@@ -1450,7 +1450,7 @@ Exert: Destroy a relic.</text>
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert, pay 2Q and annihilate a unit from your graveyard: Give a unit [Toxic].
+    <text>Unravel and annihilate a unit from your graveyard: Give a unit [Toxic].
     
     
 
@@ -1647,8 +1647,8 @@ Exert and pay 3 life: Summon a Spawn token.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 3 life: Gain 1Q.
-{Upkeep} Take 1 damage.
+    <text>Exert and unravel: Gain 1Q.
+{Upkeep} Take 1 damage for each missing Thread.
 
 
 
@@ -1663,7 +1663,7 @@ that vile liquid is tearing me apart even now."</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 2Q: Give a unit +1/+1.</text>
+    <text>Exert and unravel: Give a unit +2/+2 and [Swift].</text>
 	</card>
 
 	<card>
