@@ -1214,7 +1214,7 @@ Deal 3 damage to all units.</text>
 
 	<card>
     <name>Wand of Blasting</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Relic</type>
     <color>U</color>
@@ -1643,8 +1643,8 @@ Exert and pay 3 life: Summon a Spawn token.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 1 life: Gain 1Q.
-{Upkeep} Lose 1 life.
+    <text>Exert and pay 3 life: Gain 1Q.
+{Upkeep} Take 1 damage.
 
 
 
@@ -3522,7 +3522,7 @@ Out of the way, scrubs.</text>
     <type>Neutral Unit — Human Spirit</type>
     <pt>5/3</pt>
     <color></color>
-    <tablerow>2</tablerow>
+    <tablerow>1</tablerow>
     <text>{Summon} Steal a unit's [Aura], [Guard] or [Swift].
 
 
@@ -3697,9 +3697,7 @@ Annihilate all units this kills.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 2Q: Select an effect...
-- Give a unit [Guard] and it becomes a Construct in addition to its other types. 
-- Your Constructs heal 2 life.
+    <text>Exert and pay 3Q: Give a unit [Guard] and it becomes a Construct in addition to its other types. 
 
 
 
@@ -3742,13 +3740,13 @@ Few get to brag of dying twice.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>At the end of each turn, your units heal 1 life for each counter on this relic.
+    <text>At the end of your turn, your units heal 1 life for each counter on this relic.
 {Summon} Put a counter on this relic.
 Exert and pay 4Q: Put a counter on this relic.
 
 
 
-Longtime effeciency protocol.</text>
+Longtime efficiency protocol.</text>
   </card>
 
 	<card>
@@ -3880,7 +3878,8 @@ You are equal to what you think, severely.</text>
     <color></color>
     <pt>6/1</pt>
     <tablerow>1</tablerow>
-    <text>[Aura], [Aura], [Aura]
+    <text>[Aura], [Aura]
+This unit can have 2 instances of [Aura].
 {Flash} Remove [Aura] from this unit: Give it [Shroud] until the end of turn.
 	
 	
@@ -4239,13 +4238,12 @@ Well... damn.</text>
 
 	<card>
     <name>Omen of Evolution</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Nature Relic</type>
+    <type>Nature Support</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text>{Summon} Declare a unit name and an ability, except [Invulnerable].
-When you summon a unit with the declared name, give it that ability and destroy this card.
+    <text>Give a friendly unit any ability, except [Invulnerable].
 
 
 
@@ -4269,13 +4267,13 @@ Does it only follow instinct, or a scheme beyond our understanding? Impossible t
 
 	<card>
     <name>Big Wac</name>
-    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTitan.png">C1</set>
-    <manacost>10Q</manacost>
-    <type>Science Unit — Titan</type>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Nature Unit — Titan</type>
     <color>R</color>
     <pt>2/16</pt>
     <tablerow>1</tablerow>
-    <text>When this unit takes damage, your Quanta Lord heals by that amount.
+    <text>{Damaged} Your Quanta Lord heals by the damage taken.
 
 
 
@@ -4325,7 +4323,7 @@ One of the oldest moves, if not the oldest.</text>
   </card>
 
 	<card>
-    <name>Curse of the Mummy</name>
+    <name>Mummy of the Curse</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Undead</type>
@@ -4384,13 +4382,13 @@ If history makes us who we are, I'm afraid you're getting unmade.</text>
   </card>
 
 	<card>
-    <name>Soulsiphon</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
-    <manacost>7Q</manacost>
-    <type>Arcane Relic</type>
+    <name>Soul Siphon</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Steal 1 toughness and 1 life from a Quanta Lord.
+    <text>{Upkeep} Steal 1 life from a Quanta Lord.
 
 
 
