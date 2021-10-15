@@ -4559,6 +4559,21 @@ Lives to be served. I mean. To serve.</text>
     
 Feared and foul flame fueled by the flesh.</text>
     </card>
+	  
+	  <card>
+    <name>Praetor Culinarian</name>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHorror.png">C1</set>
+    <type>Nature Quanta Lord — Horror</type>
+    <color>G</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text>Pay 2Q and exert: give a friendly unit this effect...
+-{Death} Heal 3 life.
+
+
+
+Halberd in hand, he carved a path through the cursed forests of Brunell, desperate to reclaim the fallen cities of his ancestors.</text>
+  </card>
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
