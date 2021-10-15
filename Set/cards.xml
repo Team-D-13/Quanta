@@ -2881,7 +2881,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
 
 
 
-Collateral is not a concept well known in the forests.^</text>
+Collateral is not a concept well known in the forests.</text>
 	</card>
 
 	<card>
@@ -3685,7 +3685,7 @@ Annihilate all units this would kill instead.
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon} Choose a unit. It cannot unexert.
+    <text>{Summon} Choose a unit. It cannot unexert while this card is on the field.
 
 
 
