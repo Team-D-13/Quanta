@@ -4567,12 +4567,12 @@ Feared and foul flame fueled by the flesh.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 2Q and exert: give a friendly unit this effect...
--{Death} Heal 3 life.
+    <text>Exert and pay 2Q: Give a friendly unit this effect...
+- {Death} Heal 3 life.
 
 
 
-Halberd in hand, he carved a path through the cursed forests of Brunell, desperate to reclaim the fallen cities of his ancestors.</text>
+Fork.</text>
   </card>
 <!-- ###################################################################################################### -->
   </cards>
