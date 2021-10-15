@@ -689,7 +689,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
     <color>B</color>
     <pt>3/6</pt>
     <tablerow>1</tablerow>
-    <text>If a unit would die, annihilate it instead.
+    <text>If another unit would die, annihilate it instead.
 
 
 
@@ -951,7 +951,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 - Nature ~ Gain 5Q.
 - Arcane ~ Draw 2 cards.
 - Science ~ Deal 5 damage.
-- Outsider ~ Annihilate all enemy units until your next upkeep.</text>
+- Outsider ~ Resurrect a unit that costs 4Q or less.</text>
   </card>
   <card>
     <name>Astral Consciousness</name>
@@ -3112,7 +3112,7 @@ Why can't you understand!?"</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>[Guard]
-If milled, summon this unit.
+If milled, resurrect this unit.
 
 
 
@@ -3122,12 +3122,12 @@ The fettered return. It is their turn.</text>
 	<card>
     <name>Stygian Tempter</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>5Q</manacost>
     <type>Outsider Unit — Demon</type>
-    <pt>2/2</pt>
+    <pt>3/2</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon} Take control of an enemy unit with strength of 2 or less.
+    <text>{Summon} Take control of an enemy unit with 2 or less strength.
 
 
 
@@ -3369,12 +3369,12 @@ Kneel.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Sacrifice a unit: Create two 3/2 Dire Spawns with [Swift].
+    <text>Sacrifice a unit: Summon 2 Dire Spawns and give them [Swift].
 
 
 
 The power was inside you all along.</text>
-    <related>Spawn</related>
+    <related>Dire Spawn</related>
 	</card>
 
 	<card>
@@ -3668,7 +3668,7 @@ Only the will of iron deserves true control.</text>
     <color></color>
     <tablerow>3</tablerow>
     <text>Deal 4 damage to all enemy units. 
-Annihilate all units this kills.
+Annihilate all units this would kill instead.
 
 
 
@@ -3940,7 +3940,7 @@ A single spire stands in the center of the crater.</text>
     <type>Mythical Neutral Unit — Human</type>
     <color></color>
     <pt>5/10</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>[Guard]
 {Damaged} Annihilate a unit from your graveyard.
 This unit has [Regenerate] while you have a unit in your graveyard.
@@ -4366,19 +4366,20 @@ Save the future.</text>
 
 Eye of newt, toe of frog, wool of bat...</text>
   </card>
-
-	<card>
-    <name>Legacy Erasure</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+  
+  <card>
+    <name>Legacy Eraser</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Outsider Support — Flash</type>
+    <type>Outsider Unit — Human</type>
     <color>B</color>
-    <tablerow>3</tablerow>
-    <text>Annihilate a card from a graveyard.
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text>{Flash} Discard this card: Annihilate a card from a graveyard.
 
 
 
-If history makes us who we are, I'm afraid you're getting unmade.</text>
+"If history makes us who we are, I'm afraid you're getting unmade."</text>
   </card>
 
 	<card>
