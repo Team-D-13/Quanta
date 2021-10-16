@@ -4258,17 +4258,17 @@ Natural selection can get dangerously close to destiny.</text>
 	<card>
     <name>Primal Primordial</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
-    <manacost>20Q</manacost>
+    <manacost>10Q</manacost>
     <type>Nature Unit — Titan</type>
     <color>G</color>
-    <pt>20/10</pt>
+    <pt>10/10</pt>
     <tablerow>1</tablerow>
-    <text>You can only summon this card if every card in your graveyard has the Nature faction.
-Costs 10Q if it's the only card in your hand.
+    <text> [Guard]
+Only affected by units.
 
 
 
-Does it only follow instinct, or a scheme beyond our understanding? Impossible to tell.</text>
+Things beyond it, are also beneath it, as it is beyond them.</text>
   </card>
 
 	<card>
