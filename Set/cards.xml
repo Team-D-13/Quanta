@@ -3702,7 +3702,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 3Q: Give a unit [Guard] and it becomes a Construct in addition to its other types. 
+    <text>{Flash} Unravel and pay 3Q: Target unit's type is replaced with Construct, then you can give it a keyword except [Invulnerable].
 
 
 
@@ -3718,6 +3718,7 @@ Herald of the gleaming isle. They seek and claim. If you're lucky, they'll ask f
     <pt>3/6</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Deal damage equal to your units' combined strength bonuses.
+Lord Bang's summon effect can only trigger used once per turn.
 
 
 
@@ -3814,7 +3815,7 @@ Total extermination.</text>
 
 
 
-Who needs ressurection anyway.</text>
+We might not be able to achieve revival, but our knowledge will never die.</text>
   </card>
 
 	<card>
@@ -3832,7 +3833,7 @@ Just don't get hit.</text>
   </card>
 
 	<card>
-    <name>NCM Procedure</name>
+    <name>The Procedure</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
@@ -3842,7 +3843,7 @@ Just don't get hit.</text>
 
 
 
-Some choose to live for the isle. Some go a step further.</text>
+Some choose to live for science. Some go a step further.</text>
   </card>
 
 	<card>
@@ -3855,7 +3856,7 @@ Some choose to live for the isle. Some go a step further.</text>
     <text>Exert: Until the end of the turn, give a unit -2/0. When it damages an enemy unit, all enemy units take the damage.
 	
 	
-Famed Technique of Zol. Brings down foes with their own schemes.</text>
+A well-known void technique that brings foes down with their own schemes.</text>
   </card>
 
 	<card>
@@ -3871,7 +3872,7 @@ Famed Technique of Zol. Brings down foes with their own schemes.</text>
 	
 	
 	
-You are equal to what you think, severely.</text>
+"There is always a path. Just keep walking."</text>
   </card>
 
 	<card>
@@ -3888,13 +3889,13 @@ This unit can have 2 instances of [Aura].
 	
 	
 	
-"Shall no-one greet me?"</text>
+"There is always a goal. Don't look back."</text>
   </card>
 
 	<card>
     <name>The Time Being</name>
     <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
-    <type>Outsider Quanta Lord — Horror</type>
+    <type>Outsider — Horror</type>
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
@@ -3933,7 +3934,7 @@ A single spire stands in the center of the crater.</text>
 
 
 
-"Raise the curtains. I'll show them real magic."</text>
+"Raise the curtains. We'll show them real magic."</text>
     <related>Salty the Hamster</related>
   </card>
 
@@ -3978,7 +3979,7 @@ Proud chef and butcher on a quest to serve man.</text>
     <pt>2/8</pt>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Upkeep} Two different random players choose a card in their respective hands and swap them.
+{Upkeep} Two different chosen players choose a card in their respective hands and swap them.
 
 
 
@@ -4053,7 +4054,7 @@ Re-route the power to the flux capacitors! No one's ever tried this before!</tex
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>{Echo 3} Draw a card for each friendly Outsider unit.
+    <text>{Echo 2} Draw a card for each friendly Outsider unit.
 
 
 
@@ -4102,7 +4103,7 @@ If nothing can see you, are you really there?</text>
 
 
 
-What arose that day wore his name.</text>
+What arose that day wore their name.</text>
   </card>
 
 	<card>
@@ -4137,7 +4138,7 @@ Clickity clack, the rider is back.</text>
   </card>
 
 	<card>
-    <name>Legendary Martial Technique</name>
+    <name>Hidden Martial Technique</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
@@ -4166,7 +4167,7 @@ Ah, to see the world and forget it...</text>
   </card>
 
 	<card>
-    <name>Reckless Cultivation</name>
+    <name>Reckless Climb</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Relic</type>
@@ -4181,14 +4182,14 @@ Anyone can achieve power. Few can keep it.</text>
   </card>
 
 	<card>
-    <name>Dark Lard</name>
+    <name>Ancient Sludge</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSlime.png">C1</set>
     <manacost>1Q</manacost>
     <type>Nature Unit — Slime</type>
     <color></color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>This unit's toughness gains are doubled.
+    <text>This unit's toughness bonuses are doubled.
 
 
 
@@ -4241,7 +4242,7 @@ Well... damn.</text>
   </card>
 
 	<card>
-    <name>Omen of Evolution</name>
+    <name>Evolve</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Support</type>
@@ -4257,12 +4258,13 @@ Natural selection can get dangerously close to destiny.</text>
 	<card>
     <name>Primal Primordial</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
-    <manacost>10Q</manacost>
+    <manacost>20Q</manacost>
     <type>Nature Unit — Titan</type>
     <color>G</color>
     <pt>20/10</pt>
     <tablerow>1</tablerow>
-    <text>You can only summon this card if every card in your graveyard is from only the Nature faction.
+    <text>You can only summon this card if every card in your graveyard has the Nature faction.
+Costs 10Q if it's the only card in your hand.
 
 
 
@@ -4281,7 +4283,7 @@ Does it only follow instinct, or a scheme beyond our understanding? Impossible t
 
 
 
-In this world, it's eat.</text>
+The culinary culmination.</text>
   </card>
 	<card>
     <name>The Impartial Judge</name>
@@ -4301,15 +4303,16 @@ Objection overruled.</text>
 	<card>
     <name>Over Vortex</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
-    <manacost>1Q</manacost>
+    <manacost>4Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>At the end of your turn, send cards from your hand to the bottom of your deck until you have 3. Then, deal damage to a Quanta Lord equal to the amount of cards you sent.
+    <text>{Flash} Shuffle a card from your hand into your deck: Deal 2 damage.
+If your hand is 3 or less, destroy this card.
 
 
 
-Diverting excess power into OBLITERATION!</text>
+We're operating at full power.</text>
   </card>
 
 	<card>
@@ -4342,7 +4345,7 @@ Return the slab, or suffer my curse...</text>
   </card>
 
 	<card>
-    <name>Chronological Sendoff</name>
+    <name>Chronological Launch</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Support</type>
@@ -4364,7 +4367,7 @@ Save the future.</text>
     <color>U</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Upkeep} Scry 1. If it's a support, add it to your hand.
+    <text>{Upkeep} Scry 1. If it's a support, add it to your hand. You can shuffle your deck afterwards.
 
 
 
@@ -4383,7 +4386,7 @@ Eye of newt, toe of frog, wool of bat...</text>
 
 
 
-"If history makes us who we are, I'm afraid you're getting unmade."</text>
+"If history makes us who we are, I'd worry about getting unmade."</text>
   </card>
 
 	<card>
@@ -4438,7 +4441,7 @@ Make it stop. MAKE IT STOP!</text>
     <pt>2/2</pt>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>If this unit has any strength/toughness bonuses, it has +2/+2 and [Swift].
+    <text>If this unit has strength/toughness bonuses, it has +2/+2 and [Swift].
     
     
     
@@ -4446,17 +4449,17 @@ Hu. Ha. Hu. Tiki tiki.</text>
 	</card>
 	  
 	  <card>
-    <name>Intel Probing</name>
+    <name>Nanofission</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert, then give a friendly Construct unit -1/-1: Summon a Drone token and immediately attack a unit with it, then destroy it.
+    <text>Exert: give a construct -1-1, then play a Drone token.
 
     
     
-Commencing defense analysis.</text>
+Nanomachines, my boy.</text>
     <related>Drone</related> 
 	</card>
 	  
@@ -4473,7 +4476,7 @@ At the end of your turn, if you didn't cast a support: Remove a counter from thi
 
     
     
-The King of Kalamesh sought a city in the sky. His advisor had bigger plans.</text>
+The King of Kalamesh sought a city in the sky. His advisors had bigger plans.</text>
 	</card>
 	  
 	  <card>
@@ -4483,7 +4486,9 @@ The King of Kalamesh sought a city in the sky. His advisor had bigger plans.</te
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Trigger your {Upkeep} effects immediately.
+    <text>Activate one effect...
+-Trigger your {Upkeep} effects immediately.
+-Trigger an enemy's {Upkeep} effects immediately.
 
     
     
@@ -4504,19 +4509,19 @@ Many pawns aren't even aware of the manipulation.</text>
 	</card>
 	  
 	  <card>
-    <name>Bushwalker</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
-    <manacost>1Q</manacost>
-    <type>Nature Unit - Plant Horror</type>
-    <pt>1/3</pt>
+    <name>Metahunter</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Nature Unit - Beast</type>
+    <pt>4/5</pt>
     <color>G</color>
     <tablerow>1</tablerow>
-    <text>[Guard]
-If you do not control a relic, destroy this unit.
+    <text>[Swift]
+{Battle} Steal a keyword from the enemy unit during that battle.
     
     
     
-Rustle rustle.</text>
+But who hunts the Metahunter?</text>
 	</card>
 	  
 	  <card>
@@ -4552,17 +4557,18 @@ Lives to be served. I mean. To serve.</text>
     </card>
 
 <card>
-    <name>Pyroclasm</name>
+    <name>Sea of Acid</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>4Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage to all enemy units. They can no longer be healed.
+    <text>All enemy units can no longer heal.
+{Echo} Deal 1 damage to the affected units, then repeat this Echo.
     
     
     
-Feared and foul flame fueled by the flesh.</text>
+To melt without fire... alchemy can truly be terrifying.</text>
     </card>
 	  
 	  <card>
@@ -4572,12 +4578,12 @@ Feared and foul flame fueled by the flesh.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert and pay 2Q: Give a friendly unit this effect...
-- {Death} Heal 3 life.
+    <text>Unravel: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
+{Upkeep} Loses 1 strength.
 
 
 
-Fork.</text>
+In this world, it's eat.</text>
   </card>
 <!-- ###################################################################################################### -->
   </cards>
