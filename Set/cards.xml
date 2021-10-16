@@ -4578,7 +4578,7 @@ To melt without fire... alchemy can truly be terrifying.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Unravel: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
+    <text>Unravel and pay 1Q: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
 {Upkeep} Loses 1 strength.
 
 
