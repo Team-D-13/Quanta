@@ -3702,7 +3702,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Unravel and pay 3Q: Target unit's type is replaced with Construct, then you can give it a keyword except [Invulnerable].
+    <text>{Flash} Unravel and pay 3Q: Target unit's type is replaced with Construct, then you can give it [Guard] or [Drain].
 
 
 
@@ -4521,7 +4521,7 @@ Many pawns aren't even aware of the manipulation.</text>
     
     
     
-But who hunts the Metahunter?</text>
+But what hunts the Metahunter?</text>
 	</card>
 	  
 	  <card>
@@ -4563,8 +4563,9 @@ Lives to be served. I mean. To serve.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>All enemy units can no longer heal.
-{Echo} Deal 1 damage to the affected units, then repeat this Echo.
+    <text>Give all enemy units the effects...
+-“Cannot heal"
+-{Upkeep} Take 1 damage.
     
     
     
@@ -4578,8 +4579,9 @@ To melt without fire... alchemy can truly be terrifying.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Unravel and pay 1Q: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
+    <text>Unravel, exert and pay 1Q: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
 {Upkeep} Loses 1 strength.
+Cannot attack Quanta Lords.
 
 
 
