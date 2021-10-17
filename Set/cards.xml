@@ -2129,7 +2129,7 @@ Bow before Glorious Perfection.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When an opponent summons a unit, you can exert, discard a card and pay 2Q: Return that unit to its controller's hand.
+    <text>{Flash} Unravel: Exert or unexert a unit.
 
 
 
@@ -2447,7 +2447,8 @@ All the incomprehensible power they generate, to an observer manifests as a simp
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>When a friendly unit dies, put a counter on this Quanta Lord.
-Remove 2 counters from any friendly card: Deal 1 damage or heal 1 life.
+Remove 3 counters from any friendly card: Deal 1 damage or heal 1 life.
+Unravel: Put 6 counters on this Quanta Lord.
 
 
 
@@ -2768,7 +2769,7 @@ The weight falls upon the caster like a million suns. Only the foolish persist i
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 6Q: Put a counter on this Quanta Lord.
+    <text>Unravel, pay 6Q: Put a counter on this Quanta Lord.
 When you summon a unit, give it +1/+1 for each counter on this Quanta Lord.
 
 
@@ -3083,7 +3084,8 @@ Exert: Remove all counters from this relic. Heal for an equal amount.
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert: Transform a friendly unit into a 3/2 Dire Spawn.
+    <text>Unravel: Transform a friendly unit into a 3/2 Dire Spawn with [Swift] or [Guard].
+If the unit cost 5Q or more, create another 3/2 Dire Spawn with [Swift] or [Guard].
 
 
 
