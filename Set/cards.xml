@@ -4140,7 +4140,7 @@ Clickity clack, the rider is back.</text>
   </card>
 
 	<card>
-    <name>Hidden Martial Technique</name>
+    <name>Secret Martial Technique</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
@@ -4287,7 +4287,7 @@ Is...is that mountain moving?</text>
 The culinary culmination.</text>
   </card>
 	<card>
-    <name>The Impartial Judge</name>
+    <name>Impartial Judge</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureAscendant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Ascendant</type>
@@ -4331,7 +4331,7 @@ One of the oldest moves, if not the oldest.</text>
   </card>
 
 	<card>
-    <name>Mummy of the Curse</name>
+    <name>Risen Mummy</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Undead</type>
@@ -4342,7 +4342,7 @@ One of the oldest moves, if not the oldest.</text>
 
 
 
-Return the slab, or suffer my curse...</text>
+Walks the land until its pillagers pay. Doesn't remember their faces.</text>
   </card>
 
 	<card>
@@ -4361,7 +4361,7 @@ Save the future.</text>
   </card>
 
 	<card>
-    <name>Magical Theorist</name>
+    <name>Magical Craftsman</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Human</type>
@@ -4377,9 +4377,9 @@ Eye of newt, toe of frog, wool of bat...</text>
   
   <card>
     <name>Legacy Eraser</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBeast.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Outsider Unit — Human</type>
+    <type>Outsider Unit — Beast</type>
     <color>B</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
@@ -4405,7 +4405,7 @@ At first, they feel nothing. Then, they feel nothing.</text>
   </card>
 
 	<card>
-    <name>Pact with the Reaper</name>
+    <name>Journey Through the Underworld</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
@@ -4420,7 +4420,7 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
   </card>
 
 	<card>
-    <name>Quack</name>
+    <name>Quacken</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support</type>
@@ -4558,7 +4558,7 @@ Lives to be served. I mean. To serve.</text>
 <card>
     <name>Sea of Acid</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
@@ -4581,7 +4581,7 @@ To melt without fire... alchemy can truly be terrifying.</text>
     <text>If this card has no strength, you can exert and pay 3Q: Sacrifice a friendly unit and gain strength equal to its cost.
 {Upkeep} Loses 1 strength.
 Cannot attack Quanta Lords.
-
+	    
 
 
 In this world, it's eat.</text>
@@ -4589,9 +4589,9 @@ In this world, it's eat.</text>
 	  
 	  <card>
     <name>Chain of Chains</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NeutralTrigger.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Nature Support - Flash</type>
+    <type>Neutral Support - Flash</type>
     <color>G</color>
     <tablerow>3</tablerow>
     <text>Return this card to the hand.
