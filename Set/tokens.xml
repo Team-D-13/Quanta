@@ -204,7 +204,7 @@ Exert and pay 3Q: Stun all enemy units.</text>
     <manacost>2Q</manacost>
     <type>Neutral Unit — Animation</type>
     <color>B</color>
-    <pt>0/5</pt>
+    <pt>0/2</pt>
     <tablerow>2</tablerow>
     <text>[Guard], [Pacifist]</text>
     <token>1</token>

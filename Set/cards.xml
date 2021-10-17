@@ -1018,11 +1018,11 @@ Sacrifice: Gain 1Q for each counter that was on this relic.</text>
   <card>
     <name>Boulder Bulwark</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPassive.png">C1</set>
-    <manacost>5Q</manacost>
+    <manacost>3Q</manacost>
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>{Summon/Upkeep} Summon a Boulder token.</text>
+    <text>Exert and pay 1Q: Summon a Boulder token.</text>
     <related>Boulder</related>
 	</card>
   
@@ -1171,8 +1171,8 @@ He always comes back for more.</text>
     <pt>5/5</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>[Aura]
-{Summon/Death/Attack} Scry 4. You can add a support from among them to your hand. Put the rest on the bottom of your deck.</text>
+    <text>[Aura], [Guard]
+{Summon/Death/Attack} Scry 5. You can add a support from among them to your hand. Put the rest on the bottom of your deck.</text>
 	</card>
 
 	<card>
@@ -2768,7 +2768,7 @@ The weight falls upon the caster like a million suns. Only the foolish persist i
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Pay 6Q: Put a counter on this Quanta Lord.
+    <text>Pay 5Q and unravel: Put a counter on this Quanta Lord.
 When you summon a unit, give it +1/+1 for each counter on this Quanta Lord.
 
 
