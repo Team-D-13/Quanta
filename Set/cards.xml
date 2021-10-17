@@ -4294,11 +4294,11 @@ The culinary culmination.</text>
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Flash} Exert: Deal X damage to both a friendly and enemy target. You choose the value of X, but it cannot exceed the friendly target's toughness.
+    <text>{Flash} Exert: Deal X damage a friendly target, then deal that much damage to one target on each enemy field. You choose the value of X, but it cannot exceed the friendly target's toughness.
 
 
 
-Objection overruled.</text>
+Objections overruled.</text>
   </card>
 
 	<card>
@@ -4568,7 +4568,7 @@ Lives to be served. I mean. To serve.</text>
     
     
     
-To melt without fire... alchemy can truly be terrifying.</text>
+The flameless fire, the terror of alchemy.</text>
     </card>
 	  
 	  <card>
