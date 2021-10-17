@@ -4485,9 +4485,7 @@ The King of Kalamesh sought a city in the sky. His advisors had bigger plans.</t
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Activate one effect...
--Trigger your {Upkeep} effects immediately.
--Trigger an enemy's {Upkeep} effects immediately.
+    <text>Trigger a player's {Upkeep} effects immediately.
 
     
     
