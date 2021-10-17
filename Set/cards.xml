@@ -4487,9 +4487,7 @@ The King of Kalamesh sought a city in the sky. His advisors had bigger plans.</t
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Activate one effect...
--Trigger your {Upkeep} effects immediately.
--Trigger an enemy's {Upkeep} effects immediately.
+    <text>Trigger a player's {Upkeep} effects immediately.
 
     
     
@@ -4587,6 +4585,21 @@ Cannot attack Quanta Lords.
 
 
 In this world, it's eat.</text>
+  </card>
+	  
+	  <card>
+    <name>Chain of Chains</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Nature Support - Flash</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>Return this card to the hand.
+You can cast this card once per turn per player.
+
+
+
+Well, it's definitely a chain of some sort. It consists of four long chains, three wooden chains, six steel chains, and an assortment of chains. You have absolutely no idea how to chain it, but it looks totally badass.</text>
   </card>
 <!-- ###################################################################################################### -->
   </cards>
