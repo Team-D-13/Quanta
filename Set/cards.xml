@@ -1088,7 +1088,7 @@ The brightest flames burn fastest.</text>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Mage</type>
-    <pt>3/2</pt>
+    <pt>3/3</pt>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>{Summon} You can annihilate a support from your graveyard: Draw a card.
