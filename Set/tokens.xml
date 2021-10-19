@@ -144,7 +144,7 @@ When you summon a unit, take 1 damage.</text>
     <color>B</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text></text>
+    <text>{Echo} Transform this unit into a Mature Scourge.</text>
     <token>1</token>
   </card>
   <card>
@@ -155,7 +155,7 @@ When you summon a unit, take 1 damage.</text>
     <color>B</color>
     <pt>6/5</pt>
     <tablerow>1</tablerow>
-    <text></text>
+    <text>{Echo} Transform this unit into an Ancient Scourge.</text>
     <token>1</token>
   </card>
   <card>

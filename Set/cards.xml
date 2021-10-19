@@ -21,7 +21,7 @@
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>If your Quanta exceeds your Max Quanta, you can exert and unravel: Deal damage to all enemy units equal to the difference.
+    <text>If your Quanta exceeds your Max Quanta, you can exert and pay the difference: Deal damage to all enemy units equal to the difference.
 
 
 
@@ -241,7 +241,7 @@ Return to the earth's embrace, my child.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When you would cast a support, you can exert and unravel: Summon a Scroll token and attach that support to it instead.</text>
+    <text>When you would cast a support, you can exert: Summon a Scroll token and attach that support to it instead.</text>
     <related>Scroll</related>
   </card>
   <card>
@@ -444,7 +444,7 @@ The famed wizard's library. A font of knowledge amidst the rubble.</text>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert, unravel, and sacrifice a unit: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed unit's Quanta cost.
+    <text>Pay 2Q and sacrifice a unit: Summon an XQ X/X Metal Facsimile token, where X is the sacrificed unit's Quanta cost.
 
 
 
@@ -641,7 +641,6 @@ When a friendly Construct token attacks, you can remove a counter from this card
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>{Upkeep} If this Quanta Lord has 15 or less life, summon a Fledgling Scourge token.
-Exert and unravel: Transform your Fledgling Scourges into Mature Scourges, and your Mature Scourges into Ancient Scourges.
 
 
 
@@ -3704,7 +3703,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Unravel and pay 3Q: Target unit's type is replaced with Construct, then you can give it [Guard] or [Drain].
+    <text>{Flash} Exert and pay 3Q: Target unit's type is replaced with Construct, then you can give it [Guard] or [Drain].
 
 
 
@@ -3901,7 +3900,8 @@ This unit can have 2 instances of [Aura].
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert and unravel: Annihilate a unit until the end of the turn.
+    <text>This Quanta Lord starts with 3 counters.
+{Flash} Exert and remove a counter from this Quanta Lord: Annihilate a unit until the end of the turn.
 
 
 
@@ -3916,7 +3916,7 @@ It, is coming.</text>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>When an enemy would take damage, you can exert: Place that many counters on this card instead.
-Exert and unravel: Remove X counters from this card and deal that much damage.
+Exert: Remove X counters from this card and deal that much damage.
 
 
 
@@ -4140,7 +4140,7 @@ Clickity clack, the rider is back.</text>
   </card>
 
 	<card>
-    <name>Hidden Martial Technique</name>
+    <name>Secret Martial Technique</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Nature Relic</type>
@@ -4287,18 +4287,18 @@ Is...is that mountain moving?</text>
 The culinary culmination.</text>
   </card>
 	<card>
-    <name>The Impartial Judge</name>
+    <name>Impartial Judge</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureAscendant.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Ascendant</type>
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Flash} Exert: Deal X damage to both a friendly and enemy target. You choose the value of X, but it cannot exceed the friendly target's toughness.
+    <text>{Flash} Exert: Deal X damage a friendly target, then deal that much damage to one target on each enemy field. You choose the value of X, but it cannot exceed the friendly target's toughness.
 
 
 
-Objection overruled.</text>
+Objections overruled.</text>
   </card>
 
 	<card>
@@ -4331,7 +4331,7 @@ One of the oldest moves, if not the oldest.</text>
   </card>
 
 	<card>
-    <name>Mummy of the Curse</name>
+    <name>Risen Mummy</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneUndead.png">C1</set>
     <manacost>4Q</manacost>
     <type>Arcane Unit — Undead</type>
@@ -4342,7 +4342,7 @@ One of the oldest moves, if not the oldest.</text>
 
 
 
-Return the slab, or suffer my curse...</text>
+Walks the land until its pillagers pay. Doesn't remember their faces.</text>
   </card>
 
 	<card>
@@ -4361,7 +4361,7 @@ Save the future.</text>
   </card>
 
 	<card>
-    <name>Magical Theorist</name>
+    <name>Magical Craftsman</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Arcane Unit — Human</type>
@@ -4377,9 +4377,9 @@ Eye of newt, toe of frog, wool of bat...</text>
   
   <card>
     <name>Legacy Eraser</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBeast.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Outsider Unit — Human</type>
+    <type>Outsider Unit — Beast</type>
     <color>B</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
@@ -4405,7 +4405,7 @@ At first, they feel nothing. Then, they feel nothing.</text>
   </card>
 
 	<card>
-    <name>Pact with the Reaper</name>
+    <name>Journey Through the Underworld</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
@@ -4420,7 +4420,7 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
   </card>
 
 	<card>
-    <name>Quack</name>
+    <name>Quacken</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support</type>
@@ -4558,7 +4558,7 @@ Lives to be served. I mean. To serve.</text>
 <card>
     <name>Sea of Acid</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>3Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
@@ -4568,20 +4568,20 @@ Lives to be served. I mean. To serve.</text>
     
     
     
-To melt without fire... alchemy can truly be terrifying.</text>
+The flameless fire, the terror of alchemy.</text>
     </card>
 	  
 	  <card>
-    <name>Praetor Culinarian</name>
+    <name>Culinary Founder</name>
     <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHorror.png">C1</set>
     <type>Nature Quanta Lord — Horror</type>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Unravel, exert and pay 1Q: If this card has no strength, sacrifice a friendly unit to gain strength equal to its cost.
+    <text>If this card has no strength, you can exert and pay 3Q: Sacrifice a friendly unit and gain strength equal to its cost.
 {Upkeep} Loses 1 strength.
 Cannot attack Quanta Lords.
-
+	    
 
 
 In this world, it's eat.</text>
@@ -4589,9 +4589,9 @@ In this world, it's eat.</text>
 	  
 	  <card>
     <name>Chain of Chains</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NeutralTrigger.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Nature Support - Flash</type>
+    <type>Neutral Support - Flash</type>
     <color>G</color>
     <tablerow>3</tablerow>
     <text>Return this card to the hand.
