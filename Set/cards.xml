@@ -241,7 +241,7 @@ Return to the earth's embrace, my child.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When you would cast a support, you can exert: Summon a Scroll token and attach that support to it instead.</text>
+    <text>When you would cast a support, you can exert: Summon a Scroll special token and attach that support to it instead.</text>
     <related>Scroll</related>
   </card>
   <card>
@@ -734,7 +734,7 @@ And you will rejoice." —Abdogul Gaar</text>
     <tablerow>2</tablerow>
     <text>[Invulnerable]
 {Battle} This unit gains +1/+1.
-{Upkeep} If this unit has 10/10 or more, transform it into a 10/10 Surpassed Servant token with "{Upkeep} Your Quanta Lord takes 10 damage." and [Pacifist].
+{Upkeep} If this unit has 10/10 or more, transform it into a 10/10 Surpassed Servant special token.
 
 
 
@@ -3930,7 +3930,7 @@ A single spire stands in the center of the crater.</text>
     <pt>2/3</pt>
     <tablerow>2</tablerow>
     <text>[Guard]
-{Summon} Summon a 2/1 Salty the Hamster token.
+{Summon} Summon a 2/1 Salty the Hamster special token.
 
 
 
@@ -4233,7 +4233,7 @@ The Champ doesn't lose.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target opponent summons a Statue of an Ugly, Grinning Man token.
+    <text>Target opponent summons a 1/1 Statue of an Ugly, Grinning Man token.
 
 
 
@@ -4454,7 +4454,7 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert: give a construct -1-1, then play a 1/1 Drone token.
+    <text>Exert: Give a friendly Construct -1/-1, then summon a 1/1 Drone token.
 
     
     
