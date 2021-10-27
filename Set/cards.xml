@@ -4587,13 +4587,13 @@ In this world, it's eat.</text>
 	  
 	  <card>
     <name>Chain of Chains</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NeutralTrigger.png">C1</set>
-    <manacost>1Q</manacost>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
+    <manacost>0Q</manacost>
     <type>Neutral Support - Flash</type>
     <color>G</color>
     <tablerow>3</tablerow>
     <text>Return this card to the hand.
-You can cast this card once per turn per player.
+You can only cast Chain of Chains once per turn.
 
 
 
