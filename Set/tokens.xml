@@ -10,7 +10,7 @@
     <pt>0/1</pt>
     <tablerow>1</tablerow>
     <text>[Pacifist]
-{Death} Summon a Chicken token.</text>
+{Death} Summon a 2/1 Chicken token.</text>
     <related>Chicken</related>
     <token>1</token>
   </card>
@@ -34,6 +34,17 @@
     <pt>1/1</pt>
     <tablerow>1</tablerow>
     <text></text>
+    <token>1</token>
+  </card>
+  <card>
+    <name>Snake</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit — Beast</type>
+    <color>G</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>[Toxic]</text>
     <token>1</token>
   </card>
   <card>
@@ -144,7 +155,7 @@ When you summon a unit, take 1 damage.</text>
     <color>B</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text>{Echo} Transform this unit into a Mature Scourge.</text>
+    <text>{Echo} Transform this unit into a 6/5 Mature Scourge.</text>
     <token>1</token>
   </card>
   <card>
@@ -155,7 +166,7 @@ When you summon a unit, take 1 damage.</text>
     <color>B</color>
     <pt>6/5</pt>
     <tablerow>1</tablerow>
-    <text>{Echo} Transform this unit into an Ancient Scourge.</text>
+    <text>{Echo} Transform this unit into an 8/7 Ancient Scourge.</text>
     <token>1</token>
   </card>
   <card>
