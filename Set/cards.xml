@@ -4263,11 +4263,11 @@ Natural selection can get dangerously close to destiny.</text>
     <color>G</color>
     <pt>10/10</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} deal 10 damage to owner’s quanta lord
+    <text>{Kill} Deal 10 damage to the killed unit's Quanta Lord.
 
 
 
-Is...is that mountain moving?</text>
+Is... is that mountain moving?</text>
   </card>
 
 	<card>
@@ -4471,7 +4471,7 @@ Nanomachines, my boy.</text>
     <tablerow>0</tablerow>
     <text>{Summon} Place 3 counters on this card.
 When you cast a support, deal 1 damage.
-At the end of your turn, if you didn't cast a support: Remove a counter from this card or destroy it if it has none.
+At the end of your turn, if you didn't cast a support, remove a counter from this card. Destroy it instead if it has none.
 
     
     
@@ -4526,11 +4526,10 @@ But what hunts the Metahunter?</text>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
     <manacost>10Q</manacost>
     <type>Mythical Science Unit - Construct</type>
-    <pt>4/12</pt>
+    <pt>12/12</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>Sacrifice a unit and exert: Destroy all relics.
-Sacrifce a relic and exert: Destroy all other units.
+    <text>{Summon} Sacrifice any number of friendly Construct units: Destroy an equal number of cards. 
     
     
     
