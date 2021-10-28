@@ -4159,7 +4159,7 @@ Balance in all things.</text>
     <type>Arcane Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Scry 5. You can swap 1 of the revealed cards with a card from your hand, then shuffle your deck.
+    <text>Scry 5. You can add 1 of those cards to your hand, but if you do, return a card from your hand to your deck. Then, shuffle your deck.
 
 
 
@@ -4365,7 +4365,7 @@ Save the future.</text>
     <color>U</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Upkeep} Scry 1. If you revealed a support, add it to your hand. You can shuffle your deck afterwards.
+    <text>{Upkeep} Scry 1. You can reveal a support scried this way and add it to your hand. You can shuffle your deck afterwards.
 
 
 
