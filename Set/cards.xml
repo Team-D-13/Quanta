@@ -3717,7 +3717,6 @@ Herald of the gleaming isle. They seek and claim. If you're lucky, they'll ask f
     <pt>3/6</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Deal damage equal to your units' combined strength bonuses.
-Lord Bang's summon effect can only trigger once per turn per player.
 
 
 
@@ -3804,17 +3803,17 @@ Total extermination.</text>
 
 
 	<card>
-    <name>Emulate</name>
+    <name>Memory Bank</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert and pay 4Q: Annihilate a unit from your graveyard. Replace a friendly unit's effect with it's effect.
+    <text>Exert and pay 4Q: Annihilate a unit from your graveyard. Add its effect to a friendly unit.
 
 
 
-We might not be able to achieve revival, but our knowledge will never die.</text>
+We might not be able to achieve immortality, but our knowledge will never die.</text>
   </card>
 
 	<card>
@@ -3847,14 +3846,15 @@ Some choose to live for science. Some go a step further.</text>
 
 	<card>
     <name>Shacklebond</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Outsider Relic</type>
+    <type>Outsider Support - Flash</type>
     <color>B</color>
-    <tablerow>0</tablerow>
-    <text>Exert: Until the end of the turn, give a unit -2/0. When it damages an enemy unit, all enemy units take the damage.
-	
-	
+    <tablerow>3</tablerow>
+    <text>Target a unit. When that unit would deal damage this turn, deal it to all enemy units instead.
+
+
+ 
 A well-known void technique that brings foes down with their own schemes.</text>
   </card>
 
@@ -3868,9 +3868,9 @@ A well-known void technique that brings foes down with their own schemes.</text>
     <tablerow>1</tablerow>
     <text>[Aura]
 {Upkeep} Give this unit [Aura].
-	
-	
-	
+
+
+
 "There is always a path. Just keep walking."</text>
   </card>
 
@@ -3885,9 +3885,9 @@ A well-known void technique that brings foes down with their own schemes.</text>
     <text>[Aura], [Aura]
 This unit can have 2 instances of [Aura].
 {Flash} Remove [Aura] from this unit: Give it [Shroud] until the end of turn.
-	
-	
-	
+
+
+
 "There is always a goal. Don't look back."</text>
   </card>
 
@@ -3979,7 +3979,7 @@ Proud chef and butcher on a quest to serve man.</text>
     <pt>2/8</pt>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Upkeep} Two different chosen players choose a card in their respective hands and swap them.
+{Upkeep} Two different random players choose a card in their respective hands and swap them.
 
 
 
@@ -4292,7 +4292,7 @@ The culinary culmination.</text>
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Flash} Exert: Deal X damage a friendly target, then deal that much damage to one target on each enemy field. You choose the value of X, but it cannot exceed the friendly target's toughness.
+    <text>{Flash} Exert: Deal X damage a friendly target, then deal that much damage to a target on each enemy field. You choose the value of X, but it cannot exceed the friendly target's toughness.
 
 
 
@@ -4307,7 +4307,6 @@ Objections overruled.</text>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>{Flash} Shuffle a card from your hand into your deck: Deal 2 damage.
-If your hand is 3 cards or less, destroy this card.
 
 
 
@@ -4366,7 +4365,7 @@ Save the future.</text>
     <color>U</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Upkeep} Scry 1. If it's a support, add it to your hand. You can shuffle your deck afterwards.
+    <text>{Upkeep} Scry 1. If you revealed a support, add it to your hand. You can shuffle your deck afterwards.
 
 
 
@@ -4418,7 +4417,7 @@ To pull necromancy of this caliber off, you have to get close to death yourself.
   </card>
 
 	<card>
-    <name>Quacken</name>
+    <name>Quack</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support</type>
@@ -4514,7 +4513,7 @@ Many pawns aren't even aware of the manipulation.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Swift]
-{Battle} Steal a keyword from the enemy unit during that battle.
+{Battle} Steal an ability from the opposing unit for this battle.
     
     
     
@@ -4554,13 +4553,11 @@ Lives to be served. I mean. To serve.</text>
 <card>
     <name>Sea of Acid</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>2Q</manacost>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Give all enemy units the effects...
--“Cannot heal"
--{Upkeep} Take 1 damage.
+    <text>Deal 1 damage to all enemy units. They can no longer be healed.
     
     
     
@@ -4590,8 +4587,7 @@ In this world, it's eat.</text>
     <type>Neutral Support - Flash</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Return this card to the hand.
-You can only cast Chain of Chains once per turn.
+    <text>{Upkeep} If this card is in your graveyard, you can add it to your hand.
 
 
 
