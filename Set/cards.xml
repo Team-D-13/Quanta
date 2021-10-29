@@ -678,7 +678,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
     <color>B</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gains +1/+1 for each unit in all graveyards.
+    <text>{Summon} This unit gains +1/+1 for each unit in your graveyard.
 
 
 
@@ -3702,7 +3702,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert and pay 3Q: Target unit's type becomes Construct, then you can give it [Guard] or [Drain].
+    <text>{Flash} Exert and pay 3Q: Give a unit [Guard] or [Drain], then its type becomes Construct.
 
 
 
