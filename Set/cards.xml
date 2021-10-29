@@ -2385,10 +2385,11 @@ Having many enemies in the admin circles can often lead to mysterious, destructi
     <name>Logic Bomb</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceSupport.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Science Support</type>
+    <type>Science Relic</type>
     <color>R</color>
-    <tablerow>3</tablerow>
-    <text>{Death} Deal 4 damage to all units. Exert: Destroy this card.
+    <tablerow>0</tablerow>
+    <text>{Death} Deal 4 damage to all units.
+Exert: Destroy this card.
 
 
 
