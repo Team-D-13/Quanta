@@ -3900,7 +3900,7 @@ This unit can have 2 instances of [Aura].
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>This Quanta Lord starts with 3 counters.
-{Flash} Exert and remove a counter from this Quanta Lord: Annihilate a unit until the end of the turn.
+{Flash} Exert, pay 1Q, and remove a counter from this Quanta Lord: Annihilate a unit until the end of the turn.
 
 
 
