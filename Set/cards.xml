@@ -122,7 +122,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>5/3</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Summon a 0/1 Chicken Egg token with "{Death} Summon a 2/1 Chicken token.".</text>
+    <text>{Kill} Summon a 0/1 Chicken Egg token with "{Death} Summon a 2/1 Chicken token."</text>
     <related>Chicken Egg</related>
   </card>
 	<card>
