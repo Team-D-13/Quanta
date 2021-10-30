@@ -3899,8 +3899,8 @@ This unit can have 2 instances of [Aura].
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>This Quanta Lord starts with 3 counters.
-{Flash} Exert, remove a counter from this Quanta Lord, and pay Q equal to a unit's Quanta cost: Annihilate that unit until the end of the turn.
+    <text>{Upkeep} Put a counter on this Quanta Lord.
+{Flash} Exert, target a unit, and remove counters from this Quanta Lord equal to that unit's Quanta cost: Annihilate that unit until the end of the turn.
 
 
 
@@ -4093,7 +4093,7 @@ If nothing can see you, are you really there?</text>
   </card>
 
 	<card>
-    <name>Vessel Preparation</name>
+    <name>Mind Meld</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Outsider Support</type>
@@ -4495,11 +4495,11 @@ Now is as good of a time as any.</text>
 	  <card>
     <name>Soul Control</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>1Q</manacost>
     <type>Mythical Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target unit is sent to your hand when it would leave the field.
+    <text>Target a unit. When it dies, add it to your hand.
     
     
 Many pawns aren't even aware of the manipulation.</text>
