@@ -3706,7 +3706,7 @@ That unit cannot unexert.
 
 
 
-"You have been selected. Willingness is optional."</text>
+"You have been selected. Cooperation is optional."</text>
   </card>
 
 	<card>
@@ -3818,7 +3818,7 @@ Immortality might be a lost cause, but our knowledge will never die.</text>
   </card>
 
 	<card>
-    <name>Emergency Maneuver</name>
+    <name>Emergency Maneuvers</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
@@ -3832,7 +3832,7 @@ Just don't get hit.</text>
   </card>
 
 	<card>
-    <name>The Final Protocol</name>
+    <name>Athanasia Procedure</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
@@ -3842,7 +3842,7 @@ Just don't get hit.</text>
 
 
 
-Some choose to live for science. Some go a step further.</text>
+For those whose devotion goes beyond death: bury this seed within your mind.</text>
   </card>
 
 	<card>
@@ -3935,7 +3935,7 @@ A single spire stands in the center of the crater.</text>
 
 
 
-"Magic lies not in mystical powers, but in the eye of the beholder."</text>
+"Raise the curtains. The show is about to start!"</text>
     <related>Salty the Hamster</related>
   </card>
 
@@ -3964,7 +3964,7 @@ A remorseful cheater. This time he's playing until he loses.</text>
     <color></color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice another unit: Heal life equal to that unit's Quanta cost, then this unit gains +1/+1.
+    <text>Sacrifice another unit: Heal this unit and your Quanta Lord life equal to that unit's Quanta cost, then give this unit +1/+1.
 
 
 
@@ -3977,7 +3977,7 @@ Proud chef and butcher on a quest to serve man.</text>
     <manacost>6Q</manacost>
     <type>Neutral Unit — Human</type>
     <color></color>
-    <pt>2/8</pt>
+    <pt>2/9</pt>
     <tablerow>1</tablerow>
     <text>[Hidden]
 {Upkeep} Two different random players choose a card in their respective hands and swap them.
@@ -4325,7 +4325,7 @@ We're operating at maximum power.</text>
 
 
 
-One of the oldest moves, if not the oldest.</text>
+All know of this move, yet they never see it coming.</text>
   </card>
 
 	<card>
@@ -4340,7 +4340,7 @@ One of the oldest moves, if not the oldest.</text>
 
 
 
-It doesn't know who its pillagers were. Damned by the rites that once protected it, it wanders the lands for eternity, purposeless.</text>
+It doesn't know who its pillagers were. Damned by the very rites that once protected it, it wanders the lands for eternity, purposeless.</text>
   </card>
 
 	<card>
@@ -4429,7 +4429,7 @@ We'll venture below. We'll speak to the fallen. We'll call them back.</text>
 
 
 
-Make it stop. MAKE IT STOP!</text>
+The noise...that terrible noise...MAKE IT STOP!</text>
   </card>
 	  
 	  <card>
@@ -4454,11 +4454,11 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert: Give a friendly Construct -1/-1, then summon a 1/1 Drone token.
+    <text>Exert: Give a friendly Construct not named Drone -1/-1, then summon a 1/1 Drone token.
 
     
     
-Nanomachines, my boy.</text>
+Two from one, the cycle repeats.</text>
     <related>Drone</related> 
 	</card>
 	  
@@ -4502,7 +4502,7 @@ Now is as good of a time as any.</text>
     <text>Target a unit. When it dies, add it to your hand.
     
     
-The living won't even notice that their deaths have been taken.</text>
+Look at you, so stuck in the moment.</text>
 	</card>
 	  
 	  <card>
