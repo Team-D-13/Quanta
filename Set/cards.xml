@@ -4558,7 +4558,7 @@ Lives to be served. I mean. To serve.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage to all enemy units. They can no longer be healed.
+    <text>Deal 1 damage to all enemy units. They can no longer recieve strength/toughness bonuses or be healed.
     
     
     
