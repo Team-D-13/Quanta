@@ -943,6 +943,17 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <text>{Summon} This unit gains +1/+1 for each friendly relic.</text>
   </card>
   <card>
+    <name>Hasir, Blinding Blade</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSoldier.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Neutral Unit — Human Soldier</type>
+    <color></color>
+    <pt>4/3</pt>
+    <tablerow>2</tablerow>
+    <text>[Hidden], [Swift]
+{Attack} Destroy the opposing unit.</text>
+  </card>
+  <card>
     <name>Sunlit Seraphim</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAscendant.png">C1</set>
     <manacost>7Q</manacost>
@@ -4454,7 +4465,7 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert: Give a friendly Construct not named Drone -1/-1, then summon a 1/1 Drone token.
+    <text>Exert: Give a friendly Construct -1/-1, then summon a 1/1 Drone token.
 
     
     
