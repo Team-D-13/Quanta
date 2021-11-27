@@ -93,7 +93,7 @@
   </card>
   <card>
     <name>Statue of an Ugly, Grinning Man</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnimation.png">TK</set>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/statueofanuglygrinningman.png">TK</set>
     <manacost>0Q</manacost>
     <type>Outsider Unit — Animation</type>
     <color>B</color>
