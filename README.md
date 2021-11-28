@@ -1,5 +1,29 @@
 # Quanta
 
+## Base Rules
+
+First Turn - The player going first is decided by all players rolling a D1000 (CTRL+I). The player with the highest number goes first, the others follow order based on their numbers. On your first turn, draw 5 cards, return the ones you do not like, shuffle your deck and draw the amount you returned.
+
+Quanta - At your first turn, you start with 1 quanta. Using the orbs below your life counter, you signify both current and maximum quanta. Your maximum quanta increases at the start of each of your turns, and your quanta is set to that amount. This is not an upkeep effect! Quanta is capped at 10 normally.
+
+Following Turns - At the start of each turn after the first, you draw a card, increase your maximum quanta by 1 and set your quanta to that amount as noted above, then follow through with any upkeep effects you may have.
+
+Flow - NOT YET IMPLEMENTED. Flow resets to 0 at the end of your turn. It increases by 1 each time you play a card during your turn. It is tracked using an orb, like the quanta indicators. Some cards interact with flow.
+
+## Card Types
+
+Quanta Lord - Accessed through your side deck (CTRL+F3), a Quanta Lord has a unique ability that can serve as a keystone or addition to your deck. If you have a unit with [Guard], your Quanta Lord cannot be attacked, otherwise it is an open target.
+
+Unit - Units are played to the middle row, or front row if they have guard. They can take damage, attack and be attacked. They have stats, for example 1/2. The 1 would be strength - the amount of damage the unit's attack inflicts. The 2 would be toughness - the amount of damage the unit can take before being destroyed. When a unit attacks, it is exerted. It also cannot attack on the turn it is played unless it has the swift ability. This also means a unit that activates its Exert effect cannot attack on the same turn. Damage is signified with red counters.
+
+Support - Supports are played to the bottom row. They activate immediately and are then sent to the graveyard in most cases. A support can only be played during your turn.
+
+Flash - A subtype of support. It can be played at any time and usually has a tactical effect. (Flash itself is also a keyword that other card effects may have, not to be confused with these 'Support - Flash' cards.)
+
+Relic - A card that provides passive support. It is played to the bottom row and stays there. Relics may have passive effects, exert effects or something more gimmicky.
+
+Equipment - NOT YET IMPLEMENTED. An equipment is first played similarly to a relic. Once on the board, it can be attached to a unit (the attaching may have its own cost), upon which it and/or the unit gain effects.
+
 ## Factions
 
 ### Picking your Quanta Lord decides your faction. You can play netural cards and cards of that faction...
