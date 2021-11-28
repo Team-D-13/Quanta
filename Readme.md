@@ -28,7 +28,7 @@ Equipment - NOT YET IMPLEMENTED. An equipment is first played similarly to a rel
 
 ## Factions
 
-### Picking your Quanta Lord decides your faction. You can play netural cards and cards of that faction...
+### Picking your Quanta Lord decides your faction. You can play neutral cards and cards of that faction...
 
 Arcane - Focus on supports and hand/deck manipulation. Specialization in counters. Minor focus on relics and flashes. Somewhat all-rounded.
 
