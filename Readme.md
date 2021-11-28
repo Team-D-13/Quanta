@@ -40,7 +40,7 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 ## Quanta Keywords...
 
-[Aura]              - Ignores the first instance of damage received and loses [Aura].
+[Aura]              - Ignores the first instance of damage received (or attempt at destruction) and loses [Aura].
 
 [Guard]             - One unit with [Guard] must be a target of an attack if present.
 
