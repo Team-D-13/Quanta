@@ -8,6 +8,8 @@ Quanta - At your first turn, you start with 1 quanta. Using the orbs below your 
 
 Following Turns - At the start of each turn after the first, you draw a card, increase your maximum quanta by 1 and set your quanta to that amount as noted above, then follow through with any upkeep effects you may have.
 
+Counters - Some cards' effects place counters, which interact with some card effects. Counters are unviersal and shared for any effects that interact with them. Since in-game red counters signify damage, signify your actual counters using a different color of counter in-game.
+
 Flow - NOT YET IMPLEMENTED. Flow resets to 0 at the end of your turn. It increases by 1 each time you play a card during your turn. It is tracked using an orb, like the quanta indicators. Some cards interact with flow.
 
 ## Card Types
