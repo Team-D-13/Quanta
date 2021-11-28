@@ -3709,7 +3709,7 @@ That unit cannot unexert.
   	<card>
     <name>Integration Administrator</name>
     <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceAscendant.png">C1</set>
-    <type>Science Quanta Lord — Ascendant</type>
+    <type>Science Quanta Lord — Ascendant Human</type>
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
@@ -3722,9 +3722,9 @@ A herald of technology. They seek and claim. If you're lucky, they'll ask first.
 
 	<card>
     <name>Lord Bang</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlesssSoldier.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Mythical Neutral Unit — Human Anomaly</type>
+    <type>Mythical Neutral Unit — Human Anomaly Soldier</type>
     <color></color>
     <pt>3/6</pt>
     <tablerow>1</tablerow>
@@ -3746,7 +3746,8 @@ This is it.</text>
 
 
 
-Few get to brag of dying twice.</text>
+Why are both heroes and heretics sent to the pyre? Is our ceremony a reward or a punishment?
+- Learned Shazaim</text>
   </card>
 
 	<card>
@@ -3762,7 +3763,7 @@ Exert and pay 4Q: Put a counter on this relic.
 
 
 
-Longtime efficiency protocol.</text>
+Objective: Efficiency. Protocol: Maintenance.</text>
   </card>
 
 	<card>
@@ -3778,7 +3779,7 @@ Exert and pay 4Q: Put a counter on this relic.
 
 
 
-Learning/assimilation protocol.</text>
+Objective: Cultivation. Protocol: Learning/Assimilation.</text>
   </card>
 
 	<card>
@@ -3794,7 +3795,7 @@ Exert and pay 4Q: Put a counter on this relic.
 
 
 
-Overload protocol.</text>
+Objective: Victory. Protocol: Overload.</text>
   </card>
 
 	<card>
@@ -3810,7 +3811,7 @@ Exert and pay 4Q: Put a counter on this relic.
 
 
 
-Total extermination.</text>
+Objective: Extermination...</text>
   </card>
 
 
@@ -3853,7 +3854,7 @@ Just don't get hit.</text>
 
 
 
-For those whose devotion goes beyond death, bury this seed within your mind.</text>
+For those whose devotion goes beyond death, bury these seeds within your minds.</text>
   </card>
 
 	<card>
@@ -3867,14 +3868,14 @@ For those whose devotion goes beyond death, bury this seed within your mind.</te
 
 
  
-A well-known void technique that brings foes down with their own schemes.</text>
+A feared technique imparted by kind beings from another place. It is written that this spell is part of a ritual that can undo the unification.</text>
   </card>
 
 	<card>
     <name>Hopeless Horizon Soldier</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Neutral Unit — Human</type>
+    <type>Neutral Unit — Human Soldier</type>
     <color></color>
     <pt>3/1</pt>
     <tablerow>1</tablerow>
@@ -3883,14 +3884,14 @@ A well-known void technique that brings foes down with their own schemes.</text>
 
 
 
-"There is always a path. Just keep walking."</text>
+"The elders always say to just keep walking."</text>
   </card>
 
 	<card>
     <name>Hopeless Horizon Savant</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessAscendant.png">C1</set>
     <manacost>7Q</manacost>
-    <type>Mythical Neutral Unit — Human</type>
+    <type>Mythical Neutral Unit — Ascendant Soldier</type>
     <color></color>
     <pt>6/1</pt>
     <tablerow>1</tablerow>
@@ -3900,13 +3901,13 @@ This unit can have 2 instances of [Aura].
 
 
 
-"There is always a goal. Don't look back."</text>
+"The teacher always says to never look back."</text>
   </card>
 
 	<card>
     <name>The Time Being</name>
-    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">C1</set>
-    <type>Outsider Quanta Lord — Horror</type>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
+    <type>Outsider Quanta Lord — Anomaly Horror</type>
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
@@ -3915,13 +3916,13 @@ This unit can have 2 instances of [Aura].
 
 
 
-It, is coming.</text>
+Swallow your fear, it's almost here. It won't be late, such is our fate. Seconds to decades, years to nil. Now is here, time lies still.</text>
   </card>
 
 	<card>
     <name>Clock Tower Warden</name>
-    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
-    <type>Arcane Quanta Lord — Human</type>
+    <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneWarlock.png">C1</set>
+    <type>Arcane Quanta Lord — Human Warlock</type>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
@@ -3937,7 +3938,7 @@ A single spire stands in the center of the crater.</text>
     <name>Grey Crane</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Mythical Neutral Unit — Human</type>
+    <type>Mythical Neutral Unit — Human "Mage"</type>
     <color></color>
     <pt>2/3</pt>
     <tablerow>2</tablerow>
@@ -3952,9 +3953,9 @@ A single spire stands in the center of the crater.</text>
 
 	<card>
     <name>The Grieving Marauder</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSoldier.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Mythical Neutral Unit — Human</type>
+    <type>Mythical Neutral Unit — Human Soldier</type>
     <color></color>
     <pt>5/10</pt>
     <tablerow>2</tablerow>
@@ -4000,9 +4001,9 @@ In the right moment, with the right angle, anything is possible.</text>
 
 	<card>
     <name>Umbral Monarch</name>
-    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Arcane Unit — Human</type>
+    <type>Arcane Unit — Human Mage</type>
     <color></color>
     <pt>4/7</pt>
     <tablerow>1</tablerow>
@@ -4018,7 +4019,7 @@ A fair and just ruler with nothing to hide.</text>
     <name>The Count</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneUndead.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Mythical Arcane Unit — Undead</type>
+    <type>Mythical Arcane Unit — Undead Warlock</type>
     <color></color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
@@ -4077,7 +4078,7 @@ When the veil parts, look through their eyes. -Kalangue Monument </text>
     <name>One-Masked Man</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Outsider Unit — Anomaly</type>
+    <type>Outsider Unit — Anomaly Spirit</type>
     <color>B</color>
     <pt>6/6</pt>
     <tablerow>1</tablerow>
@@ -4092,7 +4093,7 @@ Would you believe that the being watching you is, in fact, you?</text>
     <name>The Eye</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Outsider Unit — Anomaly</type>
+    <type>Outsider Unit — Anomaly Ascendant</type>
     <color>B</color>
     <pt>0/1</pt>
     <tablerow>1</tablerow>
@@ -4135,9 +4136,9 @@ What arose that day wore their name.</text>
 
 	<card>
     <name>Second Rider</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSoldier.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Mythical Neutral Unit — Human</type>
+    <type>Mythical Neutral Unit — Human Anomaly</type>
     <color></color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
@@ -4225,9 +4226,9 @@ What a deal!</text>
 
 	<card>
     <name>The Champ</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureHuman.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureSoldier.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Mythical Nature Unit — Human</type>
+    <type>Mythical Nature Unit — Human Soldier</type>
     <color>G</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
@@ -4271,7 +4272,7 @@ Natural selection can get dangerously close to destiny.</text>
     <name>Stone Monarch</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>10Q</manacost>
-    <type>Nature Unit — Titan</type>
+    <type>Nature Unit — Titan Spirit</type>
     <color>G</color>
     <pt>10/10</pt>
     <tablerow>1</tablerow>
@@ -4286,7 +4287,7 @@ Is... is that mountain moving?</text>
     <name>Big Wac</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Nature Unit — Titan</type>
+    <type>Nature Unit — Titan Construct</type>
     <color>R</color>
     <pt>2/16</pt>
     <tablerow>1</tablerow>
@@ -4300,7 +4301,7 @@ The culinary culmination.</text>
     <name>Bridge Keeper</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTitan.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Nature Unit — Titan</type>
+    <type>Nature Unit — Titan Soldier</type>
     <color>G</color>
     <pt>2/8</pt>
     <tablerow>1</tablerow>
@@ -4371,9 +4372,9 @@ Save the future.</text>
 
 	<card>
     <name>Magical Craftsman</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Arcane Unit — Human</type>
+    <type>Arcane Unit — Human Mage</type>
     <color>U</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
@@ -4445,9 +4446,9 @@ The noise...that terrible noise...MAKE IT STOP!</text>
 	  
 	  <card>
     <name>Tiki Tribesman</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureWarlock.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Nature Unit - Human</type>
+    <type>Nature Unit - Human Warlock</type>
     <pt>2/2</pt>
     <color>G</color>
     <tablerow>3</tablerow>
@@ -4520,7 +4521,7 @@ Look at you, so stuck in the moment.</text>
     <name>Metahunter</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>6Q</manacost>
-    <type>Nature Unit - Beast</type>
+    <type>Nature Unit - Beast Soldier</type>
     <pt>4/5</pt>
     <color>G</color>
     <tablerow>1</tablerow>
@@ -4551,7 +4552,7 @@ The prototype technological titan. Its terrifying inner workings are highly conf
     <name>Sacred Tomato</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePlant.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Nature Unit - Plant</type>
+    <type>Nature Unit - Plant Spirit</type>
     <pt>2/4</pt>
     <color>G</color>
     <tablerow>1</tablerow>
