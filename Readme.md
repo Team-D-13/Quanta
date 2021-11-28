@@ -36,7 +36,7 @@ Science - Focus on relics and supports. Specialization in tokens. Minor focus on
 
 Nature - Focus on powerful units and buffs. Specialization in life manipulation. Minor focus on graveyard manipulation and swarming. Decently all-rounded.
 
-outsider = Focus on graveyard manipulation. Specialization in void manipulation and sacrifice. Minor focus on milling, hand manipulation and tokens. Not very all-rounded.
+Outsider = Focus on graveyard manipulation. Specialization in void manipulation and sacrifice. Minor focus on milling, hand manipulation and tokens. Not very all-rounded.
 
 ## Quanta Keywords...
 
