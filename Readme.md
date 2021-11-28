@@ -14,7 +14,7 @@ Flow - NOT YET IMPLEMENTED. Flow resets to 0 at the end of your turn. It increas
 
 ## Card Types
 
-Quanta Lord - Accessed through your side deck (CTRL+F3), a Quanta Lord has a unique ability that can serve as a keystone or addition to your deck. If you have a unit with [Guard], your Quanta Lord cannot be attacked, otherwise it is an open target.
+Quanta Lord - Accessed through your side deck (CTRL+F3), a Quanta Lord has a unique ability that can serve as a keystone or addition to your deck. If you have a unit with [Guard], your Quanta Lord cannot be attacked, otherwise it is an open target. Quanta lords have 30 life. Once the life is lost, you lose the game.
 
 Unit - Units are played to the middle row, or front row if they have guard. They can take damage, attack and be attacked. They have stats, for example 1/2. The 1 would be strength - the amount of damage the unit's attack inflicts. The 2 would be toughness - the amount of damage the unit can take before being destroyed. When a unit attacks, it is exerted. It also cannot attack on the turn it is played unless it has the swift ability. This also means a unit that activates its Exert effect cannot attack on the same turn. Damage is signified with red counters.
 
