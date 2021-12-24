@@ -22,7 +22,7 @@ Flash - A subtype of support. It can be played at any time and usually has a tac
 
 Relic - A card that provides passive support. It is played to the bottom row and stays there. Relics may have passive effects, exert effects or something more gimmicky.
 
-Equipment - NOT YET IMPLEMENTED. An equipment is first played similarly to a relic. Once on the board, it can be attached to a unit (the attaching may have its own cost), upon which it and/or the unit gain effects.
+Equipment - NOT YET IMPLEMENTED. An equipment is first played similarly to a relic, but usually has no inherent effect. Once on the field, however, it can be attached to a unit. The attaching may have its own cost. Equipment effects usually trigger or become active once it is attached. Once the unit leaves the field, the equipment is not destroyed, and is instead simply unattached (unless itself or other relevant cards specify otherwise, of course).
 
 ## Factions
 
