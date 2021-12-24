@@ -74,6 +74,6 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 {Echo}:      Activated at the start of your next turn.
 
-{Upkeep}:    Upkeep triggers happen at the start of your turn.
+{Upkeep}:    Upkeep is triggered at the start of your turn with the same timing as your draw and quanta gain.
 
 Exert:       A card can be exerted to activate an effect if not exerted. Exerted cards are restored at the start of your turn.
