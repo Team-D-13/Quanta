@@ -62,22 +62,22 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 ## Quanta Callbacks...
 
-{Summon}:    Activated when entering play.
+{Summon}:    Activated when the card enters play.
 
-{Death}:     Activated if sent to the graveyard from the field.
+{Death}:     Activated when the card is sent to the graveyard from the field.
 
-{Damaged}:   Activated when the unit takes damage.
+{Damaged}:   Activated when the card takes damage.
 
-{Attack}:    Activated when attacking.
+{Attack}:    Activated when the card attacks.
 
-{Defend}:    Activated when attacked.
+{Defend}:    Activated when the card is attacked.
 
-{Battle}:    Activated when attacking or attacked.
+{Battle}:    Activated when the card attacks or is attacked.
 
 {Echo}:      Activated at the start of your next turn.
 
-{Upkeep}:    Upkeep is activated at the start of your turn, with the same timing as your draw and quanta gain.
+{Upkeep}:    Activated at the start of your turn, with the same timing as your draw and quanta gain.
 
-{Kill}:      Activated when the card with this callback destroys a card through battle or its effect/s.
+{Kill}:      Activated when the card destroys a unit through battle or its effect/s.
 
 Exert:       Effects with this callback...exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [Swift] cannot exert on the turn they are played.
