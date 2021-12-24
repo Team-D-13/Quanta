@@ -66,6 +66,8 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 {Death}:     Activated if sent to the graveyard from the field.
 
+{Damaged}:   Activated when the unit takes damage.
+
 {Attack}:    Activated when attacking.
 
 {Defend}:    Activated when attacked.
@@ -74,6 +76,8 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 {Echo}:      Activated at the start of your next turn.
 
-{Upkeep}:    Upkeep is triggered at the start of your turn with the same timing as your draw and quanta gain.
+{Upkeep}:    Upkeep is activated at the start of your turn, with the same timing as your draw and quanta gain.
+
+{Kill}:      Activated when the card with this callback destroys a card through battle or its effect/s.
 
 Exert:       Effects with this callback...exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [Swift] cannot exert on the turn they are played.
