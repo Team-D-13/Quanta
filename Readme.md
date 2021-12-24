@@ -76,4 +76,4 @@ Outsider - Focus on graveyard manipulation. Specialization in void manipulation 
 
 {Upkeep}:    Upkeep is triggered at the start of your turn with the same timing as your draw and quanta gain.
 
-Exert:       Effects with this callback...exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [swift] cannot exert on the turn they are played.
+Exert:       Effects with this callback...exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [Swift] cannot exert on the turn they are played.
