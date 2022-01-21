@@ -28,13 +28,13 @@ Equipment - NOT YET IMPLEMENTED. An equipment is first played similarly to a rel
 
 ### Picking your Quanta Lord decides your faction. You can play neutral cards and cards of that faction...
 
-Arcane - Focus on supports and hand/deck manipulation. Specialization in counters. Minor focus on relics and flashes. Somewhat all-rounded.
+Arcane has deadly support cards and deck manipulation, and plenty of counter cards. Many of its cards deal damage, neutralize other cards, or draw and scry.
 
-Science - Focus on relics and supports. Specialization in tokens. Minor focus on counters and non-unit damage/destruction. Very all-rounded.
+Science has powerful relics, token generation and board setup. Its relics and supports have a bit of everything, though graveyard manipulation is rare.
 
-Nature - Focus on powerful units and buffs. Specialization in life manipulation. Minor focus on graveyard manipulation and swarming. Decently all-rounded.
+Nature has powerful units and life manipulation. Its relics and supports tend to interact with battling, healing or buffing. Has some graveyard plays too.
 
-Outsider - Focus on graveyard manipulation. Specialization in void manipulation and sacrifice. Minor focus on milling, hand manipulation and tokens. Not very all-rounded.
+Outsider has powerful graveyard manipulation and even uses the void. It has token plays too. It tends to feature sacrifices, be it cards, life, or units.
 
 ## Quanta Keywords...
 
