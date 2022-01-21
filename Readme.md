@@ -74,9 +74,9 @@ Outsider has powerful graveyard manipulation and even uses the void. It has toke
 
 {Battle}:    Activated when the card attacks or is attacked.
 
-{Echo}:      Activated at the start of your next turn.
-
 {Upkeep}:    Activated at the start of your turn, with the same timing as your draw and quanta gain.
+
+{Echo}:      Activated at the start of your next turn.
 
 {Kill}:      Activated when the card destroys a unit through battle or its effect/s.
 
