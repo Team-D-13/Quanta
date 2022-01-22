@@ -181,22 +181,6 @@ When you summon a unit, take 1 damage.</text>
     <token>1</token>
   </card>
   <card>
-    <name>Surpassed Servant</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
-    <manacost>10Q</manacost>
-    <type>Mythical Outsider Unit — Horror</type>
-    <color>B</color>
-    <pt>10/10</pt>
-    <tablerow>2</tablerow>
-    <text>[Pacifist]
-{Upkeep} Your Quanta Lord takes 10 damage.
-
-
-
-... your time is up.</text>
-    <token>1</token>
-  </card>
-  <card>
     <name>Salty the Hamster</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">TK</set>
     <manacost>1Q</manacost>

@@ -204,11 +204,11 @@ If you have a Double Rainbow in your graveyard, activate both effects instead.</
 	<card>
     <name>Growth Spurt</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Gain 2 Max Quanta. Do not gain Max Quanta naturally for your next 2 turns.</text>
+    <text>Gain 3 Max Quanta. Do not gain Max Quanta naturally for your next 3 turns.</text>
 	</card>
 	<card>
     <name>Stampede</name>
@@ -634,7 +634,7 @@ When a friendly Construct token attacks, you can remove a counter from this card
   
   <!-- Outsider -->
   <card>
-    <name>Helau, Uncrowned Queen of the Wastes</name>
+    <name>Helau, the Uncrowned Queen</name>
     <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <type>Outsider Quanta Lord — Undead Bird</type>
     <color>B</color>
@@ -712,7 +712,7 @@ Her brilliant plumage once bathed the skies in rainbow flair. Now, her fallen fe
 
 "Your god will be left to starve in the torrid sands of the western desert, abandoned alone in the savage wilderness, cast down the Pit of Hangoul, and impaled upon the filthiest cross we can find. And you will watch.
 
-And you will rejoice." —Abdogul Gaar</text>
+And you will rejoice." —Abdogul Gaar, Warden of the Hejan Hells</text>
   </card>
 	<card>
     <name>Direkin Destroyer</name>
@@ -724,23 +724,6 @@ And you will rejoice." —Abdogul Gaar</text>
     <tablerow>1</tablerow>
     <text>{Damaged} Sacrifice a friendly card.</text>
   </card>
-  <card>
-    <name>Servant for Now</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
-    <manacost>5Q</manacost>
-    <type>Mythical Outsider Unit — Human Horror</type>
-    <color>B</color>
-    <pt>3/3</pt>
-    <tablerow>2</tablerow>
-    <text>[Invulnerable]
-{Battle} This unit gains +1/+1.
-{Upkeep} If this unit has 10/10 or more, transform it into a 10/10 Surpassed Servant special token.
-
-
-
-Now...</text>
-    <related>Surpassed Servant</related>
-  </card>
 	<card>
     <name>Direkin Devil</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderDemon.png">C1</set>
@@ -750,6 +733,30 @@ Now...</text>
     <pt>6/6</pt>
     <tablerow>1</tablerow>
     <text>Sacrifice 2 cards: Resurrect this unit.</text>
+  </card>
+  <card>
+    <name>Thorne, Chitin Cretin</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderInsect.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Outsider Unit — Demon Insect</type>
+    <color>B</color>
+    <pt>4/5</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon} Mill a card.
+When you mill a card, give a unit +1/+1.</text>
+  </card>
+  <card>
+    <name>Unveiler of Truth</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHorror.png">C1</set>
+    <manacost>8Q</manacost>
+    <type>Mythical Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>1/9</pt>
+    <tablerow>2</tablerow>
+    <text>[Guard]
+{Summon} Transform all other units into 2/1 Spawn tokens.
+When you would sacrifice a card, you can sacrifice Spawn and Dire Spawn tokens from anywhere on the field.</text>
+    <related>Spawn</related>
   </card>
 	<card>
     <name>Blaspheme</name>
@@ -767,7 +774,7 @@ Now...</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target an enemy unit. When you would sacrifice a card this turn: You can sacrifice that unit as if you controlled it.</text>
+    <text>Target an enemy unit. When you would sacrifice a card this turn, you can sacrifice that unit as if you controlled it.</text>
 	</card>
 	<card>
     <name>Resurrection</name>
@@ -824,14 +831,13 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
     <related>Dire Spawn</related>
 	</card>
 	<card>
-    <name>Stigma</name>
+    <name>Sacrificial Altar</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
-    <manacost>0Q</manacost>
+    <manacost>2Q</manacost>
     <type>Outsider Relic</type>
     <color>B</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} If this relic has 3 or more counters on it, sacrifice it: Annihilate all enemy units.
-When an opponent summons a unit, you can sacrifice a card: Put a counter on this relic.</text>
+    <text>When you sacrifice a card, give your units +1/+1.</text>
 	</card>
 	<card>
     <name>Wormhole</name>
@@ -845,21 +851,7 @@ When an opponent summons a unit, you can sacrifice a card: Put a counter on this
 
 
 
-In he goes, and out he comes.</text>
-	</card>
-  <card>
-    <name>The Histoire Grimoire</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderPassive.png">C1</set>
-    <manacost>20Q</manacost>
-    <type>Mythical Outsider Relic</type>
-    <color>B</color>
-    <tablerow>0</tablerow>
-    <text>Costs 1Q less for each card in your graveyard.
-{Upkeep} Play the top card of your graveyard.
-
-
-
-A book documenting the rise and fall of nations. The artistic depictions within look frighteningly real.</text>
+"In he goes, and out he comes."</text>
 	</card>
   
   <!-- Neutral -->
@@ -968,15 +960,18 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
 - Outsider ~ Resurrect a unit that costs 4Q or less.</text>
   </card>
   <card>
-    <name>Astral Consciousness</name>
-    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSpirit.png">C1</set>
+    <name>Woodcutter Balikus</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSoldier.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Mythical Neutral Unit — Spirit</type>
+    <type>Mythical Neutral Unit — Human Soldier</type>
     <color></color>
-    <pt>3/12</pt>
+    <pt>5/5</pt>
     <tablerow>2</tablerow>
-    <text>[Guard]
-{Summon} Your relics become 3/3 Animation units (they are still also treated as relics).</text>
+    <text>{Summon} Deal 8 damage to an enemy unit. If this kills it, deal 2 damage to all other enemy units.
+
+
+
+"Look at them. The cockroaches still desperately cling to the ruins of their dying civilization. Learn from the mistakes of our forefathers, my brethren. After cutting down a tree, you mustn't leave the stump to rot. You have to pull it out by the roots." —Balikus, Fourth General of the New Karmisian Front</text>
   </card>
   <card>
     <name>Resonance Reflector</name>
@@ -1657,8 +1652,8 @@ Exert and pay 3 life: Summon a 2/1 Spawn token.</text>
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert: Gain 1Q and put a counter on this.
-{Upkeep} Take 1 damage for each counter on this.
+    <text>Exert: Gain 1Q and put a counter on this Quanta Lord.
+{Upkeep} Take 1 damage for each counter on this Quanta Lord.
 
 
 
@@ -4004,7 +3999,7 @@ In the right moment, with the right angle, anything is possible.</text>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <manacost>6Q</manacost>
     <type>Arcane Unit — Human Mage</type>
-    <color></color>
+    <color>U</color>
     <pt>4/7</pt>
     <tablerow>1</tablerow>
     <text>[Swift]
@@ -4020,10 +4015,10 @@ A fair and just ruler with nothing to hide.</text>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneUndead.png">C1</set>
     <manacost>8Q</manacost>
     <type>Mythical Arcane Unit — Undead Warlock</type>
-    <color></color>
+    <color>U</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Transfer any amount of counters to this card from any other source.
+    <text>{Summon} Transfer all counters from other cards to this unit.
 This card has +1/+1 for each counter on it.
 
 
@@ -4097,7 +4092,7 @@ Would you believe that the being watching you is, in fact, you?</text>
     <color>B</color>
     <pt>0/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Annihilate all units without [Hidden]
+    <text>{Summon} Annihilate all units without [Hidden].
 
 
 
@@ -4441,7 +4436,7 @@ We'll venture below. We'll speak to the fallen. We'll call them back.</text>
 
 
 
-The noise...that terrible noise...MAKE IT STOP!</text>
+The noise... that terrible noise... MAKE IT STOP!</text>
   </card>
 	  
 	  <card>
