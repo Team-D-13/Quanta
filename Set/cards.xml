@@ -967,7 +967,7 @@ Drinking the blood of gods to gain unfathomable power... just the fantasy of a p
     <color></color>
     <pt>5/5</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Deal 8 damage to an enemy unit. If this kills it, deal 2 damage to all other enemy units.
+    <text>{Summon} Deal 6 damage to an enemy unit. If this kills it, deal 2 damage to all other enemy units.
 
 
 
@@ -4388,7 +4388,7 @@ Eye of newt, toe of frog, wool of bat...</text>
     <color>B</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>{Flash} Discard this card: Annihilate a card from a graveyard.
+    <text>{Flash} Sacrifice this card: Annihilate a card from a graveyard.
 
 
 
