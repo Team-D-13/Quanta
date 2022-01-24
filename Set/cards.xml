@@ -1347,7 +1347,7 @@ Exert: Destroy a relic.</text>
     <pt>5/5</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>This takes 1 damage: Gain [Swift] and ignores [Guard] this turn.</text>
+    <text>Deal 1 damage to this card: Gains [Swift] and ignores [Guard] this turn.</text>
 	</card>
 
 	<card>
