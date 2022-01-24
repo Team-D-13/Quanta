@@ -81,7 +81,7 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <pt>1/4</pt>
     <tablerow>2</tablerow>
     <text>[Guard]
-Exert: This unit gains +3/0 until your next upkeep.</text>
+Exert: This card gains +3/0 until your next upkeep.</text>
   </card>
 	<card>
     <name>Mother Bird</name>
@@ -102,7 +102,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gains +1/+1 for each other Beast you control.</text>
+    <text>{Summon} This card gains +1/+1 for each other Beast you control.</text>
   </card>
 	<card>
     <name>Rampaging Raptor</name>
@@ -133,7 +133,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Unexert this unit.</text>
+    <text>{Kill} Unexert this card.</text>
   </card>
 	<card>
     <name>Infiniflea</name>
@@ -143,7 +143,7 @@ Exert: This unit gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Copy this unit.
+    <text>{Damaged} Copy this card.
 
 
 
@@ -158,7 +158,7 @@ Some say that since the cataclysm, Brunell's forests have been smothered within 
     <pt>2/6</pt>
     <tablerow>2</tablerow>
     <text>[Guard], [Regenerate]
-{Battle} If this unit would take more than 3 damage this battle, it takes 3 damage instead.</text>
+{Battle} If this card would take more than 3 damage this battle, it takes 3 damage instead.</text>
   </card>
   <card>
     <name>Slaughter Sloth</name>
@@ -252,7 +252,7 @@ Return to the earth's embrace, my child.</text>
     <color>U</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>When you cast a support, give this unit +1/+1 until the end of the turn.</text>
+    <text>When you cast a support, give this card +1/+1 until the end of the turn.</text>
   </card>
   <card>
     <name>Magical Acolyte</name>
@@ -283,7 +283,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>1/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert: Transform this unit into another unit that costs 2Q or less (retaining its toughness).</text>
+    <text>Exert: Transform this card into another unit that costs 2Q or less (retaining its toughness).</text>
   </card>
   <card>
     <name>Elemental Residue</name>
@@ -303,7 +303,7 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert and pay XQ: This unit gains +X/+X.</text>
+    <text>Exert and pay XQ: This card gains +X/+X.</text>
   </card>
 	<card>
     <name>Imperial Caster</name>
@@ -333,8 +333,8 @@ Exert: Shuffle a card from your hand into your deck, and if you do, draw a card.
     <color>U</color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Exert: Deal damage equal to this unit's strength.
-When you deal effect damage, this unit gains +1/0.</text>
+    <text>Exert: Deal damage equal to this card's strength.
+When you deal effect damage, this card gains +1/0.</text>
   </card>
 	<card>
     <name>Spark</name>
@@ -393,7 +393,7 @@ Two's better than one.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>You cannot declare an attack the turn you cast this support. Draw 3 cards.</text>
+    <text>You cannot declare an attack the turn you cast this card. Draw 3 cards.</text>
 	</card>
 	<card>
     <name>Brainstorm</name>
@@ -427,9 +427,9 @@ Two's better than one.</text>
     <type>Mythical Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Draw a card for each counter on this relic.
-{Summon} Put a counter on this relic.
-Exert, and pay 1Q for each counter on this relic: Put a counter on this relic.
+    <text>{Upkeep} Draw a card for each counter on this card.
+{Summon} Put a counter on this card.
+Exert, and pay 1Q for each counter on this card: Put a counter on this card.
 
 
 
@@ -512,7 +512,7 @@ The famed wizard's library. A font of knowledge amidst the rubble.</text>
     <color>R</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gains +1/+1 for each other friendly Construct.</text>
+    <text>{Summon} This card gains +1/+1 for each other friendly Construct.</text>
   </card>
 	<card>
     <name>Perfect Mecha [REX•MAGNUS]</name>
@@ -609,7 +609,7 @@ Shuffle your deck afterwards.
 - Deal 6 damage.
 - Give friendly units +2/+2.
 - Summon 4 1/1 Drone tokens.
-{Upkeep} Put 1 counter on this relic. Then, if this relic has 2 or more counters on it, sacrifice it and activate the selected effects.</text>
+{Upkeep} Put 1 counter on this card. Then, if this card has 2 or more counters on it, sacrifice it and activate the selected effects.</text>
     <related>Drone</related>
 	</card>
 	<card>
@@ -668,7 +668,7 @@ Her brilliant plumage once emblazoned the skies with rainbow light. But now, her
     <pt>1/2</pt>
     <tablerow>1</tablerow>
     <text>[Toxic]
-{Summon} Sacrifice another card: Give this unit [Swift].</text>
+{Summon} Sacrifice another card: Give this card [Swift].</text>
   </card>
 	<card>
     <name>Gravetrawler</name>
@@ -678,7 +678,7 @@ Her brilliant plumage once emblazoned the skies with rainbow light. But now, her
     <color>B</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gains +1/+1 for each unit in your graveyard.
+    <text>{Summon} This card gains +1/+1 for each unit in your graveyard.
 
 
 
@@ -732,7 +732,7 @@ And you will rejoice." —Abdogul Gaar, Warden of the Hejan Hells</text>
     <color>B</color>
     <pt>6/6</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice 2 cards: Resurrect this unit.</text>
+    <text>Sacrifice 2 cards: Resurrect this card.</text>
   </card>
   <card>
     <name>Thorne, Chitin Cretin</name>
@@ -863,7 +863,7 @@ Resurrection. The unattainable opus of the arcane arts, but a mere fleeting thou
     <color></color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Sacrifice a relic or destroy this unit.
+    <text>{Summon} Sacrifice a relic or destroy this card.
 
 
 
@@ -902,7 +902,7 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <pt>5/5</pt>
     <tablerow>1</tablerow>
     <text>[Pacifist]
-{Damaged} Purge this unit.</text>
+{Damaged} Purge this card.</text>
   </card>
   <card>
     <name>Wisp Whisperer</name>
@@ -932,7 +932,7 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <color></color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} This unit gains +1/+1 for each friendly relic.</text>
+    <text>{Summon} This card gains +1/+1 for each friendly relic.</text>
   </card>
   <card>
     <name>Hasir, Blinding Blade</name>
@@ -1007,8 +1007,8 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <type>Neutral Relic</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit dies, put a counter on this relic.
-Sacrifice: Gain 1Q for each counter that was on this relic.</text>
+    <text>When a friendly unit dies, put a counter on this card.
+Sacrifice: Gain 1Q for each counter that was on this card.</text>
 	</card>
   <card>
     <name>Seaspire Sundry</name>
@@ -1139,7 +1139,7 @@ Life is a powerful fuel.</text>
     <color>U</color>
     <tablerow>1</tablerow>
     <text>[Aura], [Pierce]
-When you cast a support, this unit gains +2/0 this turn.</text>
+When you cast a support, this card gains +2/0 this turn.</text>
 	</card>
 
 	<card>
@@ -1359,7 +1359,7 @@ Exert: Destroy a relic.</text>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Death} Summon 1/1 Drone tokens equal to this unit's strength.</text>
+{Death} Summon 1/1 Drone tokens equal to this card's strength.</text>
     <related>Drone</related>
 	</card>
 
@@ -1530,7 +1530,7 @@ Death is an attribute which, with effort, can be extracted, purified, and weapon
     <pt>2/5</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Summon/Battle} You can sacrifice another unit. If you do, this unit gains +2/+2 and you draw a card.</text>
+    <text>{Summon/Battle} You can sacrifice another unit. If you do, this card gains +2/+2 and you draw a card.</text>
 	</card>
 
 	<card>
@@ -1570,7 +1570,7 @@ Has [Invulnerable] and [Shroud] while you control a Black Guard token.</text>
     <tablerow>1</tablerow>
     <text>[Drain]
 {Summon} Annihilate a unit.
-This unit has +1/+1 for each annihilated unit.
+This card has +1/+1 for each annihilated unit.
 
 
 
@@ -2017,7 +2017,7 @@ The paladins of the Church of Iron are implacable.</text>
     <type>Neutral Unit — Fish</type>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>When a support targets exactly this unit, that support's owner casts a copy of that support targeting each other unit.
+    <text>When a support targets exactly this card, that support's owner casts a copy of that support targeting each other unit.
 
 
 
@@ -2245,7 +2245,7 @@ Has +3/0 during your turn.
     <color>R</color>
     <tablerow>1</tablerow>
     <text>[Aura]
-When this unit loses [Aura], it gains +4/+4.
+When this card loses [Aura], it gains +4/+4.
 
 
 
@@ -2486,7 +2486,7 @@ The king.</text>
     <pt>2/4</pt>
     <color>U</color>
     <tablerow>1</tablerow>
-    <text>{Echo} This unit gains +2/+2 or draw 2 cards.
+    <text>{Echo} This card gains +2/+2 or draw 2 cards.
 
 
 
@@ -2563,7 +2563,7 @@ The old get older. The strong get stronger.</text>
 	<color>U</color>
 	<tablerow>1</tablerow>
 	<text>[Swift]
-Whenever you play a support, you can summon this unit from or send it back to your hand.
+Whenever you play a support, you can summon this card from or send it back to your hand.
 
 
 
@@ -2595,7 +2595,7 @@ Whenever you play a support, you can summon this unit from or send it back to yo
     <color>U</color>
     <tablerow>1</tablerow>
     <text>[Aura]
-Exert: Deal 5 damage to all other units or give them +2/+2. Purge this unit.
+Exert: Deal 5 damage to all other units or give them +2/+2. Purge this card.
 
 
 
@@ -2791,7 +2791,7 @@ The progeny of the titan took life and calamity followed.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Swift]
-{Attack} If this unit would kill a unit in this battle, it does not die from this battle and heals all life.
+{Attack} If this card would kill a unit in this battle, it does not die from this battle and heals all life.
 
 
 
@@ -2852,7 +2852,7 @@ When damaged, lose [Guard]: Give another friendly unit [Guard].
     <pt>4/6</pt>
     <color>G</color>
     <tablerow>1</tablerow>
-    <text>Exert: This unit heals all life.
+    <text>Exert: This card heals all life.
 
 
 
@@ -3069,8 +3069,8 @@ It's only natural to want more.</text>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text>When a unit dies, put a counter on this relic.
-Exert: Remove all counters from this relic. Heal for an equal amount.
+    <text>When a unit dies, put a counter on this card.
+Exert: Remove all counters from this card. Heal for an equal amount.
 
 
 
@@ -3122,7 +3122,7 @@ Why can't you understand!?"</text>
     <color>B</color>
     <tablerow>1</tablerow>
     <text>[Guard]
-If milled, resurrect this unit.
+If milled, resurrect this card.
 
 
 
@@ -3200,7 +3200,7 @@ Tentacles. Why did it have to be tentacles.</text>
     <pt>2/5</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>Exert: Sacrifice this unit. Deal damage equal to its missing life to all enemy units.
+    <text>Exert: Sacrifice this card. Deal damage equal to its missing life to all enemy units.
 
 
 
@@ -3215,7 +3215,7 @@ Tentacles. Why did it have to be tentacles.</text>
     <pt>7/1</pt>
     <color>B</color>
     <tablerow>1</tablerow>
-    <text>{Echo} Resurrect this unit.
+    <text>{Echo} Resurrect this card.
 
 
 
@@ -3457,7 +3457,7 @@ We tend to destroy what we can't understand.</text>
     <pt>7/7</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Flash} Purge this unit.
+    <text>{Flash} Purge this card.
 
 
 
@@ -3563,7 +3563,7 @@ Out of the way, scrubs.</text>
     <pt>4/6</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Battle} Double this unit's strength. 
+    <text>{Battle} Double this card's strength. 
 {Upkeep} Set its strength to 4.
 
 
@@ -3752,9 +3752,9 @@ Why are both heroes and heretics sent to the pyre? Is our ceremony a reward or a
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>At the end of your turn, your units heal 1 life for each counter on this relic.
-{Summon} Put a counter on this relic.
-Exert and pay 4Q: Put a counter on this relic.
+    <text>At the end of your turn, your units heal 1 life for each counter on this card.
+{Summon} Put a counter on this card.
+Exert and pay 4Q: Put a counter on this card.
 
 
 
@@ -3768,9 +3768,9 @@ Objective: Efficiency. Protocol: Maintenance.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When an enemy unit dies: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this relic.
-{Summon} Put a counter on this relic.
-Exert and pay 4Q: Put a counter on this relic.
+    <text>When an enemy unit dies: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this card.
+{Summon} Put a counter on this card.
+Exert and pay 4Q: Put a counter on this card.
 
 
 
@@ -3784,9 +3784,9 @@ Objective: Cultivation. Protocol: Learning/Assimilation.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Your units gain +2/0 and take 2 damage for each counter on this relic.
-{Summon} Put a counter on this relic.
-Exert and pay 4Q: Put a counter on this relic.
+    <text>{Upkeep} Your units gain +2/0 and take 2 damage for each counter on this card.
+{Summon} Put a counter on this card.
+Exert and pay 4Q: Put a counter on this card.
 
 
 
@@ -3800,9 +3800,9 @@ Objective: Victory. Protocol: Overload.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit attacks, deal 2 damage and take 1 damage for each counter on this relic.
-{Summon} Put a counter on this relic.
-Exert and pay 4Q: Put a counter on this relic.
+    <text>When a friendly unit attacks, deal 2 damage and take 1 damage for each counter on this card.
+{Summon} Put a counter on this card.
+Exert and pay 4Q: Put a counter on this card.
 
 
 
@@ -3875,7 +3875,7 @@ A feared technique imparted by kind beings from another place. It is written tha
     <pt>3/1</pt>
     <tablerow>1</tablerow>
     <text>[Aura]
-{Upkeep} Give this unit [Aura].
+{Upkeep} Give this card [Aura].
 
 
 
@@ -3891,8 +3891,8 @@ A feared technique imparted by kind beings from another place. It is written tha
     <pt>6/1</pt>
     <tablerow>1</tablerow>
     <text>[Aura], [Aura]
-This unit can have 2 instances of [Aura].
-{Flash} Remove [Aura] from this unit: Give it [Shroud] until the end of turn.
+This card can have 2 instances of [Aura].
+{Flash} Remove [Aura] from this card: Give it [Shroud] until the end of turn.
 
 
 
@@ -3956,7 +3956,7 @@ A single spire stands in the center of the crater.</text>
     <tablerow>2</tablerow>
     <text>[Guard]
 {Damaged} Annihilate a unit from your graveyard.
-This unit has [Regenerate] while you have a unit in your graveyard.
+This card has [Regenerate] while you have a unit in your graveyard.
 
 
 
@@ -3971,7 +3971,7 @@ A remorseful cheater. This time he's playing until he loses.</text>
     <color></color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice another unit: Heal this unit and your Quanta Lord life equal to that unit's Quanta cost, then give this unit +1/+1.
+    <text>Sacrifice another unit: Heal this card and your Quanta Lord life equal to that unit's Quanta cost, then give this card +1/+1.
 
 
 
@@ -4018,7 +4018,7 @@ A fair and just ruler with nothing to hide.</text>
     <color>U</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Transfer all counters from other cards to this unit.
+    <text>{Summon} Transfer all counters from other cards to this card.
 This card has +1/+1 for each counter on it.
 
 
@@ -4077,7 +4077,7 @@ When the veil parts, look through their eyes. -Kalangue Monument </text>
     <color>B</color>
     <pt>6/6</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} If all units in your graveyard have the same name, give this unit [Guard], [Drain], [Regenerate], [Toxic], [Aura].
+    <text>{Summon} If all units in your graveyard have the same name, give this card [Guard], [Drain], [Regenerate], [Toxic], [Aura].
 
 
 
@@ -4138,7 +4138,7 @@ What arose that day wore their name.</text>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Gains +2/0 for each other Second Rider summoned this game.
-{Death} Shuffle this unit into your deck.
+{Death} Shuffle this card into your deck.
 
 
 
@@ -4182,7 +4182,7 @@ Ah, to see the world and forget it...</text>
     <color>G</color>
     <tablerow>0</tablerow>
     <text> Exert: Give a unit the following effect...
-- {Upkeep} This unit gains +2/+2. Destroy it if it has 10/10 or more.
+- {Upkeep} This card gains +2/+2. Destroy it if it has 10/10 or more.
 
 
 
@@ -4197,7 +4197,7 @@ Anyone can achieve power. Few can keep it.</text>
     <color></color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>This unit's toughness bonuses are doubled.
+    <text>This card's toughness bonuses are doubled.
 
 
 
@@ -4227,7 +4227,7 @@ What a deal!</text>
     <color>G</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>This unit's life cannot be reduced below 1 from battle.
+    <text>This card's life cannot be reduced below 1 from battle.
 
 
 
@@ -4447,7 +4447,7 @@ The noise... that terrible noise... MAKE IT STOP!</text>
     <pt>2/2</pt>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>If this unit has strength/toughness bonuses, it has +2/+2 and [Swift].
+    <text>If this card has strength/toughness bonuses, it has +2/+2 and [Swift].
     
     
     
