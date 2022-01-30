@@ -4426,9 +4426,9 @@ We'll venture below. We'll speak to the fallen. We'll call them back.</text>
 
 	<card>
     <name>Quack</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/TerribleQuack.png">C1</set>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/TerribleQuack.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Neutral Support</type>
+    <type>Mythical Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage to all enemies. Shuffle this card into your deck.
