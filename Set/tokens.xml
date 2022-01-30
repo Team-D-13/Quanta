@@ -189,8 +189,7 @@ When you summon a unit, take 1 damage.</text>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
     <text>Exert and pay 1Q: Deal 2 damage.
-Exert and pay 2Q: Draw 2 cards, then discard a card.
-Exert and pay 3Q: Purge a unit, deal 4 damage to it.</text>
+Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <token>1</token>
   </card>
   <card>
