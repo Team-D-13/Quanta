@@ -4033,8 +4033,8 @@ So, a vampire walks into a bar...</text>
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>Pay 2Q: Note down the exact state of a unit.
-{Flash} Exert: Return the last noted unit to its noted state.
+    <text>Pay 1Q: Note down the exact state of a unit (attach a clone of it to this card).
+{Flash} Exert: Pay 2Q to return the last noted unit to its noted state.
 
 
 
