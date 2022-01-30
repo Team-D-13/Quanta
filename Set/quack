@@ -4426,7 +4426,7 @@ We'll venture below. We'll speak to the fallen. We'll call them back.</text>
 
 	<card>
     <name>Quack</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBird.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Support</type>
     <color></color>
@@ -4436,7 +4436,7 @@ We'll venture below. We'll speak to the fallen. We'll call them back.</text>
 
 
 
-The noise... that terrible noise... MAKE IT STOP!</text>
+Every night, at 3 AM, until you love it.</text>
   </card>
 	  
 	  <card>
