@@ -3363,7 +3363,7 @@ Kneel.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Swap the strength and toughness of two units.
+    <text>Swap the strength and toughness of 2 different units.
 
 
 
@@ -3987,7 +3987,7 @@ Proud chef and butcher on a quest to serve man.</text>
     <pt>2/9</pt>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Upkeep} Two different random players choose a card in their respective hands and swap them.
+{Upkeep} 2 different random players choose a card in their respective hands and swap them.
 
 
 
