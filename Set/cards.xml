@@ -3826,12 +3826,12 @@ Immortality might be a lost cause, but our knowledge will never die.</text>
 
 	<card>
     <name>Emergency Maneuvers</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Science Relic</type>
+    <type>Science Support - Flash</type>
     <color>R</color>
-    <tablerow>0</tablerow>
-    <text>When a friendly unit would die, you can exert: Return it to the hand instead.
+    <tablerow>3</tablerow>
+    <text>Place your destroyed unit into your hand instead of your graveyard.
 
 
 
@@ -4250,7 +4250,7 @@ Well... damn.</text>
   </card>
 
 	<card>
-    <name>Evolve</name>
+    <name>Mutate</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Nature Support</type>
@@ -4260,7 +4260,7 @@ Well... damn.</text>
 
 
 
-Natural selection can get dangerously close to destiny.</text>
+Awaken (your potential).</text>
   </card>
 
 	<card>

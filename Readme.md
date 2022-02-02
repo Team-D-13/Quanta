@@ -4,7 +4,9 @@
 
 Preparation - Once a game starts, all players load their decks. Afterwards, they place their Quanta Lords to their fields (CTRL+F3, see 'Quanta Lord' below). All players draw 5 cards for their starting hands. Afterwards, each player can mulligan - choose any amount of the cards from their starting hands, return them to the deck, shuffle the deck, then draw as many cards as they returned. All players set their life to 30. Finally, the turn order is decided by all players rolling a d1000 (CTRL+I). The turn order goes from the highest result to the lowest. All players start with 0 quanta/max quanta before their first turn takes place.
 
-Turn Start & Quanta - At the start of each of your turns, you draw a card, increase your maximum quanta by 1, then set your quanta to your maximum quanta. Upkeep effects trigger at the start of your turn as well. All of these (drawing, quanta, upkeep) have the same timing - though the typical procedure is draw>set quanta>upkeep, some upkeep effects interact with drawing or start-of-turn quanta. Start-of-turn drawing and quanta-setting are not upkeep effects themselves! The maximum quanta cap is 10 under normal circumstances, but the actual amount of quanta you can have is uncapped.
+Turn Start & Quanta - At the start of each of your turns, you draw a card, increase your maximum quanta by 1, then set your quanta to your maximum quanta, additionally, your units un-exrt and your upkeep effects trigger. All of these (drawing, quanta, un-exert, upkeep) have the same timing - though the typical procedure is draw>set quanta>un-exert>upkeep, some upkeep effects interact with these actions. Upkeep only refers to specific, designated upkeep effects, not any of the other actions. The maximum quanta cap is 10 under normal circumstances, but the actual amount of quanta you can have in any moment is uncapped.
+
+Exert - Signified by setting the card sideways. Attacking or using some effects exerts. A card cannot exert on the turn it is played unless it has the [Swift] ability (see below). Cards unexert once your turn starts.
 
 Counters - Some cards' effects place counters. These interact with certain cards. Counters are universal and shared for any effects that interact with them. Since in-game red counters signify damage, signify your actual counters using a different color of counter in-game.
 
@@ -44,7 +46,7 @@ Outsider has powerful graveyard manipulation and even uses the void. It has toke
 
 [Hidden]            - Cannot be targeted. Removed if it attacks or exerts.
 
-[Swift]             - Can attack units and exert immediately.
+[Swift]             - Can attack units and exert immediately. Note that units with [Swift] still cannot attack a Quanta Lord on the turn they're played.
 
 [Pierce]            - When dealing excess damage to a unit, deals it to their quanta lord.
 
