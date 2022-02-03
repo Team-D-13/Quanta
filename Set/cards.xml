@@ -2501,7 +2501,7 @@ The king.</text>
 	<pt>3/6</pt>
 	<color>U</color>
 	<tablerow>1</tablerow>
-	<text>Gains +2/0 When a support is played.
+	<text>Gains +2/0 when a support is cast.
 	After attacking, set strength to its base value.
 
 
@@ -2563,7 +2563,7 @@ The old get older. The strong get stronger.</text>
 	<color>U</color>
 	<tablerow>1</tablerow>
 	<text>[Swift]
-Whenever you play a support, you can summon this card from or send it back to your hand.
+Whenever you cast a support, you can summon this card from or send it back to your hand.
 
 
 
@@ -2712,7 +2712,7 @@ A long journey can change people.</text>
     <type>Arcane Support — Flash</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>Activate when an enemy plays a support: It costs 5Q more.
+    <text>Activate when an enemy casts a support. It costs 5Q more.
 
 
 
@@ -2755,7 +2755,7 @@ The weight falls upon the caster like a million suns. Only the foolish persist i
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>Whenever you play a support, add a counter. Remove 3 counters: Create a 3/3 Elemental.
+    <text>Whenever you cast a support, add a counter. Remove 3 counters: Create a 3/3 Elemental.
 
 
 
