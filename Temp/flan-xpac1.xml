@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>XPAC1</name>
+      <longname>Expansion 1</longname>
+      <settype>Expansion</settype>
+      <releasedate>20XX-XX-XX</releasedate>
+    </set>
+  </sets>
+  <cards>
+<!-- ###################################################################################################### -->
+  <!-- Core 1 [C1] -->
+	<!-- Flan -->
+  
+  <!-- Nature -->
+  <card>
+    <name>Insidious Infestation</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Support — Flash</type>
+    <color>G</color>
+    <tablerow>3</tablerow>
+    <text>{Flow X} The turn player's units get -X/-X.</text>
+	</card>
+  
+  <!-- Arcane -->
+	<card>
+    <name>Alice, the Stargazer</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneMage.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Mythical Arcane Unit — Human Mage</type>
+    <color>U</color>
+    <pt>2/3</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Scry 4. Add a card with an {Invoke} effect from among them to your hand.
+{Invoke} Shuffle a card with an {Invoke} effect from your hand into your deck. Draw 4 cards.</text>
+  </card>
+  
+  <!-- Science -->
+  
+  
+  <!-- Outsider -->
+  <card>
+    <name>Hand of Hedra</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnimation.png">XPAC1</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Human Animation</type>
+    <color>B</color>
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text>{Death} Idolize this unit.
+
+
+
+"They were held hostage by the light of Hedra. Cogs in a machine that knew its function, but not its purpose."</text>
+  </card>
+  
+  <!-- Science Outsider -->
+  <card>
+    <name>Hedran Salvator</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceOutsiderConstruct.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Science Outsider Unit — Construct</type>
+    <color>RB</color>
+    <pt>3/2</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} You can resurrect a unit that costs 2Q or less.
+While you control that card, this card gets +2/+2.
+
+
+
+#</text>
+  </card>
+  <card>
+    <name>Hedran Salvager</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceOutsiderConstruct.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Science Outsider Unit — Construct</type>
+    <color>RB</color>
+    <pt>4/5</pt>
+    <tablerow>1</tablerow>
+    <text>You can return friendly relics to your hand to play this card for 2Q less per card.
+
+
+
+#</text>
+  </card>
+  <card>
+    <name>Rite of Immortality</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceOutsiderSupport.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Science Outsider Support</type>
+    <color>RB</color>
+    <tablerow>3</tablerow>
+    <text>Target a unit. Copy it, idolize it, and purge the copy.</text>
+	</card>
+  
+  <!-- Neutral -->
+  
+  
+<!-- ###################################################################################################### -->
+  </cards>
+</cockatrice_carddatabase>
