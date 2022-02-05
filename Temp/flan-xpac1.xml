@@ -39,11 +39,10 @@
   
   <!-- Science -->
   
-  
   <!-- Outsider -->
   <card>
     <name>Hand of Hedra</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnimation.png">XPAC1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">XPAC1</set>
     <manacost>1Q</manacost>
     <type>Outsider Unit — Human Animation</type>
     <color>B</color>
@@ -55,6 +54,35 @@
 
 "They were held hostage by the light of Hedra. Cogs in a machine that knew its function, but not its purpose."</text>
   </card>
+  <card>
+    <name>Enthralled Jackal</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBeast.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Unit — Beast Animation</type>
+    <color>B</color>
+    <pt>5/4</pt>
+    <tablerow>1</tablerow>
+    <text>{Upkeep} Pay 1 life.
+{Death} Idolize this unit.
+
+
+
+#</text>
+  </card>
+  <card>
+    <name>Gammun, the [Something Cool]</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">XPAC1</set>
+    <manacost>7Q</manacost>
+    <type>Mythical Outsider Unit — Human Animation</type>
+    <color>B</color>
+    <pt>5/4</pt>
+    <tablerow>1</tablerow>
+    <text>[I don't know. I'm going to bed.]
+
+
+
+#</text>
+  </card>
   
   <!-- Science Outsider -->
   <card>
@@ -65,7 +93,7 @@
     <color>RB</color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} You can resurrect a unit that costs 2Q or less.
+    <text>{Summon} Resurrect a unit that costs 2Q or less.
 While you control that card, this card gets +2/+2.
 
 
