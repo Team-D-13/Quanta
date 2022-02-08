@@ -133,7 +133,7 @@ Exert: This card gains +3/0 until your next upkeep.</text>
     <color>G</color>
     <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Unexert this card.</text>
+    <text>{Kill} Unexert.</text>
   </card>
 	<card>
     <name>Infiniflea</name>
