@@ -48,7 +48,7 @@
     <color>B</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
-    <text>{Death} Idolize this unit.
+    <text>{Death} Idolize this card.
 
 
 
@@ -63,25 +63,27 @@
     <pt>5/4</pt>
     <tablerow>1</tablerow>
     <text>{Upkeep} Pay 1 life.
-{Death} Idolize this unit.
+{Death} Idolize this card.
 
 
 
 #</text>
   </card>
   <card>
-    <name>Gammun, the [Something Cool]</name>
+    <name>Shadow of the Sky</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">XPAC1</set>
     <manacost>7Q</manacost>
     <type>Mythical Outsider Unit — Human Animation</type>
     <color>B</color>
-    <pt>5/4</pt>
+    <pt>8/5</pt>
     <tablerow>1</tablerow>
-    <text>[I don't know. I'm going to bed.]
+    <text>[Hidden]
+{Upkeep} Annihilate a card. When this card loses [Hidden], summon all cards annihilated this way.
+Exert: Idolize this card.
 
 
 
-#</text>
+A man who lost everything, even his name. He kills for answers, but has only ever gotten one: The sombre breeze that comes after the sounds of war subside.</text>
   </card>
   
   <!-- Science Outsider -->
@@ -121,7 +123,7 @@ While you control that card, this card gets +2/+2.
     <type>Science Outsider Support</type>
     <color>RB</color>
     <tablerow>3</tablerow>
-    <text>Target a unit. Copy it, idolize it, and purge the copy.</text>
+    <text>Target a unit. Copy it, idolize it, then purge the copy.</text>
 	</card>
   
   <!-- Neutral -->
