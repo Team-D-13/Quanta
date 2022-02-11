@@ -4106,8 +4106,7 @@ If nothing can see you, are you really there?</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage.
-{Kill} Resurrect that unit to your field.
+    <text>Deal 1 damage; if it was lethal, ressurect the target to your field.
 
 
 
