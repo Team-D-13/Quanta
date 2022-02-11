@@ -38,6 +38,20 @@
   </card>
   
   <!-- Science -->
+  <card>
+    <name>Contaminated Subject</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceInsect.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Science Unit — Insect</type>
+    <color>R</color>
+    <pt>1/4</pt>
+    <tablerow>1</tablerow>
+    <text>{Evolve} Gain "{Death} Idolize this card."
+
+
+
+"It was a calculated strike, aimed straight at the heart of our civilization. We were not prepared. We had no reason to be."</text>
+  </card>
   
   <!-- Outsider -->
   <card>
@@ -70,7 +84,7 @@
 #</text>
   </card>
   <card>
-    <name>Shadow of the Sky</name>
+    <name>Hamon, [the man who needs a title]</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">XPAC1</set>
     <manacost>7Q</manacost>
     <type>Mythical Outsider Unit — Human Animation</type>
@@ -83,7 +97,7 @@ Exert: Idolize this card.
 
 
 
-A man who lost everything, even his name. He kills for answers, but has only ever gotten one: The sombre breeze that comes after the sounds of war subside.</text>
+"Ah, the sombre breeze that blows once the sounds of battle subside. I miss the relief I would feel, when it would brush against my skin..."</text>
   </card>
   
   <!-- Science Outsider -->
@@ -124,6 +138,16 @@ While you control that card, this card gets +2/+2.
     <color>RB</color>
     <tablerow>3</tablerow>
     <text>Target a unit. Copy it, idolize it, then purge the copy.</text>
+	</card>
+  <card>
+    <name>Quantum Experiment</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceOutsiderSupport.png">XPAC1</set>
+    <manacost>7Q</manacost>
+    <type>Science Outsider Support</type>
+    <color>RB</color>
+    <tablerow>3</tablerow>
+    <text>Scry 7. You can summon any units among them, then idolize those units. Shuffle your deck afterwards.
+{Flash} You can annihilate this card from your graveyard: Annihilate a friendly card, then summon a card with the same name from your deck.</text>
 	</card>
   
   <!-- Neutral -->
