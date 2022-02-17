@@ -23,7 +23,8 @@
     <pt>2/2</pt>
     <tablerow>2</tablerow>
     <text>{Shroud}
-{Upkeep} Discard one material with {Evolve} from this card: keep the effect/s it granted, then double this card's strength and toughness.
+{Summon} Place counters on this card equal to the amount of materials attached to it.
+{Upkeep} Remove 1 counter from this card: double its strength and toughness.
 
 
 
