@@ -1,1 +1,107 @@
-hey
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>XPAC1</name>
+      <longname>Expansion 1</longname>
+      <settype>Expansion</settype>
+      <releasedate>20XX-XX-XX</releasedate>
+    </set>
+  </sets>
+  <cards>
+<!-- ###################################################################################################### -->
+  <!-- Core 1 [C1] -->
+	<!-- MMX -->
+  
+  <!-- Nature -->     
+  <card>
+    <name>Exalted Seed</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureAnomaly.png">XPAC1</set>
+    <manacost>8Q</manacost>
+    <type>Mythical Nature Unit — Anomaly</type>
+    <color>B</color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Shroud}
+{Upkeep} Discard one overlayed {Evolve} card from this card: keep the effect/s it granted, then double this card's S/T.
+
+
+
+It begins in deep space warped by dark power.</text>
+  </card>
+  
+  <!-- Arcane -->
+	
+                                   
+  <!-- Science -->
+ 
+  
+  <!-- Outsider -->
+  <card>
+    <name>Master of Lords</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
+    <manacost>8Q</manacost>
+    <type>Outsider Unit - Warlock</type>
+    <color>B</color>
+    <pt>2/8</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Target one enemy Quanta Lord: remove its effect as long as this card is on the field, then give this card one ability.
+
+                                                                                                                       
+
+
+A middling creature, easily smited by the ones who watch, and yet...</text>
+  </card>
+                                                                                                                       
+  <card>
+    <name>Reawakening</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">XPAC1</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Support - Flash</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Target unit loses its existing effect/s, then gains its original effect/s (if any).
+
+
+
+"I rose from a puddle of pitch-black tar; my spirit was broken, my body contorted. I asked not how, but why."</text>
+  </card>                                                                                                                      
+   
+  <!-- Nature Science -->
+  <card>
+    <name>Tiny Sickle</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>If you summon this card by evolving, it gains [Toxic] and [Swift].
+{Evolve} Gain +2/0
+
+
+
+There is no lasting hierarchy among the Verol; there is only the moment's duty. Even the lowest of the low won't hesitate.</text>
+  </card>
+  
+  <!-- Neutral -->    
+  <card>
+    <name>Zao, the Weaver</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Unit - Human Anomaly</type>
+    <color></color>
+    <pt>0/10</pt>
+    <tablerow>1</tablerow>
+    <text>Has [Shroud] while you have other friendly units.
+Your friendly units have: {Evolve} Gain +2/+2
+
+
+
+The guiding hand of the third colony, which has long cut ties with the mainland.</text>
+  </card>
+  
+  
+<!-- ###################################################################################################### -->
+  </cards>
+</cockatrice_carddatabase>
