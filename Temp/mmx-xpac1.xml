@@ -46,26 +46,27 @@ It begins in deep space warped by dark power.</text>
     <color>B</color>
     <pt>2/8</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Target one enemy Quanta Lord: remove its effect as long as this card is on the field, then give this card one ability.
+    <text>{Summon} Target a Quanta Lord; while this card is on the field, it has one ability of your choice, and that Quanta Lord is purged.
                                                                                                                        
 
 
-A middling creature, easily smited by its superiors, and yet...</text>
+A middling creature, easily dispatched by its superiors, and yet...</text>
   </card>
                                                                                                                        
   <card>
-    <name>Reawakening</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">XPAC1</set>
-    <manacost>1Q</manacost>
-    <type>Outsider Support - Flash</type>
+    <name>Kalamesian Pujari</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit - Warlock</type>
     <color>B</color>
-    <tablerow>3</tablerow>
-    <text>Target unit loses its existing effect/s, then gains its original effect/s (if any).
+    <pt>3/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: Purge a unit, then you can restore its original effect.
 
 
 
-"I rose from a puddle of pitch-black tar; my spirit was broken, my body contorted. I asked not how, but why."</text>
-  </card>                                                                                                                      
+The humble priest, a scholar of virtuous healing and brutal sacrifice.</text>
+  </card>                                                                                                                     
    
   <!-- Nature Science -->
   <card>
@@ -77,7 +78,7 @@ A middling creature, easily smited by its superiors, and yet...</text>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
     <text>If you summon this card by evolving, it gains [Toxic] and [Swift].
-{Evolve} Gain +2/0
+{Evolve} Gain +2/+1
 
 
 
@@ -93,7 +94,8 @@ There is no lasting hierarchy among the Verol; there is only the moment's duty. 
     <pt>4/5</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Attach two cards from your graveyard as material.
-{Evolve} {Summon} You can detach (any instances of) Seventh Son from this card and place it into your deck.
+If this card is material, you can detach it and add it to your deck.
+{Evolve} [Aura]
 
 
 
@@ -129,7 +131,7 @@ Your units gain the effect...
 
 
 
-The guiding hand of the third colony, which has long cut ties with the mainland.</text>
+Guiding hand of Kalamesh's third colony. It has long since declared independance.</text>
   </card>
   
   <card>
