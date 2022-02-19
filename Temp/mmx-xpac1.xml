@@ -44,7 +44,7 @@ It begins in deep space warped by dark power.</text>
     <manacost>8Q</manacost>
     <type>Outsider Unit - Warlock</type>
     <color>B</color>
-    <pt>2/8</pt>
+    <pt>4/8</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Target a Quanta Lord; while this card is on the field, it has one ability of your choice, and that Quanta Lord is purged.
                                                                                                                        
@@ -61,7 +61,7 @@ A middling creature, easily dispatched by its superiors, and yet...</text>
     <color>B</color>
     <pt>3/2</pt>
     <tablerow>2</tablerow>
-    <text>{Flash} Exert: Purge a unit, then you can restore its original effect.
+    <text>{Flash} Exert: Purge a unit, then you can restore its original effects.
 
 
 
@@ -95,7 +95,6 @@ There is no lasting hierarchy among the Verol; there is only the moment's duty. 
     <tablerow>1</tablerow>
     <text>{Summon} Attach two cards from your graveyard as material.
 If this card is material, you can detach it and add it to your deck.
-{Evolve} [Aura]
 
 
 
