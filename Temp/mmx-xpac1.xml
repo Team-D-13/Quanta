@@ -84,6 +84,36 @@ A middling creature, easily smited by the ones who watch, and yet...</text>
 
 There is no lasting hierarchy among the Verol; there is only the moment's duty. Even the lowest of the low won't hesitate.</text>
   </card>
+	  
+  <card>
+    <name>Seventh Son</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceInsect.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Nature Science Unit - Insect</type>
+    <color>GR</color>
+    <pt>4/5</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Attach two cards from your graveyard as material.
+{Evolve} {Summon} You can detach (any instances of) Seventh Son from this card and place it into your deck.
+
+
+
+The flow of many bloodlines converged in one locus...t.</text>
+  </card>
+
+  <card>
+    <name>Offshoot</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Science Support</type>
+    <color>GR</color>
+    <tablerow>3</tablerow>
+    <text>Create a token copy of a friendly material.
+
+
+
+The species will likely cease to exist within the decade. It preserveres nonetheless.</text>
+  </card>
   
   <!-- Neutral -->    
   <card>
@@ -103,7 +133,22 @@ Your units gain the effect...
 The guiding hand of the third colony, which has long cut ties with the mainland.</text>
   </card>
   
-  
+  <card>
+    <name>Oozing Captain</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>7Q</manacost>
+    <type>Neutral Unit - Pirate Horror</type>
+    <color></color>
+    <pt>8/4</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Remove an ability from all enemy units that have one; for each removed ability, give a friendly unit [Toxic].
+
+
+
+Sailed to the Searing Seas to find new life for himself. Found new life in himself.</text>
+  </card>
+	  
+	  
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
