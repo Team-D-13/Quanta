@@ -156,8 +156,9 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <color></color>
     <pt>3/1</pt>
     <tablerow>2</tablerow>
-    <text>{Flash} Give control of this card to an opponent until the end of their turn, then you can exert it.
-When you regain control of this card from its effect, the player that had it reveals 1 card in their hand.
+    <text>{Summon} Note your ownership of this card (attach a token with your name to it).
+{Flash} If you are this card's owner: you can give control of it to an opponent until the end of their turn, then you can exert it.
+When this card's owner regains control of it, the player that had it reveals 1 card in their hand.
 
 
 
