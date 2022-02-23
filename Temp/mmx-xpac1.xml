@@ -140,12 +140,41 @@ He became the guiding hand of Kalamesh's third colony. It has long since declare
     <type>Neutral Unit - Pirate Horror</type>
     <color></color>
     <pt>8/4</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>{Summon} Remove an ability from all enemy units that have one; for each removed ability, give a friendly unit [Toxic].
 
 
 
 Sailed to the Searing Seas to find new life for himself. Found new life in himself.</text>
+  </card>
+
+ <card>
+    <name>Tongue-Twister</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Unit - Pirate</type>
+    <color></color>
+    <pt>3/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: Give an opponent control of this card until the end of their turn; when you regain control of it, the opponent that had it reveals a card from their hand.
+
+
+
+"Let me tell you about the time I killed a Zulra bare-handed..."</text>
+  </card>
+	  
+ <card>
+    <name>Omen of Omens</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Scry 10, then activate a {Summon} effect from one of those cards (if applicable), then shuffle your deck.
+
+
+
+The Prophets' guild keeps inserting prophets into their prophecies...</text>
   </card>
 	  
 	  
