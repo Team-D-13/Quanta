@@ -156,7 +156,8 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <color></color>
     <pt>3/1</pt>
     <tablerow>2</tablerow>
-    <text>{Flash} Exert: Give an opponent control of this card until the end of their turn; when you regain control of it, the opponent that had it reveals a card from their hand.
+    <text>{Flash} Give control of this card to an opponent until the end of their turn, then you can exert it.
+When you regain control of this card from its effect, the player that had it reveals 1 card in their hand.
 
 
 
@@ -170,7 +171,7 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <type>Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Scry 10, then activate a {Summon} effect from one of those cards (if applicable), then shuffle your deck.
+    <text>Scry 4, then activate a {Summon} effect from one of those cards (if applicable), then shuffle your deck.
 
 
 
