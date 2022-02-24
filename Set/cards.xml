@@ -4048,7 +4048,7 @@ What does it open? Merely possibilities.</text>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate in response to an effect that targets. You choose the target/s. You can choose as if you activated/triggered the effect.
+    <text>Activate in response to an effect that targets. You choose the targets. You can choose as if you activated/triggered the effect.
 
 
 
@@ -4106,7 +4106,7 @@ If nothing can see you, are you really there?</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage; if it was lethal, ressurrect the target to your field.
+    <text>Deal 1 damage. If it was lethal, ressurrect the target to your field.
 
 
 
@@ -4562,7 +4562,7 @@ Lives to be served. I mean. To serve.</text>
     <type>Arcane Support</type>
     <color>U</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage to all enemy units; their S/T and life cannot increase.
+    <text>Deal 1 damage to all enemy units, their stats and life cannot increase.
 {Echo} Apply the above effect without the damage.
     
     
