@@ -12,7 +12,7 @@
 <!-- ###################################################################################################### -->
   <!-- Core 1 [C1] -->
 	<!-- MMX -->
-  
+
   <!-- Nature -->     
   <card>
     <name>Exalted Seed</name>
@@ -23,20 +23,22 @@
     <pt>2/2</pt>
     <tablerow>2</tablerow>
     <text>{Shroud}
-{Summon} Place counters on this card equal to the amount of materials attached to it.
-{Upkeep} Remove 1 counter from this card: double its strength and toughness.
+{Summon} Place a counter on this card for each material it has.
+{Upkeep} Remove a counter from this card: Double its strength and toughness.
 
 
 
 It begins in deep space warped by dark power.</text>
   </card>
-  
+
   <!-- Arcane -->
-	
-                                   
+
+
+
   <!-- Science -->
- 
-  
+
+
+
   <!-- Outsider -->
   <card>
     <name>Master of Lords</name>
@@ -52,7 +54,7 @@ It begins in deep space warped by dark power.</text>
 
 A middling creature, easily dispatched by its superiors, and yet...</text>
   </card>
-                                                                                                                   
+
   <card>
     <name>Kalamesian Pujari</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
@@ -67,7 +69,7 @@ A middling creature, easily dispatched by its superiors, and yet...</text>
 
 The humble priest, a scholar of virtuous healing and brutal sacrifice.</text>
   </card>                                                                                                                     
-   
+
   <!-- Nature Science -->
   <card>
     <name>Tiny Sickle</name>
@@ -78,13 +80,13 @@ The humble priest, a scholar of virtuous healing and brutal sacrifice.</text>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
     <text>If you summon this card by evolving, it gains [Toxic] and [Swift].
-{Evolve} Gain +2/+1
+{Evolve} Gain +2/+1.
 
 
 
 There is no lasting hierarchy among the Verol; there is only the moment's duty. Even the lowest of the low won't hesitate.</text>
   </card>
-	  
+
   <card>
     <name>Seventh Son</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceInsect.png">XPAC1</set>
@@ -108,13 +110,13 @@ The flow of many bloodlines converged in one locus...t.</text>
     <type>Nature Science Support</type>
     <color>GR</color>
     <tablerow>3</tablerow>
-    <text>Create a token copy of a friendly material.
+    <text>Copy a material attached to a friendly card.
 
 
 
 The species will likely cease to exist within the decade. It preserveres nonetheless.</text>
   </card>
-  
+
   <!-- Neutral -->    
   <card>
     <name>Zao, the Weaver</name>
@@ -125,14 +127,13 @@ The species will likely cease to exist within the decade. It preserveres nonethe
     <pt>0/10</pt>
     <tablerow>1</tablerow>
     <text>Has [Shroud] while you have other friendly units.
-Your units gain the effect...
-"{Summon} Give another friendly unit +2/0 or 0/+2."
+When you summon a friendly unit, give a different friendly unit +2/0 or 0/+2.
 
 
 
 He became the guiding hand of Kalamesh's third colony. It has long since declared independance.</text>
   </card>
-  
+
   <card>
     <name>Oozing Captain</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
@@ -141,31 +142,45 @@ He became the guiding hand of Kalamesh's third colony. It has long since declare
     <color></color>
     <pt>8/4</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Remove an ability from all enemy units that have one; for each removed ability, give a friendly unit [Toxic].
+    <text>{Summon} Remove an ability from all enemy units. Give a friendly unit [Toxic] for each ability removed.
 
 
 
 Sailed to the Searing Seas to find new life for himself. Found new life in himself.</text>
   </card>
 
- <card>
+  <card>
     <name>Tongue-Twister</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
-    <manacost>3Q</manacost>
+    <manacost>1Q</manacost>
     <type>Neutral Unit - Pirate</type>
     <color></color>
-    <pt>3/1</pt>
+    <pt>2/1</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Note your ownership of this card (attach a token with your name to it).
-{Flash} If you are this card's owner: you can give control of it to an opponent until the end of their turn, then you can exert it.
-When this card's owner regains control of it, the player that had it reveals 1 card in their hand.
+    <text>{Flash} Exert: Deal 1 damage and return this card to your hand.
 
 
 
-"Let me tell you about the time I killed a Zulra bare-handed..."</text>
+"Let me tell you about the time I killed a Zalma bare-handed..."</text>
   </card>
-	  
- <card>
+
+<card>
+    <name>Kraken Killer</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit - Pirate Soldier</type>
+    <color></color>
+    <pt>2/3</pt>
+    <tablerow>2</tablerow>
+    <text>{Battle} If the opposing unit is mythical: gain +6/0 until the end of the turn.
+{Kill} If the slain unit was mythical: steal the top card of your opponent's deck.
+
+
+
+"Let me tell you about the time I killed a Zalma bare-handed..."</text>
+  </card>```
+
+  <card>
     <name>Omen of Omens</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">XPAC1</set>
     <manacost>3Q</manacost>
@@ -178,8 +193,8 @@ When this card's owner regains control of it, the player that had it reveals 1 c
 
 The Prophets' guild keeps inserting prophets into their prophecies...</text>
   </card>
-	  
-	  
+
+
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
