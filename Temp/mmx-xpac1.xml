@@ -95,8 +95,8 @@ There is no lasting hierarchy among the Verol; there is only the moment's duty. 
     <color>GR</color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Attach two cards from your graveyard as material.
-If this card is material, you can detach it and add it to your deck.
+    <text>{Summon} Attach 2 cards in your graveyard to this card.
+While material, you can detach this card: Shuffle it into your deck.
 
 
 
@@ -165,15 +165,16 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
   </card>
 
 <card>
-    <name>Kraken Killer</name>
+    <name>Sea-Serpent Slayer</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
     <manacost>4Q</manacost>
     <type>Neutral Unit - Pirate Soldier</type>
     <color></color>
     <pt>2/3</pt>
     <tablerow>2</tablerow>
-    <text>{Battle} If the opposing unit is mythical: gain +6/0 until the end of the turn.
-{Kill} If the slain unit was mythical: steal the top card of your opponent's deck.
+    <text>[Swift]
+{Battle} If the opposing unit is Mythical: Gain +6/0 for the battle.
+{Kill} If the slain unit was Mythical: Draw a card from its controller's deck.
 
 
 
