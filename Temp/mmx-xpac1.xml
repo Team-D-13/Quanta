@@ -123,7 +123,7 @@ The species will likely cease to exist within the decade. It preserveres nonethe
     <manacost>5Q</manacost>
     <type>Mythical Nature Science Relic</type>
     <color>GR</color>
-    <tablerow>3</tablerow>
+    <tablerow>0</tablerow>
     <text>Your tokens have the effect...
 "{Evolve} Gain +1/+1, increased to +2/+2 if this card has stat bonuses"
 Exert a relic: Create a Drone token and attach it to a unit.
