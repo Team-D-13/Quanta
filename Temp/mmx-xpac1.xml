@@ -117,6 +117,23 @@ The flow of many bloodlines converged in one locus...t.</text>
 The species will likely cease to exist within the decade. It preserveres nonetheless.</text>
   </card>
 
+<card>
+    <name>Architect's Legacy</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceRelic.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Nature Science Relic</type>
+    <color>GR</color>
+    <tablerow>3</tablerow>
+    <text>Your tokens have the effect...
+"{Evolve} Gain +1/+1, increased to +2/+2 if this card has stat bonuses"
+Exert a relic: Create a Drone token and attach it to a unit.
+
+
+
+"You must be strong for when the others arrive. To become strong, you must evolve." —Lenneth Kars</text>
+    <related>Drone</related>
+  </card>
+
   <!-- Neutral -->    
   <card>
     <name>Zao, the Weaver</name>
