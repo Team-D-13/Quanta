@@ -43,16 +43,16 @@ It begins in deep space warped by dark power.</text>
   <card>
     <name>Master of Lords</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
-    <manacost>8Q</manacost>
+    <manacost>4Q</manacost>
     <type>Outsider Unit - Warlock</type>
     <color>B</color>
-    <pt>4/8</pt>
-    <tablerow>1</tablerow>
-    <text>{Summon} Target a Quanta Lord; while this card is on the field, it has one ability of your choice, and that Quanta Lord is purged.
+    <pt>3/2</pt>
+    <tablerow>2</tablerow>
+    <text>When an opposed Quanta Lord's effect is activated, gain +5/+5 and an ability.
 
 
 
-A middling creature, easily dispatched by its superiors, and yet...</text>
+A middling creature, easily dispatched by its superiors. It survives by thriving on their very overconfidence.</text>
   </card>
 
   <card>
@@ -78,7 +78,7 @@ The humble priest, a scholar of virtuous healing and brutal sacrifice.</text>
     <type>Nature Science Unit - Insect Soldier</type>
     <color>GR</color>
     <pt>1/1</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>If you summon this card by evolving, it gains [Toxic] and [Swift].
 {Evolve} Gain +2/+1.
 
@@ -94,7 +94,7 @@ There is no lasting hierarchy among the Verol; there is only the moment's duty. 
     <type>Mythical Nature Science Unit - Insect</type>
     <color>GR</color>
     <pt>4/5</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>{Summon} Attach 2 cards in your graveyard to this card.
 While material, you can detach this card: Shuffle it into your deck.
 
@@ -125,7 +125,7 @@ The species will likely cease to exist within the decade. It preserveres nonethe
     <type>Mythical Neutral Unit - Human Anomaly</type>
     <color></color>
     <pt>0/10</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>Has [Shroud] while you have other friendly units.
 When you summon a friendly unit, give a different friendly unit +2/0 or 0/+2.
 
@@ -142,7 +142,7 @@ He became the guiding hand of Kalamesh's third colony. It has long since declare
     <color></color>
     <pt>8/4</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Remove an ability from all enemy units. Give a friendly unit [Toxic] for each ability removed.
+    <text>Remove an ability from all enemy units. Give a friendly unit [Toxic] for each ability removed.
 
 
 
@@ -173,7 +173,7 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <pt>2/3</pt>
     <tablerow>2</tablerow>
     <text>[Swift]
-{Battle} If the opposing unit is Mythical: Gain +6/0 for the battle.
+{Battle} If the opposing unit is Mythical: Gain +6/0 and [Invulnerable] for this battle.
 {Kill} If the slain unit was Mythical: Draw a card from its controller's deck.
 
 
