@@ -50,7 +50,7 @@
 
 
 
-"It was a calculated strike, aimed straight at the heart of our civilization. We were not prepared. We had no reason to be."</text>
+"We were not prepared. We had no reason to be."</text>
   </card>
   
   <!-- Outsider -->
@@ -84,7 +84,7 @@
 #</text>
   </card>
   <card>
-    <name>Hamon, [the man who needs a title]</name>
+    <name>Hamon, [title goes here]</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderHuman.png">XPAC1</set>
     <manacost>7Q</manacost>
     <type>Mythical Outsider Unit — Human Animation</type>
@@ -125,6 +125,21 @@ While you control that card, this card gets +2/+2.
     <pt>4/5</pt>
     <tablerow>1</tablerow>
     <text>You can return friendly relics to your hand to play this card for 2Q less per card.
+
+
+
+#</text>
+  </card>
+  <card>
+    <name>Tinithorakh, [title goes here]</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceOutsiderConstruct.png">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Mythical Science Outsider Unit — Construct</type>
+    <color>R</color>
+    <pt>10/10</pt>
+    <tablerow>1</tablerow>
+    <text>{Flash} Idolize a friendly unit, and if you do, an enemy unit.
+Sacrifice a friendly relic: Summon a card with the same name from your deck.
 
 
 
