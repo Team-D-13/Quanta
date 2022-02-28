@@ -3845,21 +3845,22 @@ Ejecting!</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>When a friendly unit not named Husk dies, resurrect it, purge it, and its name becomes Husk. Destroy at the end of your next turn.
+    <text>When a friendly unit dies, create a Husk token and attach the unit to it.
 
 
 
 For those whose devotion goes beyond death, bury these seeds within your minds.</text>
+<related>Husk</related>
   </card>
 
 	<card>
-    <name>Shacklebond</name>
+    <name>Shatterbond</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>4Q</manacost>
     <type>Outsider Support - Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target a unit. When that unit would deal damage this turn, deal it to all enemy units instead.
+    <text>Target a unit. When it deals damage this turn, it is dealt to all enemy units.
 
 
  
@@ -3879,7 +3880,7 @@ Imparted by kind visitors from another realm, this technique is feared by all gr
 
 
 
-"The elders always say to just keep walking."</text>
+"The elder always says to just keep walking."</text>
   </card>
 
 	<card>
@@ -3938,7 +3939,7 @@ A single spire stands in the center of the crater.</text>
     <pt>2/3</pt>
     <tablerow>2</tablerow>
     <text>[Guard]
-{Summon} Summon a 2/1 Salty the Hamster special token.
+{Summon} Summon a 2/1 Salty the Hamster token.
 
 
 
@@ -3950,7 +3951,7 @@ A single spire stands in the center of the crater.</text>
     <name>The Grieving Marauder</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessSoldier.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Mythical Neutral Unit — Human Soldier</type>
+    <type>Mythical Neutral Unit — Human Soldier Pirate</type>
     <color></color>
     <pt>5/10</pt>
     <tablerow>2</tablerow>
@@ -3960,7 +3961,7 @@ This card has [Regenerate] while you have a unit in your graveyard.
 
 
 
-A remorseful cheater. This time he's playing until he loses.</text>
+Warrior and sailor from a time long-gone. Memories of empire and crew tug at his final days.</text>
   </card>
 
 	<card>
@@ -3971,7 +3972,7 @@ A remorseful cheater. This time he's playing until he loses.</text>
     <color></color>
     <pt>4/5</pt>
     <tablerow>1</tablerow>
-    <text>Sacrifice another unit: Heal this card and your Quanta Lord life equal to that unit's Quanta cost, then give this card +1/+1.
+    <text>{Flash} Sacrifice a unit: Heal this card and your Quanta Lord life equal to that unit's cost, then give this card +1/+1.
 
 
 
@@ -4033,8 +4034,8 @@ So, a vampire walks into a bar...</text>
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>Pay 1Q: Note down the exact state of a unit (attach a clone of it to this card).
-{Flash} Exert: Pay 2Q to return the last noted unit to its noted state.
+    <text>Pay 1Q: Record a unit's state (attach a clone of it to this card).
+{Flash} Exert: Pay 2Q to return the last-recorded unit to that state.
 
 
 
@@ -4048,11 +4049,11 @@ What does it open? Merely possibilities.</text>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate in response to an effect that targets. You choose the targets. You can choose as if you activated/triggered the effect.
+    <text>Activate in response to an effect that targets. You choose the targets, ignoring friendly/enemy designators.
 
 
 
-Re-route the power to the flux capacitors! We're going where no man has gone before!</text>
+Re-route the power to the flux capacitors! We're going where no one has gone before!</text>
   </card>
 
 	<card>
@@ -4070,7 +4071,7 @@ When the veil parts, look through their eyes. -Kalangue Monument </text>
   </card>
 
 	<card>
-    <name>One-Masked Man</name>
+    <name>Phantom of Stagnation</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderAnomaly.png">C1</set>
     <manacost>6Q</manacost>
     <type>Outsider Unit — Anomaly Spirit</type>
@@ -4081,7 +4082,7 @@ When the veil parts, look through their eyes. -Kalangue Monument </text>
 
 
 
-Would you believe that the being watching you is, in fact, you?</text>
+Invoke the deathly stillness and it will form on its own to preserve it.</text>
   </card>
 
 	<card>
