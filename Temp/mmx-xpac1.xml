@@ -146,7 +146,7 @@ Leap after leap, they never stop moving, not until the last foe is felled.</text
     <pt>0/1</pt>
     <tablerow>2</tablerow>
     <text>{Evolve} Base toughness becomes 10. Gain the following ability...
-{Flash} Give or remove [Guard] from this card.
+"{Flash} Give or remove [Guard] from this card."
 
 
 
@@ -174,9 +174,8 @@ The species will likely cease to exist within the decade. It preserveres nonethe
     <type>Mythical Nature Science Relic</type>
     <color>GR</color>
     <tablerow>0</tablerow>
-    <text>Your tokens have the effect...
-"{Evolve} Gain +1/+1, increased to +2/+2 if this card has stat bonuses."
-Exert a relic: Create a Drone token and attach it to a unit.
+    <text>Exert a relic: Give a token the effect...
+"{Evolve} Gain +X/+X where X is the amount of relics you control."
 
 
 
