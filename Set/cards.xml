@@ -3741,8 +3741,7 @@ This is it.</text>
 
 
 
-Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?
-- Learned Shazaim</text>
+"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?" —Learned Shazaim</text>
   </card>
 
 	<card>
@@ -3784,7 +3783,7 @@ Objective: Cultivation. Protocol: Harvest.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Your units gain +2/0 and take 2 damage for each counter on this card.
+    <text>{Upkeep} Your units gain +2/0 and take 1 damage for each counter on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
