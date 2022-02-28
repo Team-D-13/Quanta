@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
   <cards>
+	  
 	<card>
     <name>Chicken Egg</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
@@ -14,6 +15,7 @@
     <related>Chicken</related>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Chicken</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
@@ -25,6 +27,7 @@
     <text></text>
     <token>1</token>
   </card>
+	  
 	<card>
     <name>Nestling</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
@@ -36,6 +39,7 @@
     <text></text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Snake</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
@@ -47,6 +51,7 @@
     <text>[Toxic]</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Elemental</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">TK</set>
@@ -58,6 +63,7 @@
     <text></text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Metal Facsimile</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
@@ -69,6 +75,7 @@
     <text></text>
     <token>1</token>
   </card>
+	  
 	<card>
     <name>Drone</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
@@ -80,6 +87,7 @@
     <text></text>
     <token>1</token>
   </card>
+	  
 	<card>
     <name>Option</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
@@ -91,6 +99,7 @@
     <text>[Swift]</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Statue of an Ugly, Grinning Man</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/UglyStatue.png">TK</set>
@@ -103,6 +112,7 @@
 When you summon a unit, take 1 damage.</text>
     <token>1</token>
   </card>
+	  
 	<card>
     <name>Spawn</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
@@ -114,6 +124,7 @@ When you summon a unit, take 1 damage.</text>
     <text></text>
     <token>1</token>
   </card>
+	  
 	<card>
     <name>Dire Spawn</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
@@ -125,6 +136,7 @@ When you summon a unit, take 1 damage.</text>
     <text></text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Black Guard</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
@@ -136,6 +148,7 @@ When you summon a unit, take 1 damage.</text>
     <text>[Guard]</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Shadow</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSpirit.png">TK</set>
@@ -147,6 +160,7 @@ When you summon a unit, take 1 damage.</text>
     <text></text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Fledgling Scourge</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
@@ -158,6 +172,7 @@ When you summon a unit, take 1 damage.</text>
     <text>{Echo} Transform this unit into a 6/5 Mature Scourge.</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Mature Scourge</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
@@ -169,6 +184,7 @@ When you summon a unit, take 1 damage.</text>
     <text>{Echo} Transform this unit into an 8/7 Ancient Scourge.</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Ancient Scourge</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
@@ -180,6 +196,7 @@ When you summon a unit, take 1 damage.</text>
     <text></text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Salty the Hamster</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">TK</set>
@@ -192,6 +209,7 @@ When you summon a unit, take 1 damage.</text>
 Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <token>1</token>
   </card>
+	  
   <card>
     <name>Boulder</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">TK</set>
@@ -202,6 +220,8 @@ Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <tablerow>2</tablerow>
     <text>[Guard], [Pacifist]</text>
     <token>1</token>
+  </card>
+	  
   <card>
     <name>Scroll</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
@@ -211,7 +231,19 @@ Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <tablerow>0</tablerow>
     <text>Sacrifice: Cast any attached supports.</text>
     <token>1</token>
-	</card>
   </card>
+
+<card>
+    <name>Husk</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>XQ</manacost>
+    <type>X</type>
+    <color>X</color>
+    <tablerow>X</tablerow>
+    <text>Husk is a copy of its attached unit except for its name and effect. (If Husk would be attached to a card, detach its unit first.)
+{Upkeep} Destroy this token.</text>
+    <token>1</token>
+  </card>
+
   </cards>
 </cockatrice_carddatabase>
