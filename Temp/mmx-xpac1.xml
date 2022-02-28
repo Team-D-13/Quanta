@@ -101,7 +101,56 @@ While material, you can detach this card: Shuffle it into your deck.
 
 
 
-The flow of many bloodlines converged in one locus...t.</text>
+The flow of many bloodlines converges within this one, what will they do with such power?</text>
+  </card>
+
+ <card>
+    <name>String Gunner</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>3/5</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert a relic and this card: Stun a card.
+{Evolve} Gain "{Battle} The opposing unit gets -3/0."
+
+
+
+Specializing in capturing enemies alive with its ordnance, this arachnid is a skilled tactician.</text>
+  </card>
+
+ <card>
+    <name>Dancing Scythe</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>6/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Battle} If this would kill, gain [Invulnerable].
+{Upkeep} Lose [Invulnerable].
+{Evolve} Gain +6/-2
+
+
+
+Leap after leap, they never stop moving, not until the last foe is felled.</text>
+  </card>
+
+ <card>
+    <name>Symbiotic Orthrozanclus</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Science Unit - Insect Fish</type>
+    <color>GR</color>
+    <pt>0/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Evolve} Base toughness becomes 10. Gain the following ability...
+{Flash} Give or remove [Guard] from this card.
+
+
+
+Some Verol in the early days evolved to bolster their allies directly. The sub-faction is popular to this day within the dominion.</text>
   </card>
 
   <card>
