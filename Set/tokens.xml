@@ -241,7 +241,7 @@ Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <color>X</color>
     <tablerow>X</tablerow>
     <text>Husk is a copy of its attached unit except for its name and effect. (If Husk would be attached to a card, detach its unit first.)
-{Upkeep} Destroy this token.</text>
+{Echo} Destroy this token.</text>
     <token>1</token>
   </card>
 
