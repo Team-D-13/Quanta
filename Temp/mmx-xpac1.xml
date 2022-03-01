@@ -154,6 +154,24 @@ Some early Verol evolved to bolster their allies directly. The subfaction persis
   </card>
 
   <card>
+    <name>𓍛𓀀𓅓𓅮𓄿𓆄𓅱𓇶𓉔𓅓𓉔𓏏𓏭𓆙</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceInsect">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Mythical Nature Science Unit — Insect Horror</type>
+    <color>GR</color>
+    <pt>5/10</pt>
+    <tablerow>2</tablerow>
+    <text>[Shroud]
+{Flash} Exert a friendly card: Transfer its {Evolve} effects to another card.
+{Flash} Exert: Destroy all other cards with {Evolve} effects.
+{Evolve} Gain [Shroud].
+
+
+
+Chosen by the prisoner, a guard among traitors.</text>
+  </card>
+
+  <card>
     <name>Offshoot</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
     <manacost>2Q</manacost>
@@ -246,6 +264,37 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
 
 "Let me tell you about the time I killed a Zalma bare-handed..."</text>
   </card>```
+
+  <card>
+    <name>Tiki Warrior</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessWarlock.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Neutral Unit - Human Warlock</type>
+    <color></color>
+    <pt>4/4</pt>
+    <tablerow>2</tablerow>
+    <text>{Battle}/{Death} Other friendly units get +2/+2.
+If this unit has stat bonuses: {Battle} The opposed unit has -2/0.
+
+
+
+With blood-red mask and spear in hand, he proves that peacefulness is not weakness.</text>
+  </card>
+
+  <card>
+    <name>Tiki Shaman</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Unit - Human Warlock</type>
+    <color></color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: When this card's stats are changed, you can apply that change to all friendly or opposed units.
+
+
+
+🌴🌴🗿🌴🌴</text>
+  </card>
 
   <card>
     <name>Omen of Omens</name>
