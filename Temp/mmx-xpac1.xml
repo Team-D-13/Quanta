@@ -32,6 +32,21 @@
 It begins in deep space warped by dark power.</text>
   </card>
 
+<card>
+    <name>Tiki Shaman</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Unit - Human Warlock</type>
+    <color></color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: When this card's stats are changed, you can apply that change to all friendly or opposed units.
+
+
+
+🌴🌴🗿🌴🌴</text>
+  </card>
+
   <!-- Arcane -->
 
 
@@ -294,21 +309,6 @@ If this unit has stat bonuses: {Battle} The opposed unit has -2/0.
 
 
 With blood-red mask and spear in hand, he proves that peacefulness is not weakness.</text>
-  </card>
-
-  <card>
-    <name>Tiki Shaman</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureWarlock.png">XPAC1</set>
-    <manacost>4Q</manacost>
-    <type>Nature Unit - Human Warlock</type>
-    <color></color>
-    <pt>2/2</pt>
-    <tablerow>2</tablerow>
-    <text>{Flash} Exert: When this card's stats are changed, you can apply that change to all friendly or opposed units.
-
-
-
-🌴🌴🗿🌴🌴</text>
   </card>
 
   <card>
