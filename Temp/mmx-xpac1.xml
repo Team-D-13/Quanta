@@ -40,7 +40,7 @@ It begins in deep space warped by dark power.</text>
     <color></color>
     <pt>2/2</pt>
     <tablerow>2</tablerow>
-    <text>{Flash} Exert: When this card's stats are changed, you can apply that change to all friendly or opposed units.
+    <text>{Flash} Exert: When this card's stats are changed, you can apply that change to all friendly or enemy units.
 
 
 
@@ -64,7 +64,7 @@ It begins in deep space warped by dark power.</text>
     <color>B</color>
     <pt>2/2</pt>
     <tablerow>2</tablerow>
-    <text>When an opposed Quanta Lord's effect is activated, gain +5/+5 and an ability.
+    <text>When an enemy Quanta Lord's effect is activated, gain +5/+5 and an ability.
 
 
 
@@ -304,7 +304,7 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <pt>4/4</pt>
     <tablerow>2</tablerow>
     <text>{Battle}/{Death} Other friendly units get +2/0 or 0/+2.
-If this unit has stat bonuses: {Battle} The opposed unit has -2/0.
+If this unit has stat bonuses: {Battle} The enemy unit has -2/0.
 
 
 
