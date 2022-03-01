@@ -1,4 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@PerishedFraud 
+Team-D-13
+/
+Quanta
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Quanta/Temp/mmx-xpac1.xml
+@PerishedFraud
+PerishedFraud Update mmx-xpac1.xml
+Latest commit 4900ea7 5 minutes ago
+ History
+ 1 contributor
+316 lines (236 sloc)  10.3 KB
+   
+<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
   <sets>
     <set>
@@ -201,6 +230,21 @@ The species will likely cease to exist within the decade. It preserveres nonethe
     <related>Drone</related>
   </card>
 
+  <card>
+    <name>Forced Gestation</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Science Support</type>
+    <color>GR</color>
+    <tablerow>3</tablerow>
+    <text>Create a Cocoon token and attach a unit from your hand to it.
+
+
+
+A handy strategy for accelerating natural progress.</text>
+    <related>Cocoon</related>
+  </card>
+
   <!-- Neutral -->    
   <card>
     <name>Zao, the Weaver</name>
@@ -314,3 +358,16 @@ The Prophets' guild keeps inserting prophets into their prophecies...</text>
 <!-- ###################################################################################################### -->
   </cards>
 </cockatrice_carddatabase>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
