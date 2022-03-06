@@ -3751,7 +3751,7 @@ This is it.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>At the end of your turn, your units heal 1 life for each counter on this card.
+    <text>Friendly units have {Upkeep} Gain 0/+X equal to the amount of counters on this card until your next upkeep.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
