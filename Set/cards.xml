@@ -3745,67 +3745,68 @@ This is it.</text>
   </card>
 
 	<card>
-    <name>Modus Alpha</name>
+    <name>Α Protocol</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>2Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Friendly units have {Upkeep} Gain 0/+X equal to the amount of counters on this card until your next upkeep.
+    <text>Friendly units have the effect...
+"{Upkeep}/{Summon} Gain toughness & life equal to the counters on your Α Protocol-s until your next upkeep.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
 
 
-Objective: Efficiency. Protocol: Maintenance.</text>
+The objective is efficiency. The means: maintenance.</text>
   </card>
 
 	<card>
-    <name>Modus Gamma</name>
+    <name>Γ Protocol</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When an enemy unit dies: Give different friendly units any ability, except [Invulnerable], up to the number of counters on this card.
+    <text>When an enemy unit dies: distribute X abilties among your friendly units where X is the amount of counters on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
 
 
-Objective: Cultivation. Protocol: Harvest.</text>
+The objective is advancement. Deconstruct and analyze.</text>
   </card>
 
 	<card>
-    <name>Modus Sigma</name>
+    <name>Σ Protocol</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>6Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Your units gain +2/0 and take 1 damage for each counter on this card.
+    <text>{Upkeep} Your units gain +2/0 and lose 1 toughness per counter on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
 
 
-Objective: Control. Protocol: Overload.</text>
+The objective is resistance. Divert power to offense. We will not yield.</text>
   </card>
 
 	<card>
-    <name>Modus Omega</name>
+    <name>Ω Protocol</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>8Q</manacost>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit attacks, deal 2 damage and take 1 damage for each counter on this card.
+    <text>When a friendly unit attacks: Deal 2 & take 1 damage per counter on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
 
 
-Objective/Protocol: Extermination.</text>
+Our time has come, my kindred. The final objective: extermination.</text>
   </card>
 
 
@@ -3820,7 +3821,7 @@ Objective/Protocol: Extermination.</text>
 
 
 
-Immortality might be a lost cause, but our knowledge will never die.</text>
+Science forsakes immortality for now, but our knowledge will never die.</text>
   </card>
 
 	<card>
