@@ -4226,7 +4226,8 @@ What a deal!</text>
     <color>G</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>This card's life cannot be reduced below 1 from battle.
+    <text>Cannot die during and immediately after battle. Survives with 1 life instead.
+If affected by Trip, flip a coin.
 
 
 
