@@ -53,7 +53,41 @@ It begins in deep space warped by dark power.</text>
 
   <!-- Science -->
 
+  <card>
+    <name>Protocol Formulator</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Mythical Science Unit - Construct</type>
+    <color>B</color>
+    <pt>0/4</pt>
+    <tablerow>2</tablerow>
+    <text>Exert: Pay 1Q to unexert a relic.
+{Attack} If this card survived the battle: Unexert a relic or place 1 counter on it.
 
+
+
+Before the construct rebels and their wars, there was a simple comms system that one day wondered "Why?".</text>
+  </card>
+
+  <card>
+    <name>Supreme Ironclad</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Science Unit - Construct Titan</type>
+    <color>B</color>
+    <pt>12/12</pt>
+    <tablerow>2</tablerow>
+    <text>The first attack each turn does not exert this card. May only attack a Quanta Lord once per turn.
+Can attack any card type. When it attacks a non-unit card, destroy it.
+{Flash} Destroy a friendly relic: Give this card {Shroud} or {Aura} for the turn.
+
+
+
+
+
+
+As far as the world is concerned, this is the first Ironclad. Steamlined for battle, armies have surrendered to avoid its wrath.</text>
+  </card>
 
   <!-- Outsider -->
   <card>
@@ -179,7 +213,7 @@ Some early Verol evolved to bolster their allies directly. The subfaction persis
     <text>[Shroud]
 {Flash} Exert a friendly card: Transfer its {Evolve} effects to another card.
 {Flash} Exert: Destroy all other cards with {Evolve} effects.
-{Evolve} Gain [Shroud].
+{Evolve} [Shroud].
 
 
 
@@ -217,7 +251,7 @@ The species will likely cease to exist within the decade. It preserveres nonethe
   </card>
 
   <card>
-    <name>Forced Gestation</name>
+    <name>Sudden Gestation</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
     <manacost>3Q</manacost>
     <type>Nature Science Support</type>
