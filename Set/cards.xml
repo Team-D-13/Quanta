@@ -3712,7 +3712,7 @@ That unit cannot unexert.
 
 
 
-A herald of technology. They seek and claim. If you're lucky, they'll ask first.</text>
+Ambassador of the Gleaming Isle. They travel the world, seeking and claiming. The lucky are asked to join willingly first.</text>
   </card>
 
 	<card>
@@ -3737,11 +3737,11 @@ This is it.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>4</tablerow>
-    <text>Destroy a unit. Resurrect it. Destroy it (again).
+    <text>Destroy a unit. Resurrect it. Destroy it again.
 
 
 
-"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?" —Learned Shazaim</text>
+"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?" —Mahant Shazaim</text>
   </card>
 
 	<card>
@@ -4505,7 +4505,7 @@ Now is as good of a time as any.</text>
     <type>Mythical Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target a unit. When it dies, add it to your hand.
+    <text>Target a unit. When it leaves the field, add it to your hand.
     
     
 Look at you, so stuck in the moment.</text>
@@ -4520,7 +4520,7 @@ Look at you, so stuck in the moment.</text>
     <color>G</color>
     <tablerow>1</tablerow>
     <text>[Swift]
-{Flash} When battle takes place: steal one ability from a battling unit for that battle.
+{Flash} Steal an ability from a battling unit for that battle.
     
     
     
@@ -4528,17 +4528,17 @@ But what hunts the Metahunter?</text>
 	</card>
 	  
 	  <card>
-    <name>The First Ironclad</name>
+    <name>Prototype - "Ironclad"</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
     <manacost>10Q</manacost>
-    <type>Mythical Science Unit - Construct Horror</type>
+    <type>Mythical Science Unit - Construct Horror Titan</type>
     <pt>12/12</pt>
     <color>R</color>
     <tablerow>1</tablerow>
     <text>{Summon} Sacrifice any number of friendly units: Destroy an equal number of cards. 
     
     
-The prototype technological titan. It holds a chilling secret.</text>
+The first-ever technological titan. It holds a chilling secret.</text>
     </card>
 
 
