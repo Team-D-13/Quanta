@@ -47,6 +47,20 @@ It begins in deep space warped by dark power.</text>
 🌴🌴🗿🌴🌴</text>
   </card>
 
+<card>
+    <name>Don Diyen Ei</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureAnomaly.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Nature Unit — Anomaly Spirit</type>
+    <color>G</color>
+    <pt>4/6</pt>
+    <tablerow>2</tablerow>
+    <text>{Kill} Gain "{Evolve} Gain X" where X is the killed unit's effect.
+
+
+
+"If this body can create a tomorrow..."</text>
+  </card>
   <!-- Arcane -->
 
 
@@ -66,7 +80,7 @@ It begins in deep space warped by dark power.</text>
 
 
 
-Before the construct rebels and their wars, there was a simple comms system that one day wondered "Why?".</text>
+Years ago an army of rebel constructs banded together to raze the tunnels below a certain island. Behind it all...a simple comms system, that dared ask "Why?".</text>
   </card>
 
   <card>
@@ -77,16 +91,30 @@ Before the construct rebels and their wars, there was a simple comms system that
     <color>B</color>
     <pt>12/12</pt>
     <tablerow>2</tablerow>
-    <text>The first attack each turn does not exert this card. May only attack a Quanta Lord once per turn.
-Can attack any card type. When it attacks a non-unit card, destroy it.
-{Flash} Destroy a friendly relic: Give this card {Shroud} or {Aura} for the turn.
+    <text>{Upkeep} This card's next attack doesn't exert, but can't target Quanta Lords.
+Can attack non-unit cards, which destroys them without battle.
+{Flash} Pay 3Q and destroy a friendly relic: Give this card {Shroud} or {Aura} for the turn.
 
 
 
+A streamlined design with flawless stability. Built only for battle, nations have surrendered to avoid facing it.</text>
+  </card>
+	  
+  <card>
+    <name>Sphere Resolver</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceAscendant.png">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Science Unit - Ascendant Construct</type>
+    <color>B</color>
+    <pt>8/4</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon} Mark up to 4 friendly relics. While they're on the field, this card has [Shroud] and [Invulnerable].
+{Battle} Gain -2/0 after battle until the end of an opponent's next turn.
+Exert: Exert a marked relic to deal 2 damage to a unit, then you can exert another marked relic, etc...
 
 
 
-As far as the world is concerned, this is the first Ironclad. Steamlined for battle, armies have surrendered to avoid its wrath.</text>
+We have awakened the great destroyer...</text>
   </card>
 
   <!-- Outsider -->
@@ -150,11 +178,11 @@ While material, you can detach this card: Shuffle it into your deck.
 
 
 
-The flow of many bloodlines converges within this one, what will they do with such power?</text>
+The flow of many bloodlines converges within this one. We await to see how they'll wield it.</text>
   </card>
 
  <card>
-    <name>String Gunner</name>
+    <name>Stringslinger</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
     <manacost>5Q</manacost>
     <type>Nature Science Unit - Insect Soldier</type>
@@ -183,7 +211,7 @@ Specializing in capturing enemies alive with its ordnance, this arachnid is a sk
 
 
 
-Leap after leap, they never stop moving, not until the last foe is felled.</text>
+Leap, reap, repeat. It cannot afford to stop, not until the last foe is felled.</text>
   </card>
 
  <card>
@@ -195,7 +223,7 @@ Leap after leap, they never stop moving, not until the last foe is felled.</text
     <pt>0/1</pt>
     <tablerow>2</tablerow>
     <text>{Evolve} Base toughness becomes 10. Gain the following ability...
-"{Flash} Give or remove [Guard] from this card."
+"{Flash} Gain/Lose [Guard]."
 
 
 
