@@ -387,6 +387,20 @@ With blood-red mask and spear in hand, he proves that peacefulness is not weakne
 The Prophets' guild keeps inserting prophets into their prophecies...</text>
   </card>
 
+<card>
+    <name>Illusionist of Endless Mirrors</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit - Mage</type>
+    <color>B</color>
+    <pt>0/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Upkeep} Scry 1. If it's a unit, copy its stats and effect for the turn, otherwise destroy this card.
+
+
+
+👁</text>
+  </card>
 
 <!-- ###################################################################################################### -->
   </cards>
