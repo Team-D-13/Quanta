@@ -240,7 +240,7 @@ Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <type>X</type>
     <color>X</color>
     <tablerow>X</tablerow>
-    <text>Husk is a copy of its attached unit except for its name and effect. (If Husk would be attached to a card, detach its unit first.)
+    <text>Husk is a copy of its attached unit except for its name and effect. If Husk would be attached to a card, detach its unit first.
 Destroy this token at the end of your next turn.</text>
     <token>1</token>
   </card>
@@ -254,9 +254,8 @@ Destroy this token at the end of your next turn.</text>
     <color>GR</color>
     <tablerow>2</tablerow>
     <text>[Pacifist]
-Note the unit orignally attached to this.
-{Echo 2} Summon the noted unit, attach this token to it.
-{Evolve} The noted unit gains +5/+5. Other units gain [Guard] instead.
+{Echo 2} Summon an attached unit, then attach this card to it.
+{Evolve} Gain +2/+2 and [Guard].
     <token>1</token>
   </card>
 
