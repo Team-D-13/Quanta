@@ -71,7 +71,7 @@ It begins in deep space warped by dark power.</text>
     <color>B</color>
     <pt>0/1</pt>
     <tablerow>2</tablerow>
-    <text>{Upkeep} Scry 1. If it's a unit, copy its stats and effect for the turn, otherwise destroy this card.
+    <text>{Upkeep} Scry 1. If it's a unit, copy its stats and effects until your next upkeep, otherwise destroy this card.
 
 
 
