@@ -254,8 +254,9 @@ Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
     <color>GR</color>
     <tablerow>2</tablerow>
     <text>[Pacifist]
-{Echo 3} Summon the attached unit, attach this token to it.
-{Evolve} Double base stats of the unit that was attached to it. If attached to another unit, gain [Guard] instead.
+Note the unit oirignally attached to this.
+{Echo 2} Summon the noted unit, attach this token to it.
+{Evolve} The noted unit gains +5/+5. Other units gain [Guard] instead.
     <token>1</token>
   </card>
 
