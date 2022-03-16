@@ -3845,7 +3845,7 @@ Ejecting!</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>When a friendly unit dies, create a Husk token and attach the unit to it.
+    <text>When a friendly unit dies, create a Husk special token and attach the unit to it.
 
 
 
