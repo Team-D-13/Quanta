@@ -59,7 +59,7 @@ It begins in deep space warped by dark power.</text>
 
 
 
-"If this body can create a tomorrow..."</text>
+This revolution will carve the path to tomorrow.</text>
   </card>
   <!-- Arcane -->
 
@@ -71,7 +71,7 @@ It begins in deep space warped by dark power.</text>
     <color>B</color>
     <pt>0/1</pt>
     <tablerow>2</tablerow>
-    <text>{Upkeep} Scry 1. If it's a unit, copy its stats and effects until your next upkeep, otherwise destroy this card.
+    <text>{Upkeep} Scry 1. If it's a unit, copy its stats and effects until your next upkeep.
 
 
 
@@ -93,7 +93,7 @@ It begins in deep space warped by dark power.</text>
 
 
 
-Years ago an army of rebel constructs banded together to raze the tunnels below a certain island. Behind it all...a simple comms system, that dared ask "Why?".</text>
+Years ago, an army of rebel constructs arose to raze the tunnels below a certain island. Behind it all was simple comms system, that dared ask "Why?".</text>
   </card>
 
   <card>
@@ -105,25 +105,25 @@ Years ago an army of rebel constructs banded together to raze the tunnels below 
     <pt>12/12</pt>
     <tablerow>2</tablerow>
     <text>{Upkeep} This card's next attack doesn't exert, but can't damage Quanta Lords.
-Can attack non-unit cards, which destroys them without battle.
-{Flash} Pay 3Q and destroy a friendly relic: Give this card {Shroud} or {Aura} for the turn.
+Can attack non-units. When it does, destroy them.
+{Flash} Pay 3Q and sacrifice a friendly relic: Give this card {Shroud} or {Aura} for the turn.
 
 
 
-A streamlined design with flawless stability. Built only for battle, nations have surrendered to avoid facing it.</text>
+A streamlined design with flawless stability - a warmachine that nations have surrendered to.</text>
   </card>
 	  
   <card>
-    <name>RESOLVER</name>
+    <name>Final Resolver</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceAscendant.png">XPAC1</set>
     <manacost>10Q</manacost>
     <type>Science Unit - Ascendant Construct</type>
     <color>B</color>
     <pt>8/4</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Mark up to 4 friendly relics. While they're on the field, this card has [Shroud] and [Invulnerable].
+    <text>{Summon} Mark up to 4 friendly relics. While they're on the field, this card has [Shroud] and [Invulnerable]. The [Shroud] ignores the marked relics.
 {Defend} Gain -2/0 after battle until the end of an opponent's next turn.
-{Attack} Instead of damaging the opposing unit, you can deal this card's strength as damage, split it across units as you like.
+{Attack} Instead of damaging the opposition, you can deal this card's strength as damage, splitting it across units as you like.
 
 
 
@@ -202,7 +202,7 @@ The flow of many bloodlines converges within this one. We await to see how they'
     <color>GR</color>
     <pt>3/5</pt>
     <tablerow>2</tablerow>
-    <text>{Flash} Exert a relic and this card: Stun a card.
+    <text>{Flash} Exert X friendly relics and this card: Stun that many cards.
 {Evolve} Gain "{Battle} The opposing unit gets -3/0."
 
 
@@ -253,7 +253,7 @@ Some early Verol evolved to bolster their allies directly. The subfaction persis
     <tablerow>2</tablerow>
     <text>[Shroud]
 {Flash} Exert a friendly card: Transfer its {Evolve} effects to another card.
-{Flash} Exert: Destroy all other cards with {Evolve} effects.
+{Flash} Exert: Destroy all other unattached cards with {Evolve} effects.
 {Evolve} [Shroud].
 
 
