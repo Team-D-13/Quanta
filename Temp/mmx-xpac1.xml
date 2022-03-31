@@ -44,7 +44,7 @@ It begins in deep space warped by dark power.</text>
 
 
 
-🌴🌴🗿🌴🌴</text>
+Every month, the three elders would gather around the stone head and sing, until every tribesman could hear the four voices in unison.</text>
   </card>
 
 <card>
@@ -93,7 +93,7 @@ This revolution will carve the path to tomorrow.</text>
 
 
 
-Years ago, an army of rebel constructs arose to raze the tunnels below a certain island. Behind it all was simple comms system, that dared ask "Why?".</text>
+The council strove to become as machines. Most returned with bodies of metal. One came back with a steely conviction. So began the first construct riots.</text>
   </card>
 
   <card>
@@ -110,7 +110,7 @@ Can attack non-units. When it does, destroy them.
 
 
 
-A streamlined design with flawless stability - a warmachine that nations have surrendered to.</text>
+The original Ironclad was used as a weapon. This incarnation was made to be one.</text>
   </card>
 	  
   <card>
@@ -124,7 +124,7 @@ A streamlined design with flawless stability - a warmachine that nations have su
     <text>{Summon} Mark up to 4 friendly relics. While they're on the field, this card has [Shroud] and [Invulnerable]. The [Shroud] ignores the marked relics.
 {Defend} Gain -2/0 after battle until the end of an opponent's next turn.
 {Attack} Instead of damaging the opposition, you can deal this card's strength as damage, splitting it across units as you like.
-
+0
 
 
 We have awakened the great destroyer...</text>
@@ -139,7 +139,7 @@ We have awakened the great destroyer...</text>
     <color>B</color>
     <pt>2/2</pt>
     <tablerow>2</tablerow>
-    <text>When an enemy Quanta Lord's effect is activated, gain +5/+5 and an ability.
+    <text>When an enemy Quanta Lord's effect is activated/triggered, gain +5/+5 and an ability.
 
 
 
@@ -158,7 +158,7 @@ A middling creature, easily dispatched by its superiors. It survives by thriving
 
 
 
-The humble priest, a scholar of virtuous healing and brutal sacrifice.</text>
+The humble priest - a scholar of virtuous healing and brutal sacrifice.</text>
   </card>                                                                                                                     
 
   <!-- Nature Science -->
@@ -302,7 +302,7 @@ The species will likely cease to exist within the decade. It preserveres nonethe
 
 
 
-Cheating out natural evolution isn't easy and has dire consequences.</text>
+Hastening natural evolution is neither easy nor inconsequential.</text>
     <related>Cocoon</related>
   </card>
 
@@ -316,11 +316,11 @@ Cheating out natural evolution isn't easy and has dire consequences.</text>
     <pt>0/10</pt>
     <tablerow>2</tablerow>
     <text>Has [Shroud] while you have other friendly units.
-When you summon a friendly unit, give a different friendly unit +2/0 or 0/+2.
+When you summon a friendly unit, give another unit +2/0 or 0/+2.
 
 
 
-He became the guiding hand of Kalamesh's third colony. It has long since declared independance.</text>
+He became the guiding hand of Kalamesh's east colony. It has long since declared independance.</text>
   </card>
 
   <card>
@@ -331,7 +331,7 @@ He became the guiding hand of Kalamesh's third colony. It has long since declare
     <color></color>
     <pt>8/4</pt>
     <tablerow>2</tablerow>
-    <text>{Summon} Remove an ability from all enemy units. Give a friendly unit [Toxic] for each ability removed.
+    <text>{Summon} Remove an ability from all enemy units, then you can give [Toxic] to a unit X times, where X is the amount of abilities you've removed.
 
 
 
@@ -339,7 +339,7 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
   </card>
 
   <card>
-    <name>Tongue-Twister</name>
+    <name>Traitorous Tongue-Twister</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
     <manacost>1Q</manacost>
     <type>Neutral Unit - Pirate</type>
@@ -374,7 +374,7 @@ Sailed to the Searing Seas to find new life for himself. Found new life in himse
     <name>Tiki Warrior</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessWarlock.png">XPAC1</set>
     <manacost>5Q</manacost>
-    <type>Neutral Unit - Human Warlock</type>
+    <type>Neutral Unit - Human Warlock Soldier</type>
     <color></color>
     <pt>4/4</pt>
     <tablerow>2</tablerow>
@@ -383,7 +383,7 @@ If this unit has stat bonuses: {Battle} The opposing unit has -2/0.
 
 
 
-With blood-red mask and spear in hand, he proves that peacefulness is not weakness.</text>
+Today he donned the blood-red mask and howled the ancient spirits' cry. Today he only had one task, he'd go and dance until he'd die.</text>
   </card>
 
   <card>
