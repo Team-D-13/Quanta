@@ -385,6 +385,21 @@ If this unit has stat bonuses: {Battle} The opposing unit has -2/0.
 
 Today he donned the blood-red mask and howled the ancient spirits' cry. Today he only had one task, he'd go and dance until he'd die.</text>
   </card>
+	  
+  <card>
+    <name>Lord Fang</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlesssSoldier.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Unit — Anomaly Soldier</type>
+    <color></color>
+    <pt>3/6</pt>
+    <tablerow>1</tablerow>
+    <text>Damage you inflict from [Pierce] is doubled.
+
+
+
+Any last words?</text>
+  </card>
 
   <card>
     <name>Omen of Omens</name>
