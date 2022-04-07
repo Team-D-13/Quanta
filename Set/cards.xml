@@ -3722,7 +3722,7 @@ Ambassador of the Gleaming Isle. They travel the world, seeking and claiming. Th
     <type>Mythical Neutral Unit — Anomaly Soldier</type>
     <color></color>
     <pt>3/6</pt>
-    <tablerow>1</tablerow>
+    <tablerow>2</tablerow>
     <text>{Summon} Deal damage equal to your units' combined strength bonuses.
 
 
@@ -3736,7 +3736,7 @@ This is it.</text>
     <manacost>4Q</manacost>
     <type>Outsider Support</type>
     <color>B</color>
-    <tablerow>4</tablerow>
+    <tablerow>3</tablerow>
     <text>Destroy a unit. Resurrect it. Destroy it again.
 
 
