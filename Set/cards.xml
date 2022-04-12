@@ -4156,7 +4156,7 @@ When a friendly unit defends, you can remove a counter from it: Destroy the atta
 
 
 
-Balance in all things.</text>
+Balance in all things shines through the grime of mortal combat.</text>
   </card>
 
 	<card>
@@ -4181,7 +4181,7 @@ Ah, to see the world and forget it...</text>
     <color>G</color>
     <tablerow>0</tablerow>
     <text> Exert: Give a unit the following effect...
-- {Upkeep} This card gains +2/+2. Destroy it if it has 10/10 or more.
+- {Upkeep} This card gains +2/+2. If its total bonuses are +10 or more, destroy it.
 
 
 
@@ -4226,7 +4226,7 @@ What a deal!</text>
     <color>G</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>Cannot die during and immediately after battle. Survives with 1 life instead.
+    <text>Cannot die during battle or from post-battle effects. Survives with 1 life instead.
 If affected by Trip, flip a coin.
 
 
