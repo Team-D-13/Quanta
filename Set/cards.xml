@@ -3752,7 +3752,7 @@ This is it.</text>
     <color>R</color>
     <tablerow>0</tablerow>
     <text>Friendly units have the effect...
-"{Upkeep}/{Summon} Gain toughness & life equal to the counters on your Α Protocol-s until your next upkeep."
+"{Upkeep/Summon} Gain toughness and life equal to the counters on your Α Protocol-s until your next upkeep."
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
@@ -3800,7 +3800,7 @@ The objective is resistance. Divert power to offense. We will not yield.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit attacks: Deal 2 & take 1 damage per counter on this card.
+    <text>When a friendly unit attacks: Deal 2 and take 1 damage per counter on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
