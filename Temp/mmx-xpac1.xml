@@ -236,10 +236,28 @@ Leap, reap, repeat. It cannot afford to stop, not until the last foe is felled.<
     <pt>1/2</pt>
     <tablerow>2</tablerow>
     <text>When this card unexerts: You can destroy a unit.
+{Evolve} Gain [Swift].
 
 
 
 Many wide, far-reaching tunnels in Verol lands. Common occurence.</text>
+  </card>
+
+<card>
+    <name>Acidic Warden</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Science Unit - Insect</type>
+    <color>GR</color>
+    <pt>4/4</pt>
+    <tablerow>2</tablerow>
+    <text>[Battle] Mark the opposing unit.
+Marked units take this card's strength (at time of mark application) as damage on each upkeep.
+{Evolve} Gain [Toxic].
+
+
+
+The devious warden makes sure that one strike is all that is necessary in any situation.</text>
   </card>
 
  <card>
