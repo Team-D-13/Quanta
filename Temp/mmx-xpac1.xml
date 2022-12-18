@@ -44,11 +44,11 @@ It begins in deep space warped by dark power.</text>
 
 
 
-Every month, the three elders would gather around the stone head and sing, until every tribesman could hear the four voices in unison.</text>
+The three elders would gather around the stone head and sing in unison.</text>
   </card>
 
 <card>
-    <name>Don Diyen Ei</name>
+    <name>Don Diyen</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureAnomaly.png">XPAC1</set>
     <manacost>5Q</manacost>
     <type>Mythical Nature Unit — Anomaly Spirit</type>
@@ -93,7 +93,7 @@ This revolution will carve the path to tomorrow.</text>
 
 
 
-The council strove to become as machines. Most returned with bodies of metal. One came back with a steely conviction. So began the first construct riots.</text>
+The council strove to become as machines, but they did not consider how it affected their minds.</text>
   </card>
 
   <card>
@@ -105,7 +105,7 @@ The council strove to become as machines. Most returned with bodies of metal. On
     <pt>12/12</pt>
     <tablerow>2</tablerow>
     <text>{Upkeep} This card's next attack doesn't exert, but can't damage Quanta Lords.
-Can attack non-units. When it does, destroy them.
+Can attack any card on the field. When it does, destroy that card unless it's a Quanta Lord.
 {Flash} Pay 3Q and sacrifice a friendly relic: Give this card {Shroud} or {Aura} for the turn.
 
 
@@ -124,7 +124,7 @@ The original Ironclad was used as a weapon. This incarnation was made to be one.
     <text>{Summon} Mark up to 4 friendly relics. While they're on the field, this card has [Shroud] and [Invulnerable]. The [Shroud] ignores the marked relics.
 {Defend} Gain -2/0 after battle until the end of an opponent's next turn.
 {Attack} Instead of damaging the opposition, you can deal this card's strength as damage, splitting it across units as you like.
-0
+
 
 
 We have awakened the great destroyer...</text>
@@ -143,7 +143,7 @@ We have awakened the great destroyer...</text>
 
 
 
-A middling creature, easily dispatched by its superiors. It survives by thriving on their very overconfidence.</text>
+A middling creature, easily dispatched by its superiors. It thrives on their very overconfidence.</text>
   </card>
 
   <card>
