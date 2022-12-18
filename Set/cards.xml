@@ -2965,11 +2965,11 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
 	<card>
     <name>Crunch</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
-    <manacost>4Q</manacost>
+    <manacost>2Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Deal damage equal to a friendly unit's strength.
+    <text>Deal damage to a unit equal to a friendly unit's strength.
 
 
 
