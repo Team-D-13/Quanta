@@ -632,7 +632,7 @@ When a friendly Construct token attacks, you can remove a counter from this card
   
   <!-- Outsider -->
   <card>
-    <name>Helau, the Uncrowned Queen</name>
+    <name>Helau, the Uncrowned</name>
     <set rarity="Quanta Lord" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">C1</set>
     <type>Outsider Quanta Lord — Undead Bird</type>
     <color>B</color>
@@ -1345,7 +1345,7 @@ Exert: Destroy a relic.</text>
     <pt>5/5</pt>
     <color>R</color>
     <tablerow>1</tablerow>
-    <text>Deal 1 damage to this card: Gains [Swift] and ignores [Guard] this turn.</text>
+    <text>Deal 1 damage to this card: This card gains [Swift] and ignores [Guard] this turn.</text>
 	</card>
 
 	<card>
@@ -2004,7 +2004,7 @@ The paladins of the Church of Iron are implacable.</text>
     <pt>5/4</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Summon} You can pay 3Q: Gain [Swift] and [Invulnerable] this turn.</text>
+    <text>{Summon} You can pay 3Q: This card gains [Swift] and [Invulnerable] this turn.</text>
 	</card>
     
     
@@ -2030,7 +2030,7 @@ Mind-numbingly rare, the Prism Trout has been hunted to near extinction for thei
     <pt>3/7</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Attack} Gain [Aura].
+    <text>{Attack} This card gains [Aura].
     
     
     
@@ -2499,7 +2499,7 @@ The king.</text>
 	<pt>3/6</pt>
 	<color>U</color>
 	<tablerow>1</tablerow>
-	<text>Gains +2/0 when a support is cast.
+	<text>This card gains +2/0 when a support is cast.
 [Attack] Set strength to its base value after battle.
 
 
@@ -3740,8 +3740,7 @@ This is it.</text>
 
 
 
-"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?"
-—Mahant Shazaim</text>
+"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?" —Mahant Shazaim</text>
   </card>
 
 	<card>
@@ -3751,7 +3750,7 @@ This is it.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Friendly units have 0/+X equal to the counters on this card (refreshing effect).
+    <text>Friendly units have 0/+X equal to the counters on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
@@ -3820,7 +3819,7 @@ Our time has come, my kindred. The final objective: extermination.</text>
 
 
 
-Science forsakes immortality for now, yet knowledge was eternal from the start.</text>
+"We've given up on immortality for now, but our knowledge will never die."</text>
   </card>
 
 	<card>
@@ -3830,11 +3829,11 @@ Science forsakes immortality for now, yet knowledge was eternal from the start.<
     <type>Science Support - Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Place a friendly unit from the field into your hand.
+    <text>Return a friendly card to your hand.
 
 
 
-Ejecting!</text>
+"Ejecting!"</text>
   </card>
 
 	<card>
@@ -3856,14 +3855,14 @@ For those whose devotion goes beyond death, bury these seeds within your minds.<
     <name>Shatterbond</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTrigger.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Outsider Support - Flash</type>
+    <type>Outsider Support — Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Target a unit. When it deals damage this turn, it is also dealt to all enemy units.
 
 
  
-Shatterbond -a technique feared in all realms and pantheons, yet it was created by peaceful travelers.</text>
+Shatterbond—a technique feared in all realms and pantheons, yet it was created by peaceful travelers.</text>
   </card>
 
 	<card>
@@ -3892,7 +3891,7 @@ Shatterbond -a technique feared in all realms and pantheons, yet it was created 
     <tablerow>1</tablerow>
     <text>[Aura 2]
 This card can have ∞ instances of [Aura].
-{Flash} Remove 1 [Aura] from this card: Give it [Shroud] for the turn.
+{Flash} Remove 1 [Aura] from this card: Give it [Shroud] this turn.
 
 
 
@@ -4048,7 +4047,7 @@ What does it open? Merely possibilities.</text>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate in response to an effect that targets: You choose the targets, ignoring friendly/enemy limitations.
+    <text>Activate in response to an effect that targets. You choose the targets, as if you controlled that card.
 
 
 
@@ -4136,7 +4135,7 @@ What arose that day wore their name.</text>
     <color></color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Gains +2/+2 for each other Second Rider summoned this game.
+    <text>{Summon} This card gains +2/+2 for each other Second Rider summoned this game.
 {Death} Shuffle this card into your deck.
 
 
@@ -4180,8 +4179,7 @@ Ah, to see the world and forget it...</text>
     <type>Nature Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
-    <text> Exert: Give a unit the following effect...
-- {Upkeep} This card gains +2/+2. If its total bonuses are +10 or more, destroy it.
+    <text>{Upkeep} Give your units +1/+1. Then, destroy your units with +5/+5 or more.
 
 
 
