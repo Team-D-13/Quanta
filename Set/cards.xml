@@ -2963,11 +2963,11 @@ A healing technique, almost forgotten. Coaxed from the spirits, the price unknow
 	<card>
     <name>Crunch</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureSupport.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>4Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Deal damage to a unit equal to a friendly unit's strength.
+    <text>Deal damage equal to a friendly unit's strength.
 
 
 
@@ -3711,7 +3711,7 @@ That unit cannot unexert.
 
 
 
-Ambassador of the Gleaming Isle. They travel the world, seeking and claiming. The lucky are asked to join willingly first.</text>
+Ambassador of the Gleaming Isle, a journeyman who seeks skilled hands. Fortunate are those offered a say in the matter.</text>
   </card>
 
 	<card>
@@ -3740,7 +3740,8 @@ This is it.</text>
 
 
 
-"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?" —Mahant Shazaim</text>
+"Why are both heroes and heretics sent to the pyre? Is our ceremony an honor or punishment?"
+—Mahant Shazaim</text>
   </card>
 
 	<card>
@@ -3750,7 +3751,7 @@ This is it.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Friendly units gain 0/+X equal to the amount of counters on this card until your next upkeep.
+    <text>{Upkeep} Friendly units have 0/+X equal to the counters on this card (refreshing effect).
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
@@ -3766,7 +3767,7 @@ The objective is efficiency. The means: maintenance.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When an enemy unit dies: Distribute X abilties among your friendly units where X is the amount of counters on this card.
+    <text>Enemy unit death: Distribute X abilties among your friendly units equal to the counters on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
@@ -3798,7 +3799,7 @@ The objective is resistance. Divert power to offense. We will not yield.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When a friendly unit attacks: Deal 2 damage and take 1 damage for each counter on this card.
+    <text>Friendly unit attack: Deal 2 damage and take 1 damage for each counter on this card.
 {Summon} Put a counter on this card.
 Exert and pay 4Q: Put a counter on this card.
 
@@ -3819,17 +3820,17 @@ Our time has come, my kindred. The final objective: extermination.</text>
 
 
 
-Science forsakes immortality for now, but our knowledge will never die.</text>
+Science forsakes immortality for now, yet knowledge was eternal from the start.</text>
   </card>
 
 	<card>
     <name>Emergency Maneuvers</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceTrigger.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>0Q</manacost>
     <type>Science Support - Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Place a friendly unit that would be destroyed into your hand.
+    <text>Place a friendly unit from the field into your hand.
 
 
 
@@ -3843,7 +3844,7 @@ Ejecting!</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>When a friendly unit dies, create a Husk special token and attach the unit to it.
+    <text>Friendly unit death: Create a Husk special token and attach that unit to it.
 
 
 
@@ -3862,11 +3863,11 @@ For those whose devotion goes beyond death, bury these seeds within your minds.<
 
 
  
-Imparted by kind visitors from another realm, this technique is feared by all greater beings.</text>
+Shatterbond -a technique feared in all realms and pantheons, yet it was created by peaceful travelers.</text>
   </card>
 
 	<card>
-    <name>Hopeless Horizon Soldier</name>
+    <name>Hopeless Horizon's Soldier</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessHuman.png">C1</set>
     <manacost>3Q</manacost>
     <type>Neutral Unit — Human Soldier</type>
@@ -3878,11 +3879,11 @@ Imparted by kind visitors from another realm, this technique is feared by all gr
 
 
 
-"The elder always says to just keep walking."</text>
+"Fight to live. Live to fight."</text>
   </card>
 
 	<card>
-    <name>Hopeless Horizon Savant</name>
+    <name>Hopeless Horizon's Savant</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessAscendant.png">C1</set>
     <manacost>7Q</manacost>
     <type>Mythical Neutral Unit — Ascendant Soldier</type>
@@ -3891,11 +3892,11 @@ Imparted by kind visitors from another realm, this technique is feared by all gr
     <tablerow>1</tablerow>
     <text>[Aura 2]
 This card can have ∞ instances of [Aura].
-{Flash} Remove 1 [Aura] from this card: Give it [Shroud] until the end of the turn.
+{Flash} Remove 1 [Aura] from this card: Give it [Shroud] for the turn.
 
 
 
-"The teacher always says to never look back."</text>
+"You only live because you aren't dead."</text>
   </card>
 
 	<card>
@@ -3905,8 +3906,8 @@ This card can have ∞ instances of [Aura].
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Upkeep} Put a counter on this Quanta Lord.
-{Flash} Exert, target a unit, and remove counters from this Quanta Lord equal to that unit's Quanta cost: Annihilate that unit until the end of the turn.
+    <text>{Upkeep} Gain a counter.
+{Flash} Exert and remove counters from this Quanta Lord equal to a unit's cost: Annihilate that unit until the end of the turn.
 
 
 
@@ -3920,8 +3921,8 @@ Every moment in history was once now. And Now? He's here.</text>
     <color>U</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>When an enemy would take damage, you can exert: Place that many counters on this card instead.
-Exert: Remove X counters from this card and deal that much damage.
+    <text>When an enemy would take damage, you can exert: Gain that many counters instead.
+Exert: Remove X counters from this Quanta Lord and deal that much damage.
 
 
 
@@ -3955,11 +3956,11 @@ A single spire stands in the center of the crater.</text>
     <tablerow>2</tablerow>
     <text>[Guard]
 {Damaged} Annihilate a unit from your graveyard.
-This card has [Regenerate] while you have a unit in your graveyard.
+Has [Regenerate] while you have units in your graveyard.
 
 
 
-Warrior and sailor from a time long-gone. Memories of empire and crew tug at his final days.</text>
+Pioneer of an epoch long-gone. Memories of empire and crew tug at his final days.</text>
   </card>
 
 	<card>
@@ -4017,7 +4018,7 @@ A fair and just ruler with nothing to hide.</text>
     <color>U</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Transfer all counters from other cards to this card.
+    <text>{Summon} Transfer all counters on the field to this card.
 This card has +1/+1 for each counter on it.
 
 
@@ -4047,7 +4048,7 @@ What does it open? Merely possibilities.</text>
     <type>Science Support — Flash</type>
     <color>R</color>
     <tablerow>3</tablerow>
-    <text>Activate in response to an effect that targets. You choose the targets, ignoring friendly/enemy designators.
+    <text>Activate in response to an effect that targets: You choose the targets, ignoring friendly/enemy limitations.
 
 
 
@@ -4105,7 +4106,7 @@ If nothing can see you, are you really there?</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage. If it was lethal, ressurrect the target to your field.
+    <text>Deal 1 damage. If it kills, ressurrect the target to your field.
 
 
 
@@ -4155,7 +4156,7 @@ When a friendly unit defends, you can remove a counter from it: Destroy the atta
 
 
 
-Balance in all things shines through the grime of mortal combat.</text>
+Balance in all things shines through the grime of deathly combat.</text>
   </card>
 
 	<card>
@@ -4199,7 +4200,7 @@ Anyone can achieve power. Few can keep it.</text>
 
 
 
-A strange mass upon which a forest grows.</text>
+A venerable mass upon which a forest grew.</text>
   </card>
 
 	<card>
@@ -4209,7 +4210,7 @@ A strange mass upon which a forest grows.</text>
     <type>Neutral Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Give an opponent a card in your hand, and if you do, draw 2 cards.
+    <text>Give an opponent a card from your hand: draw 2 cards from their deck.
 
 
 
@@ -4225,8 +4226,8 @@ What a deal!</text>
     <color>G</color>
     <pt>4/4</pt>
     <tablerow>1</tablerow>
-    <text>Cannot die during battle or from post-battle effects. Survives with 1 life instead.
-If affected by Trip, flip a coin.
+    <text>Battle: Cannot leave the field for the rest of the current player's turn. If it would, survives with 1 life instead.
+If affected by Trip: flip a coin.
 
 
 
@@ -4307,7 +4308,7 @@ The keeper is not an obstacle. He is the end of the road.</text>
   </card>
 
 	<card>
-    <name>Over Vortex</name>
+    <name>OVER VORTEX</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/SciencePassive.png">C1</set>
     <manacost>4Q</manacost>
     <type>Science Relic</type>
@@ -4317,21 +4318,21 @@ The keeper is not an obstacle. He is the end of the road.</text>
 
 
 
-We're operating at maximum power.</text>
+We are operating at MAXIMUM EFFICIENCY!</text>
   </card>
 
 	<card>
-    <name>Snapstrike</name>
+    <name>Godspeed</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureTrigger.png">C1</set>
     <manacost>3Q</manacost>
     <type>Nature Support</type>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>Summon a unit from your hand and immediately attack a unit with it. Return it to your hand after battle.
+    <text>Summon a unit from your hand and immediately attack with it, then return it to your hand.
 
 
 
-Either you've surprised your enemy, or you've made them paranoid forever - the ultimate technique.</text>
+Few things sting as much as losing before you've even fought.</text>
   </card>
 
 	<card>
@@ -4342,11 +4343,11 @@ Either you've surprised your enemy, or you've made them paranoid forever - the u
     <color>U</color>
     <pt>1/7</pt>
     <tablerow>1</tablerow>
-    <text>{Battle} Purge the opposing unit and give it this effect.
+    <text>{Battle} Purge the opposing unit, then give it this effect.
 
 
 
-The pharaoh rises in search of new servants.</text>
+The high priest rises in search of new followers.</text>
   </card>
 
 	<card>
@@ -4372,7 +4373,7 @@ Save the future.</text>
     <color>U</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Upkeep} Scry 1. You can reveal a support scried this way and add it to your hand. You can shuffle your deck afterwards.
+    <text>{Upkeep} Scry 1. If it's a support, reveal it and add it to your hand, then you can shuffle your deck.
 
 
 
@@ -4391,7 +4392,7 @@ Eye of newt, toe of frog, wool of bat...</text>
 
 
 
-If history makes us who we are, we should be very worried.</text>
+"History made you who you are. That is why you are vulnerable."</text>
   </card>
 
 	<card>
@@ -4419,7 +4420,7 @@ At first, they feel nothing. Then, they feel nothing.</text>
 
 
 
-We'll step below, and call for the fallen. They'll ask to speak, and we'll offer our voice.</text>
+We'll step below and call for the fallen. They'll speak again through our voice.</text>
   </card>
 
 	<card>
@@ -4429,7 +4430,7 @@ We'll step below, and call for the fallen. They'll ask to speak, and we'll offer
     <type>Mythical Neutral Support</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Deal 1 damage to all enemies. Shuffle this card into your deck.
+    <text>Deal 1 damage to all enemies and shuffle this card into your deck.
 
 
 
@@ -4444,7 +4445,7 @@ EVERY NIGHT. AT 3:00 AM. UNTIL YOU LOVE IT.</text>
     <pt>2/2</pt>
     <color>G</color>
     <tablerow>3</tablerow>
-    <text>If this card has stat bonuses, it has +2/+2 and [Swift].
+    <text>If this card has stat bonuses from other effects, it has +2/+2 and [Swift].
     
     
     
@@ -4458,7 +4459,7 @@ Hu. Ha. Hu. Tiki tiki.</text>
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>Exert: Give a friendly Construct -1/-1, then summon a 1/1 Drone token.
+    <text>Exert: X friendly constructs get -1/-1, then summon that many 1/1 Drone tokens.
 
     
     
@@ -4473,13 +4474,13 @@ They've figured out mitosis! Those bastards!</text>
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>{Summon} Place 3 counters on this card.
+    <text>{Summon} Gain 3 counters.
 When you cast a support, deal 1 damage.
-At the end of your turn, if you didn't cast a support, remove a counter from this card. Destroy it instead if it has none.
+At the end of your turn, if you didn't cast a support, remove a counter from this card or destroy it instead if it has none.
 
     
     
-The King of Kalamesh sought to plant his city in the skies and escape. His advisors had bigger plans.</text>
+The King of Kalamesh sought to launch his city to the skies and escape. His advisors had bigger plans.</text>
 	</card>
 	  
 	  <card>
@@ -4506,7 +4507,7 @@ Now is as good of a time as any.</text>
     <text>Target a unit. When it leaves the field, add it to your hand.
     
     
-Look at you, so stuck in the moment.</text>
+"Foolish mortal. We will meet again."</text>
 	</card>
 	  
 	  <card>
@@ -4526,7 +4527,7 @@ But what hunts the Metahunter?</text>
 	</card>
 	  
 	  <card>
-    <name>Prototype - "Ironclad"</name>
+    <name>Ironclad Prototype</name>
     <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">C1</set>
     <manacost>10Q</manacost>
     <type>Mythical Science Unit - Construct Horror Titan</type>
@@ -4536,7 +4537,7 @@ But what hunts the Metahunter?</text>
     <text>{Summon} Sacrifice any number of friendly units: Destroy an equal number of cards. 
     
     
-The first-ever technological titan. It holds a chilling secret.</text>
+The first technological titan. Its steel frame hides a chilling secret.</text>
     </card>
 
 
@@ -4552,11 +4553,11 @@ The first-ever technological titan. It holds a chilling secret.</text>
     
     
     
-Lives to be served. I mean. To serve.</text>
+Lives to be served...I mean...to serve.</text>
     </card>
 
 <card>
-    <name>Sea of Acid</name>
+    <name>Acid Rain</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneSupport.png">C1</set>
     <manacost>2Q</manacost>
     <type>Arcane Support</type>
@@ -4567,7 +4568,7 @@ Lives to be served. I mean. To serve.</text>
     
     
     
-Mages are feared for their power. Alchemists are feared for their cruelty.</text>
+Under orders from the Archmagi Council, this spell was barred for wartime use.</text>
     </card>
 	  
 	  <card>
@@ -4577,8 +4578,8 @@ Mages are feared for their power. Alchemists are feared for their cruelty.</text
     <color>G</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>If this card has no strength, you can exert and pay 3Q: Sacrifice a friendly unit and gain strength equal to its cost.
-{Upkeep} Loses 1 strength.
+    <text>If this card has 0 strength, you can exert and pay 3Q: Sacrifice a friendly unit and gain strength equal to its cost.
+{Upkeep} Lose 1 strength.
 Cannot attack Quanta Lords.
 	    
 
@@ -4594,7 +4595,7 @@ In this world, it's eat.</text>
     <color></color>
     <tablerow>3</tablerow>
     <text>Deal 0 damage.
-{Upkeep} If this card is in your graveyard, you can add it to your hand.
+{Upkeep} If this card is in your graveyard, add it to your hand.
 
 
 
