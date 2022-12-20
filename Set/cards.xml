@@ -37,17 +37,18 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <tablerow>1</tablerow>
     <text>Exert: Gain 1Q.</text>
   </card>
-	<card>
-    <name>Surprise Gnome</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureHuman.png">C1</set>
+   <card>
+    <name>Skull Scarab</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Nature Unit — Human</type>
+    <type>Nature Unit — Insect</type>
     <color>G</color>
-    <pt>2/1</pt>
+    <pt>1/1</pt>
     <tablerow>1</tablerow>
-    <text>[Hidden]</text>
+    <text>[Hidden]
+{Attack} Purge the opposing unit.</text>
   </card>
-	<card>
+  <card>
     <name>Bramblebear</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
@@ -57,20 +58,15 @@ Halberd in hand, he carved a path through the cursed forests of Brunell, despera
     <tablerow>1</tablerow>
     <text>{Battle} Deal 2 damage to the opposing Quanta Lord.</text>
   </card>
-  <card>
-    <name>Skull Scarab</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
+	<card>
+    <name>Forest Sprite</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>2Q</manacost>
-    <type>Nature Unit — Insect</type>
+    <type>Nature Unit — Spirit</type>
     <color>G</color>
-    <pt>2/1</pt>
+    <pt>2/3</pt>
     <tablerow>1</tablerow>
-    <text>[Hidden]
-{Kill} You can summon a Skull Scarab from your hand or deck.
-
-
-
-"No, no, not the face!"</text>
+    <text>{Summon} Purge another random unit.</text>
   </card>
   <card>
     <name>Steelskin Panda</name>
@@ -115,15 +111,15 @@ Exert: This card gains +3/0 until your next upkeep.</text>
     <text>[Swift]</text>
   </card>
 	<card>
-    <name>Hungry Hen</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
+    <name>Pit Predator</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">C1</set>
     <manacost>4Q</manacost>
-    <type>Nature Unit — Bird</type>
+    <type>Nature Unit — Beast Human</type>
     <color>G</color>
-    <pt>5/3</pt>
+    <pt>2/5</pt>
     <tablerow>1</tablerow>
-    <text>{Kill} Summon a 0/1 Chicken Egg token with "{Death} Summon a 2/1 Chicken token."</text>
-    <related>Chicken Egg</related>
+    <text>[Hidden]
+{Flash} Pay 2Q: The next unit summoned gets -2/-2.</text>
   </card>
 	<card>
     <name>Ravenous Rooster</name>
@@ -136,14 +132,15 @@ Exert: This card gains +3/0 until your next upkeep.</text>
     <text>{Kill} Unexert.</text>
   </card>
 	<card>
-    <name>Infiniflea</name>
+    <name>Cloud Eater</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureInsect.png">C1</set>
     <manacost>5Q</manacost>
     <type>Nature Unit — Insect</type>
     <color>G</color>
     <pt>3/3</pt>
     <tablerow>1</tablerow>
-    <text>{Damaged} Copy this card.
+    <text>[Regenerate]
+{Damaged} Copy this card.
 
 
 
@@ -619,7 +616,8 @@ Shuffle your deck afterwards.
     <type>Science Relic</type>
     <color>R</color>
     <tablerow>0</tablerow>
-    <text>When you summon a unit, give it [Aura]. If it is a Construct, also give it [Regenerate] until your next upkeep.</text>
+    <text>{Upkeep} Pay 1Q for each friendly unit.
+When you summon a unit, give it [Aura].</text>
 	</card>
   <card>
     <name>Deathcloud Capsules</name>
@@ -941,7 +939,7 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <type>Mythical Neutral Unit — Human Soldier</type>
     <color></color>
     <pt>4/3</pt>
-    <tablerow>2</tablerow>
+    <tablerow>1</tablerow>
     <text>[Hidden], [Swift]
 {Attack} Destroy the opposing unit.</text>
   </card>
@@ -966,7 +964,7 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <type>Mythical Neutral Unit — Human Soldier</type>
     <color></color>
     <pt>5/5</pt>
-    <tablerow>2</tablerow>
+    <tablerow>1</tablerow>
     <text>{Summon} Deal 6 damage to an enemy unit. If this kills it, deal 2 damage to all other enemy units.
 
 
@@ -992,13 +990,13 @@ Electricity eating parasites, often found during salvages of old machinery.</tex
     <text>Destroy a card, and if you do, destroy all cards with the same Quanta cost as that card.</text>
 	</card>
   <card>
-    <name>Clockwork Angel</name>
+    <name>Smokescreen</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessTrigger.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>2Q</manacost>
     <type>Neutral Support — Flash</type>
     <color></color>
     <tablerow>3</tablerow>
-    <text>Summon this card as a 3/6 Construct with [Guard]. If you activated this card in response to an enemy attack, it becomes the target of that attack. Return it to your hand at the end of the turn.</text>
+    <text>Give a card [Hidden].</text>
 	</card>
   <card>
     <name>Ichor Goblet</name>
@@ -1818,7 +1816,7 @@ Fragments of Ancients can trigger prodigious growth in the local fauna.</text>
     <color>G</color>
     <tablerow>3</tablerow>
     <text>Select an effect...
-- Give a unit +2/+2.
+- Give a unit +3/+3.
 - Gain 1 Max Quanta.</text>
 	</card>
 
@@ -1953,7 +1951,7 @@ His influence on the town was subtle, unremarked upon. But his work will survive
     <color></color>
     <tablerow>1</tablerow>
     <text>[Hidden]
-{Attack} If the defender is a Quanta Lord, draw a card from its owner's deck.
+{Attack} If the defender is a Quanta Lord, draw a card from its controller's deck.
     
     
     
@@ -2502,7 +2500,7 @@ The king.</text>
 	<color>U</color>
 	<tablerow>1</tablerow>
 	<text>Gains +2/0 when a support is cast.
-	After attacking, set strength to its base value.
+[Attack] Set strength to its base value after battle.
 
 
 
@@ -2708,7 +2706,7 @@ A long journey can change people.</text>
 	<card>
     <name>Flux</name>
 		<set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneTrigger.png">C1</set>
-    <manacost>3Q</manacost>
+    <manacost>2Q</manacost>
     <type>Arcane Support — Flash</type>
     <color>U</color>
     <tablerow>0</tablerow>
@@ -3088,7 +3086,7 @@ Exert: Remove all counters from this card. Heal for an equal amount.
     <color>B</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>Exert: Transform a friendly unit into a Dire Spawn with +X/0.
+    <text>Exert: Transform a friendly unit into a Dire Spawn with +X/+0.
 Exert: Increase X by 1.
 
 
@@ -3096,6 +3094,7 @@ Exert: Increase X by 1.
 "Back. We must go back.
 There is still time.
 Why can't you understand!?"</text>
+    <related>Dire Spawn</related>
 	</card>
 
 	<card>
@@ -3563,8 +3562,8 @@ Out of the way, scrubs.</text>
     <pt>4/6</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Battle} Double this card's strength. 
-{Upkeep} Set its strength to 4.
+    <text>{Battle} Double this card's strength.
+{Upkeep} Set this card's strength to 4.
 
 
 
@@ -3578,7 +3577,7 @@ Out of the way, scrubs.</text>
     <type>Neutral Support — Flash</type>
     <color></color>
     <tablerow>0</tablerow>
-    <text>Activate when an opponent summons a unit. Purge it and set its strength and toughness to 1.
+    <text>Activate when an opponent summons a unit. Purge it, and it becomes 1/1.
 
 
 
@@ -3708,7 +3707,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert and pay 3Q: Give a unit [Guard] or [Drain], then its type becomes Construct.
+    <text>{Flash} Exert and pay 2Q: Give a unit [Guard] or [Drain], then it gains the Construct type.
 
 
 
@@ -3859,7 +3858,7 @@ For those whose devotion goes beyond death, bury these seeds within your minds.<
     <type>Outsider Support - Flash</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target a unit. When it deals damage this turn, it is dealt to all enemy units.
+    <text>Target a unit. When it deals damage this turn, it is also dealt to all enemy units.
 
 
  
@@ -4033,8 +4032,8 @@ So, a vampire walks into a bar...</text>
     <type>Arcane Relic</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>Pay 1Q: Record a unit's state (attach a clone of it to this card).
-{Flash} Exert: Pay 2Q to return the last-recorded unit to that state.
+    <text>Pay 1Q: Record a unit's state.
+{Flash} Exert: Pay 2Q to return that unit to the recorded state.
 
 
 
@@ -4136,7 +4135,7 @@ What arose that day wore their name.</text>
     <color></color>
     <pt>2/2</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Gains +2/2 for each other Second Rider summoned this game.
+    <text>{Summon} Gains +2/+2 for each other Second Rider summoned this game.
 {Death} Shuffle this card into your deck.
 
 
@@ -4166,7 +4165,7 @@ Balance in all things shines through the grime of mortal combat.</text>
     <type>Arcane Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Scry 5. You can add 1 of those cards to your hand, but if you do, return a card from your hand to your deck. Then, shuffle your deck.
+    <text>Scry 5. You can add 1 of those cards to your hand, but if you do, shuffle a card from your hand into your deck.
 
 
 
@@ -4241,7 +4240,7 @@ The Champ doesn't lose.</text>
     <type>Outsider Support</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Target opponent summons a 1/1 Statue of an Ugly, Grinning Man token.
+    <text>Target opponent summons a 1/1 Statue of an Ugly, Grinning Man special token.
 
 
 

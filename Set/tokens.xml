@@ -1,33 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
   <cards>
-	  
-	<card>
-    <name>Chicken Egg</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
-    <manacost>0Q</manacost>
-    <type>Nature Unit — Beast</type>
-    <color>G</color>
-    <pt>0/1</pt>
-    <tablerow>1</tablerow>
-    <text>[Pacifist]
-{Death} Summon a 2/1 Chicken token.</text>
-    <related>Chicken</related>
-    <token>1</token>
-  </card>
-	  
-  <card>
-    <name>Chicken</name>
-    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
-    <manacost>1Q</manacost>
-    <type>Nature Unit — Bird</type>
-    <color>G</color>
-    <pt>2/1</pt>
-    <tablerow>1</tablerow>
-    <text></text>
-    <token>1</token>
-  </card>
-	  
+    
 	<card>
     <name>Nestling</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
