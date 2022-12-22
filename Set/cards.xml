@@ -103,7 +103,7 @@ Flavour Text</text>
     <text></text>
   </card>
   <card>
-    <name>Gravymancer</name>
+    <name>Frayer</name>
     <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <type>Class</type>
     <color>B</color>
@@ -113,17 +113,84 @@ Flavour Text</text>
   </card>
   
 	<!-- Flan -->
-  <!-- Gravymancer -->
+  <!-- Frayer -->
+  <card>
+    <name>Riftwalker</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSoldier.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Frayer Unit — Soldier</type>
+    <color>G</color>
+    <pt>4/3</pt>
+    <tablerow>1</tablerow>
+    <text>{Wormhole 1} 1Q</text>
+  </card>
+  <card>
+    <name>Starworm</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderInsect.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Frayer Unit — Insect</type>
+    <color>G</color>
+    <pt>2/3</pt>
+    <tablerow>1</tablerow>
+    <text>{Summon} Raze 3. You can activate those cards' {Wormhole} effects.</text>
+  </card>
+  <card>
+    <name>Frontier Probe</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderConstruct.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Frayer Unit — Construct</type>
+    <color>G</color>
+    <pt>5/5</pt>
+    <tablerow>1</tablerow>
+    <text>{Voidcast} 3Q
+
+
+
+"Alpha One to Bravo Squad. The fish has taken the bait. Repeat. The fish has taken the bait."</text>
+  </card>
+  <card>
+    <name>Bolt from Beyond</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Frayer Skill — Space Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Deal 1 damage to a unit for each card in your void.</text>
+  </card>
   <card>
     <name>Supernova</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>8Q</manacost>
-    <type>Gravymancer Skill — Space Magic</type>
+    <type>Frayer Skill — Space Magic</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Destroy all units.
 {Wormhole 3} 4Q</text>
   </card>
+  <card>
+    <name>Chronological Collapse</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalOutsiderSupport.png">C1</set>
+    <manacost>30Q</manacost>
+    <type>Mythical Frayer Skill — Time Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Costs 1Q less for each card in your void.
+Take an extra turn after this one.</text>
+  </card>
+  <card>
+    <name>Astronauts' Watch</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Frayer Relic — Gadget</type>
+    <color>B</color>
+    <tablerow>0</tablerow>
+    <text>[Doom 3]
+{Upkeep} Advance your cards' {Wormhole} counts by 1.
+
+
+
+There's a note inside. It says 'Property of Lydia.'</text>
+	</card>
   
   
 <!-- ###################################################################################################### -->
