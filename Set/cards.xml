@@ -94,6 +94,15 @@ Flavour Text</text>
   
   <!-- Classes -->
   <card>
+    <name>Cardinal</name>
+    <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
+    <type>Class</type>
+    <color>U</color>
+    <loyalty>30</loyalty>
+    <tablerow>0</tablerow>
+    <text></text>
+  </card>
+  <card>
     <name>Elementalist</name>
     <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
     <type>Class</type>
@@ -113,13 +122,25 @@ Flavour Text</text>
   </card>
   
 	<!-- Flan -->
+  <!-- Elementalist -->
+  <card>
+    <name>Elemental Attunement</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Elementalist Relic — Enchantment</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>You can only control 1 Enchantment. (You can replace it by summoning a new Enchantment.)
+Casting Magic of the same type in succession reduces its Q cost by 1.</text>
+	</card>
+  
   <!-- Frayer -->
   <card>
     <name>Riftwalker</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSoldier.png">C1</set>
     <manacost>3Q</manacost>
     <type>Frayer Unit — Soldier</type>
-    <color>G</color>
+    <color>B</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
     <text>{Wormhole 1} 1Q</text>
@@ -129,24 +150,50 @@ Flavour Text</text>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderInsect.png">C1</set>
     <manacost>3Q</manacost>
     <type>Frayer Unit — Insect</type>
-    <color>G</color>
+    <color>B</color>
     <pt>2/3</pt>
     <tablerow>1</tablerow>
     <text>{Summon} Raze 3. You can activate those cards' {Wormhole} effects.</text>
+  </card>
+  <card>
+    <name>Chronomancer</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <manacost>4Q</manacost>
+    <type>Frayer Unit — Mage</type>
+    <color>B</color>
+    <pt>4/5</pt>
+    <tablerow>1</tablerow>
+    <text>{Wormhole 4} 1Q
+You can play this card from annihilate for its remaining {Wormhole} count as its Q cost.
+
+
+
+"A chronomancer is always late, early, and right on time."</text>
   </card>
   <card>
     <name>Frontier Probe</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderConstruct.png">C1</set>
     <manacost>5Q</manacost>
     <type>Frayer Unit — Construct</type>
-    <color>G</color>
+    <color>B</color>
     <pt>5/5</pt>
     <tablerow>1</tablerow>
-    <text>{Voidcast} 3Q
+    <text>{Annihilated} Draw a card.
+{Wormhole 1} 5Q
 
 
 
-"Alpha One to Bravo Squad. The fish has taken the bait. Repeat. The fish has taken the bait."</text>
+"The salvaged cargo contained an authentic pair of Baroque dress shoes, a box of cured dodo meat, and an antique pocket watch. Cursory analysis reveals that none of the items received were more than a year old."</text>
+  </card>
+  <card>
+    <name>Red Night's Watchman</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHuman.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Frayer Unit — Human</type>
+    <color>B</color>
+    <pt>6/6</pt>
+    <tablerow>1</tablerow>
+    <text>Friendly [Doom] effects cannot end.</text>
   </card>
   <card>
     <name>Bolt from Beyond</name>
@@ -178,7 +225,7 @@ Flavour Text</text>
 Take an extra turn after this one.</text>
   </card>
   <card>
-    <name>Astronauts' Watch</name>
+    <name>Astronauts' Pocket Watch</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>3Q</manacost>
     <type>Frayer Relic — Gadget</type>
