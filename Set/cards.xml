@@ -1879,7 +1879,7 @@ Training is never over.</text>
     <pt>2/3</pt>
     <color></color>
     <tablerow>1</tablerow>
-    <text>{Flash} Pay 3Q: Swap this card in your hand with a unit you control (anything that was targeting it is targeting this now).
+    <text>{Flash} 3Q - Swap this card in your hand with a friendly unit.
     
     
     
@@ -3707,7 +3707,7 @@ That unit cannot unexert.
     <color>R</color>
     <loyalty>30</loyalty>
     <tablerow>0</tablerow>
-    <text>{Flash} Exert and pay 2Q: Give a unit [Guard] or [Drain], then it gains the Construct type.
+    <text>{Flash} Exert and pay 2Q: Give a unit [Guard] or [Drain], then add Construct to its types.
 
 
 
