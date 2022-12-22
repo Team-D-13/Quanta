@@ -1,12 +1,60 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
   <cards>
+    
+	<card>
+    <name>Nestling</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit — Bird</type>
+    <color>G</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Snake</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBeast.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Nature Unit — Beast</type>
+    <color>G</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>[Toxic]</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Elemental</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">TK</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit — Elemental</type>
+    <color>U</color>
+    <pt>3/3</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Metal Facsimile</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>XQ</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>X/X</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
 	  
 	<card>
     <name>Drone</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
     <manacost>1Q</manacost>
-    <type>??? Unit — Construct</type>
+    <type>Science Unit — Construct</type>
     <color>R</color>
     <pt>1/1</pt>
     <tablerow>1</tablerow>
@@ -15,10 +63,35 @@
   </card>
 	  
 	<card>
+    <name>Option</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Science Unit — Construct</type>
+    <color>R</color>
+    <pt>3/2</pt>
+    <tablerow>1</tablerow>
+    <text>[Swift]</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Statue of an Ugly, Grinning Man</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/UglyStatue.png">TK</set>
+    <manacost>0Q</manacost>
+    <type>Outsider Unit — Animation</type>
+    <color>B</color>
+    <pt>1/1</pt>
+    <tablerow>1</tablerow>
+    <text>[Aura]
+When you summon a unit, take 1 damage.</text>
+    <token>1</token>
+  </card>
+	  
+	<card>
     <name>Spawn</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
     <manacost>1Q</manacost>
-    <type>??? Unit — Horror</type>
+    <type>Outsider Unit — Horror</type>
     <color>B</color>
     <pt>2/1</pt>
     <tablerow>1</tablerow>
@@ -30,11 +103,133 @@
     <name>Dire Spawn</name>
     <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
     <manacost>2Q</manacost>
-    <type>??? Unit — Horror</type>
+    <type>Outsider Unit — Horror</type>
     <color>B</color>
     <pt>3/2</pt>
     <tablerow>1</tablerow>
     <text></text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Black Guard</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderHorror.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Horror</type>
+    <color>B</color>
+    <pt>1/2</pt>
+    <tablerow>1</tablerow>
+    <text>[Guard]</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Shadow</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSpirit.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Outsider Unit — Spirit Demon</type>
+    <color>B</color>
+    <pt>X/X</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Fledgling Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>3Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>4/3</pt>
+    <tablerow>1</tablerow>
+    <text>{Echo} Transform this unit into a 6/5 Mature Scourge.</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Mature Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>5Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>6/5</pt>
+    <tablerow>1</tablerow>
+    <text>{Echo} Transform this unit into an 8/7 Ancient Scourge.</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Ancient Scourge</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderUndead.png">TK</set>
+    <manacost>7Q</manacost>
+    <type>Outsider Unit — Undead Bird</type>
+    <color>B</color>
+    <pt>8/7</pt>
+    <tablerow>1</tablerow>
+    <text></text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Salty the Hamster</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessBeast.png">TK</set>
+    <manacost>1Q</manacost>
+    <type>Mythical Neutral Unit — Beast</type>
+    <color>B</color>
+    <pt>2/1</pt>
+    <tablerow>1</tablerow>
+    <text>Exert and pay 1Q: Deal 2 damage.
+Exert and pay 2Q: Draw 2 cards, then discard a card.</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Boulder</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessAnimation.png">TK</set>
+    <manacost>2Q</manacost>
+    <type>Neutral Unit — Animation</type>
+    <color>B</color>
+    <pt>0/2</pt>
+    <tablerow>2</tablerow>
+    <text>[Guard], [Pacifist]</text>
+    <token>1</token>
+  </card>
+	  
+  <card>
+    <name>Scroll</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Arcane Relic</type>
+    <color>U</color>
+    <tablerow>0</tablerow>
+    <text>Sacrifice: Cast any attached supports.</text>
+    <token>1</token>
+  </card>
+
+<card>
+    <name>Husk</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
+    <manacost>XQ</manacost>
+    <type>X</type>
+    <color>X</color>
+    <tablerow>X</tablerow>
+    <text>Husk is a copy of its attached unit except for its name and effect. If Husk would be attached to a card, detach its unit first.
+Destroy this token at the end of your next turn.</text>
+    <token>1</token>
+  </card>
+
+<card>
+    <name>Cocoon</name>
+    <set picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">C1</set>
+    <manacost>0Q</manacost>
+    <type>Nature Science Unit - Insect</type>
+    <pt>0/8</pt>
+    <color>GR</color>
+    <tablerow>2</tablerow>
+    <text>[Pacifist]
+{Echo 2} Summon an attached unit, then attach this card to it.
+{Evolve} Gain +2/+2 and [Guard].
     <token>1</token>
   </card>
 
