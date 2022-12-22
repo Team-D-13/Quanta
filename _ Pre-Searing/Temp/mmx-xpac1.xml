@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+      <name>XPAC1</name>
+      <longname>Expansion 1</longname>
+      <settype>Expansion</settype>
+      <releasedate>20XX-XX-XX</releasedate>
+    </set>
+  </sets>
+  <cards>
+<!-- ###################################################################################################### -->
+  <!-- Core 1 [C1] -->
+	<!-- MMX -->
+
+  <!-- Nature -->     
+  <card>
+    <name>Exalted Seed</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureAnomaly.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Nature Unit — Anomaly</type>
+    <color>B</color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Shroud}
+{Summon} Place counters on this card equal to its attached cards.
+{Upkeep} Remove a counter: double this card's stats.
+{Death} Detach a card: this card survives with 1 life.
+
+
+
+A mortal creation, weak and pathetic. The pantheon screamed as they cast it away.</text>
+  </card>
+
+<card>
+    <name>Tiki Shaman</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Unit - Human Warlock</type>
+    <color></color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text> Exert: Apply this unit's stat changes to all units a player controls. (Non-stacking; reapplying refreshes the effect.)
+
+
+
+The three elders would gather around the stone head and sing in unison.</text>
+  </card>
+
+<card>
+    <name>Di Yen</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureAnomaly.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Nature Unit — Anomaly Spirit</type>
+    <color>G</color>
+    <pt>4/6</pt>
+    <tablerow>2</tablerow>
+    <text>{Kill} Gain "{Evolve} Gain X" where X is the killed unit's effect.
+
+
+
+Consul of the Weaver, chief of interal affairs.</text>
+  </card>
+  <!-- Arcane -->
+
+<card>
+    <name>Illusionist of Endless Mirrors</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Arcane Unit - Mage</type>
+    <color>B</color>
+    <pt>0/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon}/{Upkeep} Scry 1. If it's a unit, copy its stats and effects until your next upkeep.
+
+
+
+👁</text>
+  </card>
+
+  <!-- Science -->
+
+  <card>
+    <name>Protocol Formulator</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceConstruct.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Mythical Science Unit - Construct</type>
+    <color>B</color>
+    <pt>0/4</pt>
+    <tablerow>2</tablerow>
+    <text>Exert: Pay 1Q to unexert a relic.
+{Attack} Unexert a relic.
+
+
+
+The council strove to become as machines, disregarding how it would affect their minds.</text>
+  </card>
+
+  <card>
+    <name>Ironclad β</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ScienceConstruct.png">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Science Unit - Construct Titan</type>
+    <color>B</color>
+    <pt>12/12</pt>
+    <tablerow>2</tablerow>
+    <text>{Upkeep} Attack a card that isn't a Quanta Lord without exerting.
+Can attack any card on the field. When it does, destroy that card unless it's a Quanta Lord.
+{Flash} Sacrifice a friendly relic: Give this card {Shroud} or {Aura} for the turn.
+
+
+
+Unlike its predecesor, Beta was made to be a weapon.</text>
+  </card>
+	  
+  <card>
+    <name>Core of Convergence</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalScienceAscendant.png">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Science Unit - Ascendant Construct</type>
+    <color>B</color>
+    <pt>0/4</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon} Mark 4 friendly relics, gain [Shroud]/[Invulnerable] while any are on the field and +2/0 for each.
+Marked relics affect this unit despite [Shroud].
+[Exert] Deal this unit's strength as damage.
+
+
+
+"Have you heard the one about the machine buried in the moon?"</text>
+  </card>
+
+  <!-- Outsider -->
+  <card>
+    <name>Master of Lords</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit - Warlock</type>
+    <color>B</color>
+    <pt>2/2</pt>
+    <tablerow>2</tablerow>
+    <text>When an enemy Quanta Lord's effect is activated/triggered, gain +5/+5 and an ability.
+
+
+
+A middling creature, easily dispatched by its superiors. It thrives on their very overconfidence.</text>
+  </card>
+
+  <card>
+    <name>Kalamesian Pujari</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Outsider Unit - Warlock</type>
+    <color>B</color>
+    <pt>3/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: Purge a unit, then you can restore its original effects.
+
+
+
+The humble priest - a scholar of virtuous healing and brutal sacrifice.</text>
+  </card>                                                                                                                     
+
+  <!-- Nature Science -->
+  <card>
+    <name>Tiny Sickle</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>1/1</pt>
+    <tablerow>2</tablerow>
+    <text>If you summon this card by evolving, it gains [Toxic] and [Swift].
+{Evolve} Gain +2/+1.
+
+
+
+There is no lasting hierarchy among the Verol, only the moment's duty. Even the lowest of the low won't hesitate.</text>
+  </card>
+
+  <card>
+    <name>Seventh Son</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceInsect.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Nature Science Unit - Insect</type>
+    <color>GR</color>
+    <pt>4/5</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon} Attach 2 cards in your graveyard to this card.
+While attached, you can detach this card: Shuffle it into your deck.
+
+
+
+The flow of many bloodlines converges within this one.</text>
+  </card>
+
+ <card>
+    <name>Stringslinger</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>3/5</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert X friendly relics and this card: Stun that many cards.
+{Evolve} Gain "{Battle} The opposing unit gets -3/0."
+
+
+
+An arachnid soldier that specializes in tactics and capture.</text>
+  </card>
+
+ <card>
+    <name>Dancing Scythe</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Nature Science Unit - Insect Soldier</type>
+    <color>GR</color>
+    <pt>6/2</pt>
+    <tablerow>2</tablerow>
+    <text>{Battle} If this would kill, gain [Invulnerable].
+{Upkeep} Lose [Invulnerable].
+{Evolve} Gain +6/-2
+
+
+
+Leap, reap, repeat.</text>
+  </card>
+
+<card>
+    <name>Burrowing Devourer</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Science Unit - Insect</type>
+    <color>GR</color>
+    <pt>1/2</pt>
+    <tablerow>2</tablerow>
+    <text>When this card unexerts: You can destroy a unit.
+{Evolve} Gain [Swift].
+
+
+
+Many wide, far-reaching tunnels in Verol lands. Common occurence.</text>
+  </card>
+
+ <card>
+    <name>Symbiotic Orthrozanclus</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceInsect.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Nature Science Unit - Insect Fish</type>
+    <color>GR</color>
+    <pt>0/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Evolve} Base toughness becomes 10. Gain the following ability...
+"{Flash} Gain/Lose [Guard]."
+
+
+
+Some early Verol evolved to support their kin, persisting to this day.</text>
+  </card>
+
+  <card>
+    <name>𓍛𓀀𓅓𓅮𓄿𓆄𓅱𓇶𓉔𓅓𓉔𓏏𓏭𓆙</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceInsect">XPAC1</set>
+    <manacost>10Q</manacost>
+    <type>Mythical Nature Science Unit — Insect Horror</type>
+    <color>GR</color>
+    <pt>5/10</pt>
+    <tablerow>2</tablerow>
+    <text>[Shroud]
+{Flash} Exert a friendly card: Transfer its {Evolve} effects to another card.
+{Flash} Exert: Destroy all other unattached cards with {Evolve} effects.
+{Evolve} [Shroud].
+
+
+
+Chosen by the prisoner, a guard among traitors.</text>
+  </card>
+
+  <card>
+    <name>Offshoot</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
+    <manacost>2Q</manacost>
+    <type>Nature Science Support</type>
+    <color>GR</color>
+    <tablerow>3</tablerow>
+    <text>Copy a material attached to a friendly card.
+
+
+
+The species will likely cease to exist within the decade. It preserveres nonetheless.</text>
+  </card>
+
+<card>
+    <name>Architect's Legacy</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalNatureScienceRelic.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Nature Science Relic</type>
+    <color>GR</color>
+    <tablerow>0</tablerow>
+    <text>Exert a relic: Give a token the effect...
+"{Evolve} Gain +X/+X where X is the amount of relics you control."
+
+
+
+"You must be strong for when the others arrive. To become strong, you must evolve."</text>
+    <related>Drone</related>
+  </card>
+
+  <card>
+    <name>Artificial Chrysalis</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureScienceSupport.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Nature Science Support</type>
+    <color>GR</color>
+    <tablerow>3</tablerow>
+    <text>Create a Cocoon special token and attach a unit from your hand to it.
+
+
+
+Hastening natural evolution is neither easy nor inconsequential.</text>
+    <related>Cocoon</related>
+  </card>
+
+  <!-- Neutral -->    
+  <card>
+    <name>Zao, the Weaver</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlessHuman.png">XPAC1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Unit - Human Anomaly</type>
+    <color></color>
+    <pt>0/10</pt>
+    <tablerow>2</tablerow>
+    <text>Has [Shroud] while you have other units.
+When you summon a unit, give another unit +2/0 or 0/+2.
+
+
+
+He became the guiding hand of Kalamesh's east colony, and it has long since declared independance.</text>
+  </card>
+
+  <card>
+    <name>Oozing Captain</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>7Q</manacost>
+    <type>Neutral Unit - Pirate Horror</type>
+    <color></color>
+    <pt>8/4</pt>
+    <tablerow>2</tablerow>
+    <text>{Summon} Remove an ability from all enemy units, then you can give [Toxic] to a unit X times, where X is the amount of abilities you've removed.
+
+
+
+Sailed to the Searing Seas to find new life for himself. Found new life in himself.</text>
+  </card>
+
+  <card>
+    <name>Traitorous Tongue-Twister</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>1Q</manacost>
+    <type>Neutral Unit - Pirate Scum</type>
+    <color></color>
+    <pt>2/1</pt>
+    <tablerow>2</tablerow>
+    <text>{Flash} Exert: Deal 1 damage and return this card to your hand.
+
+
+
+"Let me tell you about the time I killed a Zalma bare-handed..."</text>
+  </card>
+
+<card>
+    <name>Sea-Serpent Slayer</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessPirate.png">XPAC1</set>
+    <manacost>4Q</manacost>
+    <type>Neutral Unit - Pirate Soldier</type>
+    <color></color>
+    <pt>2/3</pt>
+    <tablerow>2</tablerow>
+    <text>[Swift]
+{Battle} If the opposing unit is Mythical: Gain +6/0 and [Invulnerable] for the battle.
+{Kill} If the slain unit was Mythical: Draw a card from its controller's deck.
+
+
+
+"Let me tell you about the time I killed a Zalma bare-handed..."</text>
+  </card>```
+
+  <card>
+    <name>Tiki Warrior</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessWarlock.png">XPAC1</set>
+    <manacost>5Q</manacost>
+    <type>Neutral Unit - Human Warlock Soldier</type>
+    <color></color>
+    <pt>4/4</pt>
+    <tablerow>2</tablerow>
+    <text>{Battle}/{Death} Friendly units get +1/+1.
+If this unit has stat bonuses: {Battle} The opposing unit has -2/0.
+
+
+
+Today he donned the blood-red mask and howled the ancient spirits' cry. Today he only had one task, he'd go and dance until he'd die.</text>
+  </card>
+	  
+  <card>
+    <name>Lord Fang</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalFactionlesssSoldier.png">C1</set>
+    <manacost>6Q</manacost>
+    <type>Mythical Neutral Unit — Anomaly Soldier</type>
+    <color></color>
+    <pt>3/6</pt>
+    <tablerow>2</tablerow>
+    <text>Damage you inflict from [Pierce] is doubled.
+
+
+
+Any last words?</text>
+  </card>
+
+  <card>
+    <name>Omen of Omens</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/FactionlessSupport.png">XPAC1</set>
+    <manacost>3Q</manacost>
+    <type>Neutral Support</type>
+    <color></color>
+    <tablerow>3</tablerow>
+    <text>Scry 4. You can summon a unit from those cards, then shuffle it into the deck. 
+
+
+
+The Prophets' guild keeps inserting prophets into their prophecies...</text>
+  </card>
+
+<!-- ###################################################################################################### -->
+  </cards>
+</cockatrice_carddatabase>
