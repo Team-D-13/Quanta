@@ -131,10 +131,25 @@ Flavour Text</text>
     <color>U</color>
     <tablerow>0</tablerow>
     <text>You can only control 1 Enchantment. (You can replace it by summoning a new Enchantment.)
-Casting Magic of the same type in succession reduces its Q cost by 1.</text>
+When you would cast Magic, if it shares an element with the last Magic you cast this turn, reduce its Q cost by 1.</text>
 	</card>
   
   <!-- Frayer -->
+  <card>
+    <name>Frontier Probe</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderConstruct.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Frayer Unit — Construct</type>
+    <color>B</color>
+    <pt>2/3</pt>
+    <tablerow>1</tablerow>
+    <text>{Annihilated} Draw a card.
+{Wormhole 1} 2Q
+
+
+
+"The salvaged cargo contained an authentic pair of Baroque dress shoes, a box of cured dodo meat, and an antique pocket watch. Cursory analysis reveals that none of the items received were more than a year old."</text>
+  </card>
   <card>
     <name>Riftwalker</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSoldier.png">C1</set>
@@ -143,7 +158,7 @@ Casting Magic of the same type in succession reduces its Q cost by 1.</text>
     <color>B</color>
     <pt>4/3</pt>
     <tablerow>1</tablerow>
-    <text>{Wormhole 1} 1Q</text>
+    <text>{Wormhole 1} 2Q</text>
   </card>
   <card>
     <name>Starworm</name>
@@ -157,7 +172,7 @@ Casting Magic of the same type in succession reduces its Q cost by 1.</text>
   </card>
   <card>
     <name>Chronomancer</name>
-    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <manacost>4Q</manacost>
     <type>Frayer Unit — Mage</type>
     <color>B</color>
@@ -171,19 +186,15 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
 "A chronomancer is always late, early, and right on time."</text>
   </card>
   <card>
-    <name>Frontier Probe</name>
-    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderConstruct.png">C1</set>
+    <name>Celestial Siren</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderBird.png">C1</set>
     <manacost>5Q</manacost>
-    <type>Frayer Unit — Construct</type>
+    <type>Frayer Unit — Bird Human</type>
     <color>B</color>
-    <pt>5/5</pt>
+    <pt>3/5</pt>
     <tablerow>1</tablerow>
-    <text>{Annihilated} Draw a card.
-{Wormhole 1} 5Q
-
-
-
-"The salvaged cargo contained an authentic pair of Baroque dress shoes, a box of cured dodo meat, and an antique pocket watch. Cursory analysis reveals that none of the items received were more than a year old."</text>
+    <text>{Summon} Raze 2.
+{Upkeep} Add one of those cards to your hand.</text>
   </card>
   <card>
     <name>Red Night's Watchman</name>
@@ -196,13 +207,42 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
     <text>Friendly [Doom] effects cannot end.</text>
   </card>
   <card>
-    <name>Bolt from Beyond</name>
+    <name>Cosmic Colossus</name>
+    <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTitan.png">C1</set>
+    <manacost>10Q</manacost>
+    <type>Frayer Unit — Titan</type>
+    <color>B</color>
+    <pt>10/10</pt>
+    <tablerow>1</tablerow>
+    <text>{Wormhole 15} Reduce by 1 for each card in your void.</text>
+  </card>
+  <card>
+    <name>Dimension Fracture</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
     <type>Frayer Skill — Space Magic</type>
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Deal 1 damage to a unit for each card in your void.</text>
+  </card>
+  <card>
+    <name>Flicker</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>1Q</manacost>
+    <type>Frayer Skill — Time Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Annihilate a card for this turn.</text>
+  </card>
+  <card>
+    <name>Divination</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>2Q</manacost>
+    <type>Frayer Skill — Time Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Draw a card.
+{Echo} Draw a card.</text>
   </card>
   <card>
     <name>Supernova</name>
