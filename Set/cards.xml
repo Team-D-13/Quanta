@@ -20,7 +20,6 @@
     <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NatureBird.png">C1</set>
     <type>Class</type>
     <color>G</color>
-    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text>Effect
 
@@ -76,12 +75,12 @@ Flavour Text</text>
 Flavour Text</text>
   </card>
   
-  Relic
+  Passive
   <card>
-    <name>Relic</name>
+    <name>Passive</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/NaturePassive.png">C1</set>
     <manacost>XQ</manacost>
-    <type>Class Relic</type>
+    <type>Class Passive — Relic</type>
     <color>G</color>
     <tablerow>0</tablerow>
     <text>Effect
@@ -98,16 +97,14 @@ Flavour Text</text>
     <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneHuman.png">C1</set>
     <type>Class</type>
     <color>U</color>
-    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text></text>
   </card>
   <card>
-    <name>Elementalist</name>
-    <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneMage.png">C1</set>
+    <name>Diva</name>
+    <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcaneElemental.png">C1</set>
     <type>Class</type>
     <color>U</color>
-    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text></text>
   </card>
@@ -116,22 +113,35 @@ Flavour Text</text>
     <set rarity="Class" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderWarlock.png">C1</set>
     <type>Class</type>
     <color>B</color>
-    <loyalty>30</loyalty>
     <tablerow>0</tablerow>
     <text></text>
   </card>
   
 	<!-- Flan -->
-  <!-- Elementalist -->
+  <!-- Diva -->
   <card>
-    <name>Elemental Attunement</name>
+    <name>Tempest</name>
+    <set rarity="Mythical" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/MythicalArcaneSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Mythical Diva Skill — Water Wind Magic</type>
+    <color>U</color>
+    <tablerow>3</tablerow>
+    <text>Return all damaged enemy Units to the hand.
+[Crescendo] Destroy them instead.
+
+
+
+"With a single breath, she summoned forth the wind and rain. The drought was no more, but neither were we."</text>
+  </card>
+  <card>
+    <name>Chorus of Attunement</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/ArcanePassive.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Elementalist Relic — Enchantment</type>
+    <type>Diva Passive — Song</type>
     <color>U</color>
     <tablerow>0</tablerow>
-    <text>You can only control 1 Enchantment. (You can replace it by summoning a new Enchantment.)
-When you would cast Magic, if it shares an element with the last Magic you cast this turn, reduce its Q cost by 1.</text>
+    <text>You can only control 1 Song. (You can replace it by summoning a new Song.)
+When you would play Magic, it costs 1Q less if it shares an element with the last Magic you cast this turn.</text>
 	</card>
   
   <!-- Frayer -->
@@ -229,10 +239,10 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
     <name>Flicker</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>1Q</manacost>
-    <type>Frayer Skill — Time Magic</type>
+    <type>Frayer Flash Skill — Time Magic</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Annihilate a card for this turn.</text>
+    <text>Annihilate a card until the end of this turn.</text>
   </card>
   <card>
     <name>Divination</name>
@@ -245,6 +255,28 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
 {Echo} Draw a card.</text>
   </card>
   <card>
+    <name>Condemn</name>
+    <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>3Q</manacost>
+    <type>Frayer Skill — Time Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text>Give a card [Doom 1].
+
+
+
+"You've met with a terrible fate, haven't you?"</text>
+  </card>
+  <card>
+    <name>W.I.P.</name>
+    <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
+    <manacost>5Q</manacost>
+    <type>Frayer Skill — Space Magic</type>
+    <color>B</color>
+    <tablerow>3</tablerow>
+    <text></text>
+  </card>
+  <card>
     <name>Supernova</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
     <manacost>8Q</manacost>
@@ -252,7 +284,7 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Destroy all units.
-{Wormhole 3} 4Q</text>
+{Wormhole 2} 4Q</text>
   </card>
   <card>
     <name>Chronological Collapse</name>
@@ -268,7 +300,7 @@ Take an extra turn after this one.</text>
     <name>Astronauts' Pocket Watch</name>
     <set rarity="Rare" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderPassive.png">C1</set>
     <manacost>3Q</manacost>
-    <type>Frayer Relic — Gadget</type>
+    <type>Frayer Passive — Relic</type>
     <color>B</color>
     <tablerow>0</tablerow>
     <text>[Doom 3]

@@ -62,30 +62,24 @@ Outsider has powerful graveyard manipulation and even uses the void. It has toke
 
 [Pacifist]          - Cannot attack.
 
-[Doom X]			- Sends itself to the Graveyard at the end of your Xth upkeep after entering play/gaining this status (after your {Upkeep} effects). If a card is given Doom X when it's already Doomed, add X to its remaining Doom count.
-
-[Harmonize] 		- Activates if the last Magic you cast this turn doesn't share an element with this Magic.
-
-[Crescendo] 		- Activates if the last Magic you cast this turn shares an element with this Magic.
-
 ## Quanta Callbacks...
 
-{Summon}			- Activated when the card enters play.
+{Summon}:    Activated when the card enters play.
 
-{Death}				- Activated when the card is sent to the graveyard from the field.
+{Death}:     Activated when the card is sent to the graveyard from the field.
 
-{Damaged}			- Activated when the card takes damage.
+{Damaged}:   Activated when the card takes damage.
 
-{Attack}			- Activated when the card attacks.
+{Attack}:    Activated when the card attacks.
 
-{Defend}			- Activated when the card is attacked.
+{Defend}:    Activated when the card is attacked.
 
-{Battle}			- Activated when the card attacks or is attacked.
+{Battle}:    Activated when the card attacks or is attacked.
 
-{Upkeep}			- Activated at the start of your turn, with the same timing as your draw and quanta gain.
+{Upkeep}:    Activated at the start of your turn, with the same timing as your draw and quanta gain.
 
-{Echo}				- Activated at the start of your next turn.
+{Echo}:      Activated at the start of your next turn.
 
-{Kill}				- Activated when the card destroys a unit through battle or its effect/s.
+{Kill}:      Activated when the card destroys a unit through battle or its effect/s.
 
-Exert:       Effects with this callback... exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [Swift] cannot exert on the turn they are played.
+Exert:       Effects with this callback...exert the card. Cards un-exert at the start of your turn. It is wise to remember that attacking also exerts, and that units without [Swift] cannot exert on the turn they are played.
