@@ -201,10 +201,9 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
     <manacost>5Q</manacost>
     <type>Frayer Unit — Bird Human</type>
     <color>B</color>
-    <pt>3/5</pt>
+    <pt>2/5</pt>
     <tablerow>1</tablerow>
-    <text>{Summon} Raze 2.
-{Upkeep} Add one of those cards to your hand.</text>
+    <text>{Summon} Raze 3. You can summon a Unit that costs 3Q or less from among them.</text>
   </card>
   <card>
     <name>Red Night's Watchman</name>
@@ -219,12 +218,12 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
   <card>
     <name>Cosmic Colossus</name>
     <set rarity="Epic" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderTitan.png">C1</set>
-    <manacost>10Q</manacost>
+    <manacost>20Q</manacost>
     <type>Frayer Unit — Titan</type>
     <color>B</color>
     <pt>10/10</pt>
     <tablerow>1</tablerow>
-    <text>{Wormhole 15} Reduce by 1 for each card in your void.</text>
+    <text>Costs 1Q less for each card in your void.</text>
   </card>
   <card>
     <name>Dimension Fracture</name>
@@ -247,12 +246,11 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
   <card>
     <name>Divination</name>
     <set rarity="Common" picURL="https://raw.githubusercontent.com/Team-D-13/Quanta/main/Art/Cards/OutsiderSupport.png">C1</set>
-    <manacost>2Q</manacost>
+    <manacost>3Q</manacost>
     <type>Frayer Skill — Time Magic</type>
     <color>B</color>
     <tablerow>3</tablerow>
-    <text>Draw a card.
-{Echo} Draw a card.</text>
+    <text>Raze 3. Add one of those cards to your hand.</text>
   </card>
   <card>
     <name>Condemn</name>
@@ -294,7 +292,11 @@ You can play this card from annihilate for its remaining {Wormhole} count as its
     <color>B</color>
     <tablerow>3</tablerow>
     <text>Costs 1Q less for each card in your void.
-Take an extra turn after this one.</text>
+Take an extra turn after this one.
+
+
+
+When anomalies in spacetime accumulate and reach a critical mass, the timeline starts to destabilise.</text>
   </card>
   <card>
     <name>Astronauts' Pocket Watch</name>
